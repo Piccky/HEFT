@@ -1,0 +1,2 @@
+from examples.XMLParser import
+from examples.CriticalPath import
