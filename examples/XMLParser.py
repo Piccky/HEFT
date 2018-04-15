@@ -28,7 +28,7 @@ except ImportError:
 #     sorted(result.keys())
 #     return result
 
-tree = ET.parse("Montage_25.xml")  # <class 'xml.etree.ElementTree.ElementTree'>
+tree = ET.parse("Montage_100.xml")  # <class 'xml.etree.ElementTree.ElementTree'>
 root = tree.getroot()           # 获取根节点 <Element 'data' at 0x02BF6A80>
 # print(root.tag, ":", root.attrib)  # 打印根元素的tag和属性
 # 遍历xml文档的第二层
@@ -140,5 +140,7 @@ def commcost(ni, nj, A, B):
 orders, jobson = schedule(dag, 'abcd', compcost, commcost)
 for eachP in sorted(orders):
     print(eachP, orders[eachP])
+# print(orders['a'][0][0],orders['a'][0][1],orders['a'][0][2])
 # print(jobson)
-    print (orders[eachP][0][1])
+def getorders():
+    return orders

@@ -29,12 +29,10 @@ from heft.util import reverse_dict
 from itertools import chain
 
 Event = namedtuple('Event', 'job start end')
-#Delete agent
+
 def wbar(ni, agents, compcost):
     """ Average computation cost """
-    return sum(compcost(ni, agent)for agent in agents) / len(agents)
-# def wbar(ni,compcost):
-#     return float(compcost(ni))
+    return sum(compcost(ni, agent) for agent in agents) / len(agents)
 
 def cbar(ni, nj, agents, commcost):
     """ Average communication cost """
@@ -42,8 +40,9 @@ def cbar(ni, nj, agents, commcost):
     if n == 1:
         return 0
     npairs = n * (n-1)
-    return sum(commcost(ni, nj, a1, a2) for a1 in agents for a2 in agents if a1 != a2) / npairs
-#1. *
+    return 1. * sum(commcost(ni, nj, a1, a2) for a1 in agents for a2 in agents
+                                        if a1 != a2) / npairs
+
 def ranku(ni, agents, succ,  compcost, commcost):
     """ Rank of job
 
@@ -55,7 +54,6 @@ def ranku(ni, agents, succ,  compcost, commcost):
     rank = partial(ranku, compcost=compcost, commcost=commcost,
                            succ=succ, agents=agents)
     w = partial(wbar, compcost=compcost, agents=agents)
-    # w = partial(wbar, compcost=compcost)
     c = partial(cbar, agents=agents, commcost=commcost)
 
     if ni in succ and succ[ni]:
@@ -96,9 +94,10 @@ def start_time(job, orders, jobson, prec, commcost, compcost, agent):
     """ Earliest time that job can be executed on agent """
 
     duration = compcost(job, agent)
-    # duration = compcost(job)
+
     if job in prec:
-        comm_ready = max([endtime(p, orders[jobson[p]]) + commcost(p, job, agent, jobson[p]) for p in prec[job]])
+        comm_ready = max([endtime(p, orders[jobson[p]])
+                       + commcost(p, job, agent, jobson[p]) for p in prec[job]])
     else:
         comm_ready = 0
 
@@ -111,7 +110,7 @@ def allocate(job, orders, jobson, prec, compcost, commcost):
     """
     st = partial(start_time, job, orders, jobson, prec, commcost, compcost)
     ft = lambda machine: st(machine) + compcost(job, machine)
-    # ft = lambda machine: st(machine) + float(compcost(job))
+
     agent = min(orders.keys(), key=ft)
     start = st(agent)
     end = ft(agent)
