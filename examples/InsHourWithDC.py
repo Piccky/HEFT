@@ -1,5 +1,7 @@
-from examples.XMLParser import getorders
+from examples.XMLParser import getorders, getdict, commcost
 import networkx as nx
+# from examples.my_scheduler import getorders, getdag, commcost
+from heft.util import reverse_dict
 import matplotlib.pyplot as plt
 import math
 # Unresolved import:nx
@@ -37,7 +39,7 @@ felist = []
 gjlist = []
 gslist = []
 gelist = []
-
+result = {}
 
 for eachP in orders:
 #     # print(eachP, orders[eachP])
@@ -84,6 +86,24 @@ for eachP in orders:
             gjlist.append(orders[eachP][orders[eachP].index(i)][0])
             gslist.append(orders[eachP][orders[eachP].index(i)][1])
             gelist.append(orders[eachP][orders[eachP].index(i)][2])
+for i in range(0,len(ajlist),1):
+    result.update({ajlist[i]:{'vm':'a','pos':i,'starttime':aslist[i],'endtime':aelist[i]}})
+for i in range(0,len(bjlist),1):
+    result.update({bjlist[i]:{'vm':'b','pos':i,'starttime':bslist[i],'endtime':belist[i]}})
+for i in range(0,len(cjlist),1):
+    result.update({cjlist[i]:{'vm':'c','pos':i,'starttime':cslist[i],'endtime':celist[i]}})
+if len(djlist) != 0:
+    for i in range(0,len(djlist),1):
+        result.update({djlist[i]:{'vm':'d','pos':i,'starttime':dslist[i],'endtime':delist[i]}})
+if len(ejlist) != 0:
+    for i in range(0,len(ejlist),1):
+        result.update({ejlist[i]:{'vm':'e','pos':i,'starttime':eslist[i],'endtime':eelist[i]}})
+if len(fjlist) != 0:
+    for i in range(0,len(fjlist),1):
+        result.update({fjlist[i]:{'vm':'f','pos':i,'starttime':fslist[i],'endtime':felist[i]}})
+if len(gjlist) != 0:
+    for i in range(0,len(gjlist),1):
+        result.update({gjlist[i]:{'vm':'g','pos':i,'starttime':gslist[i],'endtime':gelist[i]}})
 print(ajlist, '\n', aslist, '\n', aelist)
 print(bjlist, '\n', bslist, '\n', belist)
 print(cjlist, '\n', cslist, '\n', celist)
@@ -91,7 +111,177 @@ print(djlist, '\n', dslist, '\n', delist)
 print(ejlist, '\n', eslist, '\n', eelist)
 print(fjlist, '\n', fslist, '\n', felist)
 print(gjlist, '\n', gslist, '\n', gelist)
+# print(result)
 
+"""Add commcost(without waitcost) into the schedule result"""
+
+dag = getdict()
+reverse_dag = reverse_dict(dag)
+
+for i in range(1, len(ajlist), 1):
+    if ajlist[i] in dag:
+        temp = aslist[i]
+        for j in range(0, len(dag[ajlist[i]]), 1):
+            if aslist[i]-commcost(dag[ajlist[i]][j], ajlist[i],result[dag[ajlist[i]][j]]['vm'],result[ajlist[i]]['vm']) < temp:
+                temp = aslist[i]-commcost(dag[ajlist[i]][j], ajlist[i],result[dag[ajlist[i]][j]]['vm'],result[ajlist[i]]['vm'])
+        if temp < aelist[i-1]:
+            temp = aelist[i-1]
+        aslist[i] = temp
+for i in range(1, len(bjlist), 1):
+    if bjlist[i] in dag:
+        temp = bslist[i]
+        for j in range(0, len(dag[bjlist[i]]), 1):
+            if bslist[i] - commcost(dag[bjlist[i]][j], bjlist[i], result[dag[bjlist[i]][j]]['vm'],
+                                    result[bjlist[i]]['vm']) < temp:
+                temp = bslist[i] - commcost(dag[bjlist[i]][j], bjlist[i], result[dag[bjlist[i]][j]]['vm'],
+                                            result[bjlist[i]]['vm'])
+        if temp < belist[i - 1]:
+            temp = belist[i - 1]
+        bslist[i] = temp
+for i in range(1, len(cjlist), 1):
+    if cjlist[i] in dag:
+        temp = cslist[i]
+        for j in range(0, len(dag[cjlist[i]]), 1):
+            if cslist[i] - commcost(dag[cjlist[i]][j], cjlist[i], result[dag[cjlist[i]][j]]['vm'],
+                                    result[cjlist[i]]['vm']) < temp:
+                temp = cslist[i] - commcost(dag[cjlist[i]][j], cjlist[i], result[dag[cjlist[i]][j]]['vm'],
+                                            result[cjlist[i]]['vm'])
+        if temp < celist[i - 1]:
+            temp = celist[i - 1]
+        cslist[i] = temp
+for i in range(1, len(djlist), 1):
+    if len(djlist) != 0 and djlist[i] in dag:
+        temp = dslist[i]
+        for j in range(0, len(dag[djlist[i]]), 1):
+            if dslist[i] - commcost(dag[djlist[i]][j], djlist[i], result[dag[djlist[i]][j]]['vm'],
+                                    result[djlist[i]]['vm']) < temp:
+                temp = dslist[i] - commcost(dag[djlist[i]][j], djlist[i], result[dag[djlist[i]][j]]['vm'],
+                                            result[djlist[i]]['vm'])
+        if temp < delist[i - 1]:
+            temp = delist[i - 1]
+        dslist[i] = temp
+for i in range(1, len(ejlist), 1):
+    if len(ejlist) != 0 and ejlist[i] in dag:
+        temp = eslist[i]
+        for j in range(0, len(dag[ejlist[i]]), 1):
+            if eslist[i] - commcost(dag[ejlist[i]][j], ejlist[i], result[dag[ejlist[i]][j]]['vm'],
+                                    result[ejlist[i]]['vm']) < temp:
+                temp = eslist[i] - commcost(dag[ejlist[i]][j], ejlist[i], result[dag[ejlist[i]][j]]['vm'],
+                                            result[ejlist[i]]['vm'])
+        if temp < eelist[i - 1]:
+            temp = eelist[i - 1]
+        eslist[i] = temp
+for i in range(1, len(fjlist), 1):
+    if len(fjlist) != 0 and fjlist[i] in dag:
+        temp = fslist[i]
+        for j in range(0, len(dag[fjlist[i]]), 1):
+            if fslist[i] - commcost(dag[fjlist[i]][j], fjlist[i], result[dag[fjlist[i]][j]]['vm'],
+                                    result[fjlist[i]]['vm']) < temp:
+                temp = fslist[i] - commcost(dag[fjlist[i]][j], fjlist[i], result[dag[fjlist[i]][j]]['vm'],
+                                            result[fjlist[i]]['vm'])
+        if temp < felist[i - 1]:
+            temp = felist[i - 1]
+        fslist[i] = temp
+for i in range(1, len(gjlist), 1):
+    if len(gjlist) != 0 and gjlist[i] in dag:
+        temp = gslist[i]
+        for j in range(0, len(dag[gjlist[i]]), 1):
+            if gslist[i] - commcost(dag[gjlist[i]][j], gjlist[i], result[dag[gjlist[i]][j]]['vm'],
+                                    result[gjlist[i]]['vm']) < temp:
+                temp = gslist[i] - commcost(dag[gjlist[i]][j], gjlist[i], result[dag[gjlist[i]][j]]['vm'],
+                                            result[gjlist[i]]['vm'])
+        if temp < gelist[i - 1]:
+            temp = gelist[i - 1]
+        gslist[i] = temp
+
+"""Add communication cost to the schedule"""
+
+for i in range(0, len(ajlist)-1, 1):
+    if ajlist[i] in reverse_dag:
+        temp = aelist[i]
+        for j in range(0, len(reverse_dag[ajlist[i]]), 1):
+            if temp < (aelist[i] + commcost(ajlist[i], reverse_dag[ajlist[i]][j]
+                                        , result[ajlist[i]]['vm'], result[reverse_dag[ajlist[i]][j]]['vm'])):
+                temp = aelist[i] + commcost(ajlist[i], reverse_dag[ajlist[i]][j]
+                                        , result[ajlist[i]]['vm'], result[reverse_dag[ajlist[i]][j]]['vm'])
+                aelist[i] = temp
+        if temp > aslist[i+1]:
+            aelist[i] = aslist[i+1]
+for i in range(0, len(bjlist)-1, 1):
+    if bjlist[i] in reverse_dag:
+        temp = belist[i]
+        for j in range(0, len(reverse_dag[bjlist[i]]), 1):
+            if temp < (belist[i] + commcost(bjlist[i], reverse_dag[bjlist[i]][j]
+                                        , result[bjlist[i]]['vm'], result[reverse_dag[bjlist[i]][j]]['vm'])):
+                temp = belist[i] + commcost(bjlist[i], reverse_dag[bjlist[i]][j]
+                                        , result[bjlist[i]]['vm'], result[reverse_dag[bjlist[i]][j]]['vm'])
+                belist[i] = temp
+        if temp > bslist[i+1]:
+            belist[i] = bslist[i+1]
+for i in range(0, len(cjlist)-1, 1):
+    if cjlist[i] in reverse_dag:
+        temp = celist[i]
+        for j in range(0, len(reverse_dag[cjlist[i]]), 1):
+            if temp < (celist[i] + commcost(cjlist[i], reverse_dag[cjlist[i]][j]
+                                        , result[cjlist[i]]['vm'], result[reverse_dag[cjlist[i]][j]]['vm'])):
+                temp = celist[i] + commcost(cjlist[i], reverse_dag[cjlist[i]][j]
+                                        , result[cjlist[i]]['vm'], result[reverse_dag[cjlist[i]][j]]['vm'])
+                celist[i] = temp
+        if temp > cslist[i+1]:
+            celist[i] = cslist[i+1]
+for i in range(0, len(djlist)-1, 1):
+    if djlist[i] in reverse_dag:
+        temp = delist[i]
+        for j in range(0, len(reverse_dag[djlist[i]]), 1):
+            if temp < (delist[i] + commcost(djlist[i], reverse_dag[djlist[i]][j]
+                                        , result[djlist[i]]['vm'], result[reverse_dag[djlist[i]][j]]['vm'])):
+                temp = delist[i] + commcost(djlist[i], reverse_dag[djlist[i]][j]
+                                        , result[djlist[i]]['vm'], result[reverse_dag[djlist[i]][j]]['vm'])
+                delist[i] = temp
+        if temp > dslist[i+1]:
+            delist[i] = dslist[i+1]
+for i in range(0, len(ejlist)-1, 1):
+    if ejlist[i] in reverse_dag:
+        temp = eelist[i]
+        for j in range(0, len(reverse_dag[ejlist[i]]), 1):
+            if temp < (eelist[i] + commcost(ejlist[i], reverse_dag[ejlist[i]][j]
+                                        , result[ejlist[i]]['vm'], result[reverse_dag[ejlist[i]][j]]['vm'])):
+                temp = eelist[i] + commcost(ejlist[i], reverse_dag[ejlist[i]][j]
+                                        , result[ejlist[i]]['vm'], result[reverse_dag[ejlist[i]][j]]['vm'])
+                eelist[i] = temp
+        if temp > eslist[i+1]:
+            eelist[i] = eslist[i+1]
+for i in range(0, len(fjlist)-1, 1):
+    if fjlist[i] in reverse_dag:
+        temp = felist[i]
+        for j in range(0, len(reverse_dag[fjlist[i]]), 1):
+            if temp < (felist[i] + commcost(fjlist[i], reverse_dag[fjlist[i]][j]
+                                        , result[fjlist[i]]['vm'], result[reverse_dag[fjlist[i]][j]]['vm'])):
+                temp = felist[i] + commcost(fjlist[i], reverse_dag[fjlist[i]][j]
+                                        , result[fjlist[i]]['vm'], result[reverse_dag[fjlist[i]][j]]['vm'])
+                felist[i] = temp
+        if temp > fslist[i+1]:
+            felist[i] = fslist[i+1]
+for i in range(0, len(gjlist)-1, 1):
+    if gjlist[i] in reverse_dag:
+        temp = gelist[i]
+        for j in range(0, len(reverse_dag[gjlist[i]]), 1):
+            if temp < (gelist[i] + commcost(gjlist[i], reverse_dag[gjlist[i]][j]
+                                        , result[gjlist[i]]['vm'], result[reverse_dag[gjlist[i]][j]]['vm'])):
+                temp = gelist[i] + commcost(gjlist[i], reverse_dag[gjlist[i]][j]
+                                        , result[gjlist[i]]['vm'], result[reverse_dag[gjlist[i]][j]]['vm'])
+                gelist[i] = temp
+        if temp > gslist[i+1]:
+            gelist[i] = gslist[i+1]
+
+
+print(ajlist, '\n', aslist, '\n', aelist)
+print(bjlist, '\n', bslist, '\n', belist)
+print(cjlist, '\n', cslist, '\n', celist)
+print(djlist, '\n', dslist, '\n', delist)
+print(ejlist, '\n', eslist, '\n', eelist)
+print(fjlist, '\n', fslist, '\n', felist)
+print(gjlist, '\n', gslist, '\n', gelist)
 """Build a new DAG for computing InstanceHour"""
 """Set nodes aG"""
 # //0-45  75-115  123-188  250-285  290-330  335-370

@@ -82,7 +82,7 @@ for child in root:
 dag = reverse_dict(dict)
 # print(jobs)
 # print(jobs_tup)
-
+# print(dict.keys()[0])
 
 def getdag():
     return dag
@@ -92,13 +92,15 @@ def getjobs_tup():
     return jobs_tup
 
 
-def compcost(job,agent):
+def getdict():
+    return dict
+def compcost(job, agent):
     if agent != None:
         for i in jobs_tup:
             # job={}
             #    job=eval('jobs_tup[i]')
             if(i['id'] == job):
-                time=round(float(i['runtime']),2)
+                time = round(float(i['runtime']), 2)
                 return time
 # print (compcost('ID00000'))
 # print(jobs_tup[0])
@@ -116,14 +118,18 @@ def commcost(ni, nj, A, B):
     else:
         size = 0
         for i in jobs_tup:
-            if i['id'] == ni:
+            if i['id'] != ni:
+                continue
+            else:
                 idict = {}
                 for m in i['uses']:
                     if m['link'] == 'output':
                         idict.update({m['file']: m['size']})
                 jdict = {}
                 for j in jobs_tup:
-                    if j['id'] == nj:
+                    if j['id'] != nj:
+                        continue
+                    else:
                         for n in j['uses']:
                             if n['link'] == 'input':
                                 jdict.update({n['file']: n['size']})
@@ -131,13 +137,14 @@ def commcost(ni, nj, A, B):
                     for p in jdict:
                         if k == p:
                             size += int(jdict[p])
-        time = round(float(size/1024000), 2)
+        time = float(size/10240)
         return time
-
+# print(commcost('ID00000','ID00005','A','B'))
         # link = "output" size="4167312" file="region.hdr
 
 
-orders, jobson = schedule(dag, 'abcd', compcost, commcost)
+orders, jobson = schedule(dag, 'abcdef', compcost, commcost)
+"""print orders"""
 for eachP in sorted(orders):
     print(eachP, orders[eachP])
 # print(orders['a'][0][0],orders['a'][0][1],orders['a'][0][2])

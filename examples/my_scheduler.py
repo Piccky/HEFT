@@ -1,7 +1,7 @@
 from heft.core import (wbar, cbar, ranku, schedule, Event, start_time,
         makespan, endtime, insert_recvs, insert_sends, insert_sendrecvs, recvs,
         sends)
-
+from heft.util import reverse_dict
 """
 This is a simple script to use the HEFT function provided based on the example given in the original HEFT paper.
 You have to define the DAG, compcost function and commcost funtion.
@@ -152,3 +152,7 @@ orders, jobson = schedule(dag, 'abc', compcost, commcost)
 for eachP in sorted(orders):
     print(eachP,orders[eachP])
 print(jobson)
+def getorders():
+    return orders
+def getdag():
+    return reverse_dict(dag)
