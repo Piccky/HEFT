@@ -113,166 +113,169 @@ print(fjlist, '\n', fslist, '\n', felist)
 print(gjlist, '\n', gslist, '\n', gelist)
 # print(result)
 
-"""Add commcost(without waitcost) into the schedule result"""
 
+"""Add communication cost to the schedule"""
 dag = getdict()
 reverse_dag = reverse_dict(dag)
 
-for i in range(1, len(ajlist), 1):
-    if ajlist[i] in dag:
-        temp = aslist[i]
-        for j in range(0, len(dag[ajlist[i]]), 1):
-            if aslist[i]-commcost(dag[ajlist[i]][j], ajlist[i],result[dag[ajlist[i]][j]]['vm'],result[ajlist[i]]['vm']) < temp:
-                temp = aslist[i]-commcost(dag[ajlist[i]][j], ajlist[i],result[dag[ajlist[i]][j]]['vm'],result[ajlist[i]]['vm'])
-        if temp < aelist[i-1]:
-            temp = aelist[i-1]
-        aslist[i] = temp
-for i in range(1, len(bjlist), 1):
-    if bjlist[i] in dag:
-        temp = bslist[i]
-        for j in range(0, len(dag[bjlist[i]]), 1):
-            if bslist[i] - commcost(dag[bjlist[i]][j], bjlist[i], result[dag[bjlist[i]][j]]['vm'],
-                                    result[bjlist[i]]['vm']) < temp:
-                temp = bslist[i] - commcost(dag[bjlist[i]][j], bjlist[i], result[dag[bjlist[i]][j]]['vm'],
-                                            result[bjlist[i]]['vm'])
-        if temp < belist[i - 1]:
-            temp = belist[i - 1]
-        bslist[i] = temp
-for i in range(1, len(cjlist), 1):
-    if cjlist[i] in dag:
-        temp = cslist[i]
-        for j in range(0, len(dag[cjlist[i]]), 1):
-            if cslist[i] - commcost(dag[cjlist[i]][j], cjlist[i], result[dag[cjlist[i]][j]]['vm'],
-                                    result[cjlist[i]]['vm']) < temp:
-                temp = cslist[i] - commcost(dag[cjlist[i]][j], cjlist[i], result[dag[cjlist[i]][j]]['vm'],
-                                            result[cjlist[i]]['vm'])
-        if temp < celist[i - 1]:
-            temp = celist[i - 1]
-        cslist[i] = temp
-for i in range(1, len(djlist), 1):
-    if len(djlist) != 0 and djlist[i] in dag:
-        temp = dslist[i]
-        for j in range(0, len(dag[djlist[i]]), 1):
-            if dslist[i] - commcost(dag[djlist[i]][j], djlist[i], result[dag[djlist[i]][j]]['vm'],
-                                    result[djlist[i]]['vm']) < temp:
-                temp = dslist[i] - commcost(dag[djlist[i]][j], djlist[i], result[dag[djlist[i]][j]]['vm'],
-                                            result[djlist[i]]['vm'])
-        if temp < delist[i - 1]:
-            temp = delist[i - 1]
-        dslist[i] = temp
-for i in range(1, len(ejlist), 1):
-    if len(ejlist) != 0 and ejlist[i] in dag:
-        temp = eslist[i]
-        for j in range(0, len(dag[ejlist[i]]), 1):
-            if eslist[i] - commcost(dag[ejlist[i]][j], ejlist[i], result[dag[ejlist[i]][j]]['vm'],
-                                    result[ejlist[i]]['vm']) < temp:
-                temp = eslist[i] - commcost(dag[ejlist[i]][j], ejlist[i], result[dag[ejlist[i]][j]]['vm'],
-                                            result[ejlist[i]]['vm'])
-        if temp < eelist[i - 1]:
-            temp = eelist[i - 1]
-        eslist[i] = temp
-for i in range(1, len(fjlist), 1):
-    if len(fjlist) != 0 and fjlist[i] in dag:
-        temp = fslist[i]
-        for j in range(0, len(dag[fjlist[i]]), 1):
-            if fslist[i] - commcost(dag[fjlist[i]][j], fjlist[i], result[dag[fjlist[i]][j]]['vm'],
-                                    result[fjlist[i]]['vm']) < temp:
-                temp = fslist[i] - commcost(dag[fjlist[i]][j], fjlist[i], result[dag[fjlist[i]][j]]['vm'],
-                                            result[fjlist[i]]['vm'])
-        if temp < felist[i - 1]:
-            temp = felist[i - 1]
-        fslist[i] = temp
-for i in range(1, len(gjlist), 1):
-    if len(gjlist) != 0 and gjlist[i] in dag:
-        temp = gslist[i]
-        for j in range(0, len(dag[gjlist[i]]), 1):
-            if gslist[i] - commcost(dag[gjlist[i]][j], gjlist[i], result[dag[gjlist[i]][j]]['vm'],
-                                    result[gjlist[i]]['vm']) < temp:
-                temp = gslist[i] - commcost(dag[gjlist[i]][j], gjlist[i], result[dag[gjlist[i]][j]]['vm'],
-                                            result[gjlist[i]]['vm'])
-        if temp < gelist[i - 1]:
-            temp = gelist[i - 1]
-        gslist[i] = temp
-
-"""Add communication cost to the schedule"""
 
 for i in range(0, len(ajlist)-1, 1):
     if ajlist[i] in reverse_dag:
-        temp = aelist[i]
+        temp = 0
         for j in range(0, len(reverse_dag[ajlist[i]]), 1):
-            if temp < (aelist[i] + commcost(ajlist[i], reverse_dag[ajlist[i]][j]
-                                        , result[ajlist[i]]['vm'], result[reverse_dag[ajlist[i]][j]]['vm'])):
-                temp = aelist[i] + commcost(ajlist[i], reverse_dag[ajlist[i]][j]
+            if temp > commcost(ajlist[i], reverse_dag[ajlist[i]][j]
+                                        , result[ajlist[i]]['vm'], result[reverse_dag[ajlist[i]][j]]['vm']):
+                temp = commcost(ajlist[i], reverse_dag[ajlist[i]][j]
                                         , result[ajlist[i]]['vm'], result[reverse_dag[ajlist[i]][j]]['vm'])
-                aelist[i] = temp
+        aelist[i] += temp
         if temp > aslist[i+1]:
             aelist[i] = aslist[i+1]
 for i in range(0, len(bjlist)-1, 1):
     if bjlist[i] in reverse_dag:
-        temp = belist[i]
+        temp = 0
         for j in range(0, len(reverse_dag[bjlist[i]]), 1):
-            if temp < (belist[i] + commcost(bjlist[i], reverse_dag[bjlist[i]][j]
-                                        , result[bjlist[i]]['vm'], result[reverse_dag[bjlist[i]][j]]['vm'])):
-                temp = belist[i] + commcost(bjlist[i], reverse_dag[bjlist[i]][j]
+            if temp > commcost(bjlist[i], reverse_dag[bjlist[i]][j]
+                                        , result[bjlist[i]]['vm'], result[reverse_dag[bjlist[i]][j]]['vm']):
+                temp = commcost(bjlist[i], reverse_dag[bjlist[i]][j]
                                         , result[bjlist[i]]['vm'], result[reverse_dag[bjlist[i]][j]]['vm'])
-                belist[i] = temp
+        belist[i] += temp
         if temp > bslist[i+1]:
             belist[i] = bslist[i+1]
 for i in range(0, len(cjlist)-1, 1):
     if cjlist[i] in reverse_dag:
-        temp = celist[i]
+        temp = 0
         for j in range(0, len(reverse_dag[cjlist[i]]), 1):
-            if temp < (celist[i] + commcost(cjlist[i], reverse_dag[cjlist[i]][j]
-                                        , result[cjlist[i]]['vm'], result[reverse_dag[cjlist[i]][j]]['vm'])):
-                temp = celist[i] + commcost(cjlist[i], reverse_dag[cjlist[i]][j]
+            if temp > commcost(cjlist[i], reverse_dag[cjlist[i]][j]
+                                        , result[cjlist[i]]['vm'], result[reverse_dag[cjlist[i]][j]]['vm']):
+                temp = commcost(cjlist[i], reverse_dag[cjlist[i]][j]
                                         , result[cjlist[i]]['vm'], result[reverse_dag[cjlist[i]][j]]['vm'])
-                celist[i] = temp
+        celist[i] += temp
         if temp > cslist[i+1]:
             celist[i] = cslist[i+1]
 for i in range(0, len(djlist)-1, 1):
     if djlist[i] in reverse_dag:
-        temp = delist[i]
+        temp = 0
         for j in range(0, len(reverse_dag[djlist[i]]), 1):
-            if temp < (delist[i] + commcost(djlist[i], reverse_dag[djlist[i]][j]
-                                        , result[djlist[i]]['vm'], result[reverse_dag[djlist[i]][j]]['vm'])):
-                temp = delist[i] + commcost(djlist[i], reverse_dag[djlist[i]][j]
+            if temp > commcost(djlist[i], reverse_dag[djlist[i]][j]
+                                        , result[djlist[i]]['vm'], result[reverse_dag[djlist[i]][j]]['vm']):
+                temp = commcost(djlist[i], reverse_dag[djlist[i]][j]
                                         , result[djlist[i]]['vm'], result[reverse_dag[djlist[i]][j]]['vm'])
-                delist[i] = temp
+        delist[i] += temp
         if temp > dslist[i+1]:
             delist[i] = dslist[i+1]
 for i in range(0, len(ejlist)-1, 1):
     if ejlist[i] in reverse_dag:
-        temp = eelist[i]
+        temp = 0
         for j in range(0, len(reverse_dag[ejlist[i]]), 1):
-            if temp < (eelist[i] + commcost(ejlist[i], reverse_dag[ejlist[i]][j]
-                                        , result[ejlist[i]]['vm'], result[reverse_dag[ejlist[i]][j]]['vm'])):
-                temp = eelist[i] + commcost(ejlist[i], reverse_dag[ejlist[i]][j]
+            if temp > commcost(ejlist[i], reverse_dag[ejlist[i]][j]
+                                        , result[ejlist[i]]['vm'], result[reverse_dag[ejlist[i]][j]]['vm']):
+                temp = commcost(ejlist[i], reverse_dag[ejlist[i]][j]
                                         , result[ejlist[i]]['vm'], result[reverse_dag[ejlist[i]][j]]['vm'])
-                eelist[i] = temp
+        eelist[i] += temp
         if temp > eslist[i+1]:
             eelist[i] = eslist[i+1]
 for i in range(0, len(fjlist)-1, 1):
     if fjlist[i] in reverse_dag:
-        temp = felist[i]
+        temp = 0
         for j in range(0, len(reverse_dag[fjlist[i]]), 1):
-            if temp < (felist[i] + commcost(fjlist[i], reverse_dag[fjlist[i]][j]
-                                        , result[fjlist[i]]['vm'], result[reverse_dag[fjlist[i]][j]]['vm'])):
-                temp = felist[i] + commcost(fjlist[i], reverse_dag[fjlist[i]][j]
+            if temp > commcost(fjlist[i], reverse_dag[fjlist[i]][j]
+                                        , result[fjlist[i]]['vm'], result[reverse_dag[fjlist[i]][j]]['vm']):
+                temp = commcost(fjlist[i], reverse_dag[fjlist[i]][j]
                                         , result[fjlist[i]]['vm'], result[reverse_dag[fjlist[i]][j]]['vm'])
-                felist[i] = temp
+        felist[i] += temp
         if temp > fslist[i+1]:
             felist[i] = fslist[i+1]
 for i in range(0, len(gjlist)-1, 1):
     if gjlist[i] in reverse_dag:
-        temp = gelist[i]
+        temp = 0
         for j in range(0, len(reverse_dag[gjlist[i]]), 1):
-            if temp < (gelist[i] + commcost(gjlist[i], reverse_dag[gjlist[i]][j]
-                                        , result[gjlist[i]]['vm'], result[reverse_dag[gjlist[i]][j]]['vm'])):
-                temp = gelist[i] + commcost(gjlist[i], reverse_dag[gjlist[i]][j]
+            if temp > commcost(gjlist[i], reverse_dag[gjlist[i]][j]
+                                        , result[gjlist[i]]['vm'], result[reverse_dag[gjlist[i]][j]]['vm']):
+                temp = commcost(gjlist[i], reverse_dag[gjlist[i]][j]
                                         , result[gjlist[i]]['vm'], result[reverse_dag[gjlist[i]][j]]['vm'])
-                gelist[i] = temp
+        gelist[i] += temp
         if temp > gslist[i+1]:
             gelist[i] = gslist[i+1]
+
+"""Add commcost(without waitcost) into the schedule result"""
+
+
+for i in range(1, len(ajlist), 1):
+    if ajlist[i] in dag:
+        temp = 0
+        for j in range(0, len(dag[ajlist[i]]), 1):
+            if commcost(dag[ajlist[i]][j], ajlist[i], result[dag[ajlist[i]][j]]['vm']
+                    , result[ajlist[i]]['vm']) > temp:
+                temp = commcost(dag[ajlist[i]][j], ajlist[i],result[dag[ajlist[i]][j]]['vm'],result[ajlist[i]]['vm'])
+        aslist[i] -= temp
+        if aslist[i] < aelist[i-1]:
+            aslist[i] = aelist[i-1]
+for i in range(1, len(bjlist), 1):
+    if bjlist[i] in dag:
+        temp = 0
+        for j in range(0, len(dag[bjlist[i]]), 1):
+            if commcost(dag[bjlist[i]][j], bjlist[i], result[dag[bjlist[i]][j]]['vm']
+                    , result[bjlist[i]]['vm']) > temp:
+                temp = commcost(dag[bjlist[i]][j], bjlist[i], result[dag[bjlist[i]][j]]['vm']
+                                , result[bjlist[i]]['vm'])
+        bslist[i] -= temp
+        if bslist[i] < belist[i - 1]:
+            bslist[i] = belist[i - 1]
+for i in range(1, len(cjlist), 1):
+    if cjlist[i] in dag:
+        temp = 0
+        for j in range(0, len(dag[cjlist[i]]), 1):
+            if commcost(dag[cjlist[i]][j], cjlist[i], result[dag[cjlist[i]][j]]['vm']
+                    , result[cjlist[i]]['vm']) > temp:
+                temp = commcost(dag[cjlist[i]][j], cjlist[i], result[dag[cjlist[i]][j]]['vm']
+                                , result[cjlist[i]]['vm'])
+        cslist[i] -= temp
+        if cslist[i] < celist[i - 1]:
+            cslist[i] = celist[i - 1]
+for i in range(1, len(djlist), 1):
+    if djlist[i] in dag:
+        temp = 0
+        for j in range(0, len(dag[djlist[i]]), 1):
+            if commcost(dag[djlist[i]][j], djlist[i], result[dag[djlist[i]][j]]['vm']
+                    , result[djlist[i]]['vm']) > temp:
+                temp = commcost(dag[djlist[i]][j], djlist[i], result[dag[djlist[i]][j]]['vm']
+                                , result[djlist[i]]['vm'])
+        dslist[i] -= temp
+        if dslist[i] < delist[i - 1]:
+            dslist[i] = delist[i - 1]
+for i in range(1, len(ejlist), 1):
+    if ejlist[i] in dag:
+        temp = 0
+        for j in range(0, len(dag[ejlist[i]]), 1):
+            if commcost(dag[ejlist[i]][j], ejlist[i], result[dag[ejlist[i]][j]]['vm']
+                    , result[ejlist[i]]['vm']) > temp:
+                temp = commcost(dag[ejlist[i]][j], ejlist[i], result[dag[ejlist[i]][j]]['vm']
+                                , result[ejlist[i]]['vm'])
+        eslist[i] -= temp
+        if eslist[i] < eelist[i - 1]:
+            eslist[i] = eelist[i - 1]
+for i in range(1, len(fjlist), 1):
+    if fjlist[i] in dag:
+        temp = 0
+        for j in range(0, len(dag[fjlist[i]]), 1):
+            if commcost(dag[fjlist[i]][j], fjlist[i], result[dag[fjlist[i]][j]]['vm']
+                    , result[fjlist[i]]['vm']) > temp:
+                temp = commcost(dag[fjlist[i]][j], fjlist[i], result[dag[fjlist[i]][j]]['vm']
+                                , result[fjlist[i]]['vm'])
+        fslist[i] -= temp
+        if fslist[i] < felist[i - 1]:
+            fslist[i] = felist[i - 1]
+for i in range(1, len(gjlist), 1):
+    if gjlist[i] in dag:
+        temp = 0
+        for j in range(0, len(dag[gjlist[i]]), 1):
+            if commcost(dag[gjlist[i]][j], gjlist[i], result[dag[gjlist[i]][j]]['vm']
+                    , result[gjlist[i]]['vm']) > temp:
+                temp = commcost(dag[gjlist[i]][j], gjlist[i], result[dag[gjlist[i]][j]]['vm']
+                                , result[gjlist[i]]['vm'])
+        gslist[i] -= temp
+        if gslist[i] < gelist[i - 1]:
+            gslist[i] = gelist[i - 1]
 
 
 print(ajlist, '\n', aslist, '\n', aelist)

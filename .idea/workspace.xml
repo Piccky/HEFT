@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba235255-717b-4e51-99df-57d52bf7ae0f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/examples/CYBERSHAKE.n.300.12.dax" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/examples/Epigenomics_100.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/examples/InsHourWithDC.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/examples/InsHourWithDataComm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/examples/Inspiral_100.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/examples/InstanceHour.py" afterPath="$PROJECT_DIR$/examples/InstanceHour.py" />
+      <change beforePath="$PROJECT_DIR$/examples/InsHourWithDC.py" afterPath="$PROJECT_DIR$/examples/InsHourWithDC.py" />
+      <change beforePath="$PROJECT_DIR$/examples/InsHourWithDataComm.py" afterPath="$PROJECT_DIR$/examples/InsHourWithDataComm.py" />
+      <change beforePath="$PROJECT_DIR$/examples/Processor" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/examples/TestET.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/examples/XMLParser.py" afterPath="$PROJECT_DIR$/examples/XMLParser.py" />
-      <change beforePath="$PROJECT_DIR$/examples/my_scheduler.py" afterPath="$PROJECT_DIR$/examples/my_scheduler.py" />
+      <change beforePath="$PROJECT_DIR$/examples/computeInt.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/examples/doc1.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="XMLParser.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="XMLParser.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/XMLParser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="87" selection-end-column="14" />
+            <state relative-caret-position="210">
+              <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -34,8 +33,8 @@
       <file leaf-file-name="my_scheduler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/my_scheduler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="156" column="13" lean-forward="true" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+            <state relative-caret-position="3213">
+              <caret line="156" column="13" lean-forward="false" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
               <folding>
                 <element signature="e#0#165#0" expanded="true" />
               </folding>
@@ -46,7 +45,7 @@
       <file leaf-file-name="CYBERSHAKE.n.300.12.dax" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/CYBERSHAKE.n.300.12.dax">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="21">
               <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
               <folding />
             </state>
@@ -56,8 +55,8 @@
       <file leaf-file-name="InstanceHour.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/InstanceHour.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1680">
-              <caret line="97" column="22" lean-forward="true" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+            <state relative-caret-position="-4705">
+              <caret line="97" column="22" lean-forward="false" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -68,8 +67,18 @@
       <file leaf-file-name="InsHourWithDataComm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/InsHourWithDataComm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="112" column="36" lean-forward="false" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+            <state relative-caret-position="-4243">
+              <caret line="266" column="47" lean-forward="false" selection-start-line="266" selection-start-column="41" selection-end-line="266" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsHourWithDC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/InsHourWithDC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="195" column="25" lean-forward="true" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -77,14 +86,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsHourWithDC.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examples/InsHourWithDC.py">
+      <file leaf-file-name="test.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/test.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="411" column="66" lean-forward="false" selection-start-line="411" selection-start-column="66" selection-end-line="411" selection-end-column="66" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="409">
+              <caret line="66" column="113" lean-forward="false" selection-start-line="66" selection-start-column="113" selection-end-line="66" selection-end-column="113" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,7 +99,7 @@
       <file leaf-file-name="Inspiral_100.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/Inspiral_100.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-315">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -104,16 +111,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3255">
               <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reportviews.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/networkx-2.2rc1.dev20180415060851-py3.5.egg/networkx/classes/reportviews.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3696">
-              <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -163,10 +160,10 @@
         <option value="$PROJECT_DIR$/examples/computeInt.py" />
         <option value="$PROJECT_DIR$/heft/core.py" />
         <option value="$PROJECT_DIR$/examples/InstanceHour.py" />
-        <option value="$PROJECT_DIR$/examples/XMLParser.py" />
         <option value="$PROJECT_DIR$/examples/my_scheduler.py" />
         <option value="$PROJECT_DIR$/examples/InsHourWithDataComm.py" />
         <option value="$PROJECT_DIR$/examples/InsHourWithDC.py" />
+        <option value="$PROJECT_DIR$/examples/XMLParser.py" />
       </list>
     </option>
   </component>
@@ -274,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.InsHourWithDC">
+  <component name="RunManager" selected="Python.InsHourWithDataComm">
     <configuration name="InsHourWithDC" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -394,8 +391,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.InsHourWithDC" />
-        <item index="1" class="java.lang.String" itemvalue="Python.InsHourWithDataComm" />
+        <item index="0" class="java.lang.String" itemvalue="Python.InsHourWithDataComm" />
+        <item index="1" class="java.lang.String" itemvalue="Python.InsHourWithDC" />
         <item index="2" class="java.lang.String" itemvalue="Python.InstanceHour" />
         <item index="3" class="java.lang.String" itemvalue="Python.XMLParser" />
         <item index="4" class="java.lang.String" itemvalue="Python.computeInt" />
@@ -430,13 +427,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13988096" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35332254" sideWeight="0.18675596" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35332254" sideWeight="0.19568452" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.49702382" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.49702382" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.4940476" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35332254" sideWeight="0.81324404" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35332254" sideWeight="0.80431545" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.49702382" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -459,7 +458,6 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -641,13 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="66" column="113" lean-forward="false" selection-start-line="66" selection-start-column="113" selection-end-line="66" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/heft/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -659,20 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3759">
           <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/Processor">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/doc1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -691,13 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/TestET.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/CriticalPath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="966">
@@ -713,13 +683,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/Test.py" />
-    <entry file="file://$PROJECT_DIR$/examples/computeInt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/Montage_25.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4011">
@@ -754,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24717">
           <caret line="1183" column="0" lean-forward="false" selection-start-line="1183" selection-start-column="0" selection-end-line="1183" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,14 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/CYBERSHAKE.n.300.12.dax">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,14 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/Inspiral_100.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/Epigenomics_100.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
@@ -805,51 +751,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/XMLParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="87" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/InstanceHour.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1680">
-          <caret line="97" column="22" lean-forward="true" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/my_scheduler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="156" column="13" lean-forward="true" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+        <state relative-caret-position="3213">
+          <caret line="156" column="13" lean-forward="false" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
           <folding>
             <element signature="e#0#165#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/examples/computeInt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/CYBERSHAKE.n.300.12.dax">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/doc1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/Inspiral_100.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/Processor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="66" column="113" lean-forward="false" selection-start-line="66" selection-start-column="113" selection-end-line="66" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/TestET.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/InstanceHour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4705">
+          <caret line="97" column="22" lean-forward="false" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/examples/InsHourWithDataComm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="112" column="36" lean-forward="false" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+        <state relative-caret-position="-4243">
+          <caret line="266" column="47" lean-forward="false" selection-start-line="266" selection-start-column="41" selection-end-line="266" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/InsHourWithDC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="195" column="25" lean-forward="true" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/InsHourWithDC.py">
+    <entry file="file://$PROJECT_DIR$/examples/XMLParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="411" column="66" lean-forward="false" selection-start-line="411" selection-start-column="66" selection-end-line="411" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
