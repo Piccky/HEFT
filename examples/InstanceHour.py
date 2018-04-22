@@ -39,51 +39,51 @@ gslist = []
 gelist = []
 
 
-for eachP in orders:
-#     # print(eachP, orders[eachP])
+# for eachP in orders:
+# #     # print(eachP, orders[eachP])
+# #     if eachP == 'a':
+# #         # for eachJob in orders[eachP]:
+# #         # list0.append(orders[eachP])
+# #         # print(orders[eachP][1])第二个[1]内表示第i个Event
+# #         for i in orders[eachP]:
+# #             ajlist.append(orders['a'][orders[eachP].index(i)][0])
+# #             aslist.append(orders['a'][orders[eachP].index(i)][1])
+# #             aelist.append(orders['a'][orders[eachP].index(i)][2])
 #     if eachP == 'a':
-#         # for eachJob in orders[eachP]:
-#         # list0.append(orders[eachP])
-#         # print(orders[eachP][1])第二个[1]内表示第i个Event
 #         for i in orders[eachP]:
-#             ajlist.append(orders['a'][orders[eachP].index(i)][0])
-#             aslist.append(orders['a'][orders[eachP].index(i)][1])
-#             aelist.append(orders['a'][orders[eachP].index(i)][2])
-    if eachP == 'a':
-        for i in orders[eachP]:
-            ajlist.append(orders[eachP][orders[eachP].index(i)][0])
-            aslist.append(orders[eachP][orders[eachP].index(i)][1])
-            aelist.append(orders[eachP][orders[eachP].index(i)][2])
-    if eachP == 'b':
-        for i in orders[eachP]:
-            bjlist.append(orders[eachP][orders[eachP].index(i)][0])
-            bslist.append(orders[eachP][orders[eachP].index(i)][1])
-            belist.append(orders[eachP][orders[eachP].index(i)][2])
-    if eachP == 'c':
-        for i in orders[eachP]:
-            cjlist.append(orders[eachP][orders[eachP].index(i)][0])
-            cslist.append(orders[eachP][orders[eachP].index(i)][1])
-            celist.append(orders[eachP][orders[eachP].index(i)][2])
-    if eachP == 'd':
-        for i in orders[eachP]:
-            djlist.append(orders[eachP][orders[eachP].index(i)][0])
-            dslist.append(orders[eachP][orders[eachP].index(i)][1])
-            delist.append(orders[eachP][orders[eachP].index(i)][2])
-    if eachP == 'e':
-        for i in orders[eachP]:
-            ejlist.append(orders[eachP][orders[eachP].index(i)][0])
-            eslist.append(orders[eachP][orders[eachP].index(i)][1])
-            eelist.append(orders[eachP][orders[eachP].index(i)][2])
-    if eachP == 'f':
-        for i in orders[eachP]:
-            fjlist.append(orders[eachP][orders[eachP].index(i)][0])
-            fslist.append(orders[eachP][orders[eachP].index(i)][1])
-            felist.append(orders[eachP][orders[eachP].index(i)][2])
-    if eachP == 'g':
-        for i in orders[eachP]:
-            gjlist.append(orders[eachP][orders[eachP].index(i)][0])
-            gslist.append(orders[eachP][orders[eachP].index(i)][1])
-            gelist.append(orders[eachP][orders[eachP].index(i)][2])
+#             ajlist.append(orders[eachP][orders[eachP].index(i)][0])
+#             aslist.append(orders[eachP][orders[eachP].index(i)][1])
+#             aelist.append(orders[eachP][orders[eachP].index(i)][2])
+#     if eachP == 'b':
+#         for i in orders[eachP]:
+#             bjlist.append(orders[eachP][orders[eachP].index(i)][0])
+#             bslist.append(orders[eachP][orders[eachP].index(i)][1])
+#             belist.append(orders[eachP][orders[eachP].index(i)][2])
+#     if eachP == 'c':
+#         for i in orders[eachP]:
+#             cjlist.append(orders[eachP][orders[eachP].index(i)][0])
+#             cslist.append(orders[eachP][orders[eachP].index(i)][1])
+#             celist.append(orders[eachP][orders[eachP].index(i)][2])
+#     if eachP == 'd':
+#         for i in orders[eachP]:
+#             djlist.append(orders[eachP][orders[eachP].index(i)][0])
+#             dslist.append(orders[eachP][orders[eachP].index(i)][1])
+#             delist.append(orders[eachP][orders[eachP].index(i)][2])
+#     if eachP == 'e':
+#         for i in orders[eachP]:
+#             ejlist.append(orders[eachP][orders[eachP].index(i)][0])
+#             eslist.append(orders[eachP][orders[eachP].index(i)][1])
+#             eelist.append(orders[eachP][orders[eachP].index(i)][2])
+#     if eachP == 'f':
+#         for i in orders[eachP]:
+#             fjlist.append(orders[eachP][orders[eachP].index(i)][0])
+#             fslist.append(orders[eachP][orders[eachP].index(i)][1])
+#             felist.append(orders[eachP][orders[eachP].index(i)][2])
+#     if eachP == 'g':
+#         for i in orders[eachP]:
+#             gjlist.append(orders[eachP][orders[eachP].index(i)][0])
+#             gslist.append(orders[eachP][orders[eachP].index(i)][1])
+#             gelist.append(orders[eachP][orders[eachP].index(i)][2])
 print(ajlist, '\n', aslist, '\n', aelist)
 print(bjlist, '\n', bslist, '\n', belist)
 print(cjlist, '\n', cslist, '\n', celist)
@@ -95,9 +95,9 @@ print(gjlist, '\n', gslist, '\n', gelist)
 """Build a new DAG for computing InstanceHour"""
 """Set nodes aG"""
 # //0-45  75-115  123-188  250-285  290-330  335-370
-# ajlist=[0,1,2,3,4,5]
-# aslist=[0,75,123,250,290,335]
-# aelist=[45,115,188,285,330,370]
+ajlist=[0,1,2,3,4,5]
+aslist=[0,75,123,250,290,335]
+aelist=[45,115,188,285,330,370]
 for i in range(0,len(ajlist)+1,1):
     if i == 0:
         aG.add_node(i, starttime=aslist[0], endtime=aslist[0])
@@ -121,37 +121,39 @@ for i in range(len(ajlist), 0, -1):
         # print(j,i,':',G.get_edge_data(j,i))
 # print(G.edges)
 
-
-"""Set nodes bG"""
-for i in range(0, len(bjlist)+1,1):
-    if i == 0:
-        bG.add_node(i, starttime=bslist[0], endtime=bslist[0])
+if len(bjlist) != 0:
+    """Set nodes bG"""
+    for i in range(0, len(bjlist) + 1, 1):
+        if i == 0:
+            bG.add_node(i, starttime=bslist[0], endtime=bslist[0])
+            print(bG.node[i]["starttime"], bG.node[i]["endtime"])
+            continue
+        if i == len(bjlist):
+            bG.add_node(i, starttime=belist[i - 1], endtime=belist[i - 1])
+            print(bG.node[i]["starttime"], bG.node[i]["endtime"])
+            continue
+        bG.add_node(i, starttime=belist[i - 1], endtime=bslist[i])
         print(bG.node[i]["starttime"], bG.node[i]["endtime"])
-        continue
-    if i == len(bjlist):
-        bG.add_node(i, starttime=belist[i-1], endtime=belist[i-1])
-        print(bG.node[i]["starttime"], bG.node[i]["endtime"])
-        continue
-    bG.add_node(i, starttime=belist[i-1], endtime=bslist[i])
-    print(bG.node[i]["starttime"],bG.node[i]["endtime"])
 """Set edges bG"""
 for i in range(len(bjlist), 0, -1):
     for j in range(0, i, 1):
         bG.add_edge(j, i, weight=math.ceil((bG.node[i]["starttime"]-bG.node[j]["endtime"])/60))
 
 
-"""Set nodes cG"""
-for i in range(0, len(cjlist)+1,1):
-    if i == 0:
-        cG.add_node(i, starttime=cslist[0], endtime=cslist[0])
+
+if len(cjlist) != 0:
+    """Set nodes cG"""
+    for i in range(0, len(cjlist) + 1, 1):
+        if i == 0:
+            cG.add_node(i, starttime=cslist[0], endtime=cslist[0])
+            print(cG.node[i]["starttime"], cG.node[i]["endtime"])
+            continue
+        if i == len(cjlist):
+            cG.add_node(i, starttime=celist[i - 1], endtime=celist[i - 1])
+            print(cG.node[i]["starttime"], cG.node[i]["endtime"])
+            continue
+        cG.add_node(i, starttime=celist[i - 1], endtime=cslist[i])
         print(cG.node[i]["starttime"], cG.node[i]["endtime"])
-        continue
-    if i == len(cjlist):
-        cG.add_node(i, starttime=celist[i-1], endtime=celist[i-1])
-        print(cG.node[i]["starttime"], cG.node[i]["endtime"])
-        continue
-    cG.add_node(i, starttime=celist[i-1], endtime=cslist[i])
-    print(cG.node[i]["starttime"],cG.node[i]["endtime"])
 """Set edges cG"""
 for i in range(len(cjlist), 0, -1):
     for j in range(0, i, 1):

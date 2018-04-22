@@ -28,7 +28,7 @@ except ImportError:
 #     sorted(result.keys())
 #     return result
 
-tree = ET.parse("Montage_1000.xml")  # <class 'xml.etree.ElementTree.ElementTree'>
+tree = ET.parse("Epigenomics_997.xml")  # <class 'xml.etree.ElementTree.ElementTree'>
 root = tree.getroot()           # 获取根节点 <Element 'data' at 0x02BF6A80>
 # print(root.tag, ":", root.attrib)  # 打印根元素的tag和属性
 # 遍历xml文档的第二层
@@ -100,7 +100,7 @@ def compcost(job, agent):
             # job={}
             #    job=eval('jobs_tup[i]')
             if(i['id'] == job):
-                time = round(float(i['runtime']), 2)
+                time = float(i['runtime'])
                 return time
 # print (compcost('ID00000'))
 # print(jobs_tup[0])
@@ -137,13 +137,13 @@ def commcost(ni, nj, A, B):
                     for p in jdict:
                         if k == p:
                             size += int(jdict[p])
-        time = float(size/1024000)
+        time = float(size/10485760)
         return time
 # print(commcost('ID00000','ID00005','A','B'))
         # link = "output" size="4167312" file="region.hdr
 
 
-orders, jobson = schedule(dag, 'abcdef', compcost, commcost)
+orders, jobson = schedule(dag, 'abc', compcost, commcost)
 """print orders"""
 for eachP in sorted(orders):
     print(eachP, orders[eachP])

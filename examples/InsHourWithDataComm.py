@@ -4,6 +4,7 @@ import networkx as nx
 from heft.util import reverse_dict
 import matplotlib.pyplot as plt
 import math
+from examples.listoperation import getVmList
 # Unresolved import:nx
 orders = getorders()
 aG = nx.DiGraph()
@@ -86,23 +87,23 @@ for eachP in orders:
             gjlist.append(orders[eachP][orders[eachP].index(i)][0])
             gslist.append(orders[eachP][orders[eachP].index(i)][1])
             gelist.append(orders[eachP][orders[eachP].index(i)][2])
-for i in range(0,len(ajlist),1):
+for i in range(0, len(ajlist), 1):
     result.update({ajlist[i]:{'vm':'a','pos':i,'starttime':aslist[i],'endtime':aelist[i]}})
-for i in range(0,len(bjlist),1):
+for i in range(0, len(bjlist), 1):
     result.update({bjlist[i]:{'vm':'b','pos':i,'starttime':bslist[i],'endtime':belist[i]}})
-for i in range(0,len(cjlist),1):
+for i in range(0, len(cjlist), 1):
     result.update({cjlist[i]:{'vm':'c','pos':i,'starttime':cslist[i],'endtime':celist[i]}})
 if len(djlist) != 0:
-    for i in range(0,len(djlist),1):
+    for i in range(0, len(djlist), 1):
         result.update({djlist[i]:{'vm':'d','pos':i,'starttime':dslist[i],'endtime':delist[i]}})
 if len(ejlist) != 0:
-    for i in range(0,len(ejlist),1):
+    for i in range(0, len(ejlist), 1):
         result.update({ejlist[i]:{'vm':'e','pos':i,'starttime':eslist[i],'endtime':eelist[i]}})
 if len(fjlist) != 0:
-    for i in range(0,len(fjlist),1):
+    for i in range(0, len(fjlist), 1):
         result.update({fjlist[i]:{'vm':'f','pos':i,'starttime':fslist[i],'endtime':felist[i]}})
 if len(gjlist) != 0:
-    for i in range(0,len(gjlist),1):
+    for i in range(0, len(gjlist), 1):
         result.update({gjlist[i]:{'vm':'g','pos':i,'starttime':gslist[i],'endtime':gelist[i]}})
 print(ajlist, '\n', aslist, '\n', aelist)
 print(bjlist, '\n', bslist, '\n', belist)
@@ -124,8 +125,8 @@ for i in range(1, len(ajlist), 1):
         for j in range(0, len(dag[ajlist[i]]), 1):
             if result[dag[ajlist[i]][j]]['endtime'] < temp:
                 temp = result[dag[ajlist[i]][j]]['endtime']
-        if temp < aelist[i-1]:
-            temp = aelist[i-1]
+        # if temp < aelist[i-1]:
+        #     temp = aelist[i-1]
         aslist[i] = temp
 for i in range(1, len(bjlist), 1):
     if bjlist[i] in dag:
@@ -133,8 +134,8 @@ for i in range(1, len(bjlist), 1):
         for j in range(0, len(dag[bjlist[i]]), 1):
             if result[dag[bjlist[i]][j]]['endtime'] < temp:
                 temp = result[dag[bjlist[i]][j]]['endtime']
-        if temp < belist[i-1]:
-            temp = belist[i-1]
+        # if temp < belist[i-1]:
+        #     temp = belist[i-1]
         bslist[i] = temp
 for i in range(1, len(cjlist), 1):
     if cjlist[i] in dag:
@@ -142,8 +143,8 @@ for i in range(1, len(cjlist), 1):
         for j in range(0, len(dag[cjlist[i]]), 1):
             if result[dag[cjlist[i]][j]]['endtime'] < temp:
                 temp = result[dag[cjlist[i]][j]]['endtime']
-        if temp < celist[i-1]:
-            temp = celist[i-1]
+        # if temp < celist[i-1]:
+        #     temp = celist[i-1]
         cslist[i] = temp
 for i in range(1, len(djlist), 1):
     if len(djlist) != 0 and djlist[i] in dag:
@@ -151,8 +152,8 @@ for i in range(1, len(djlist), 1):
         for j in range(0, len(dag[djlist[i]]), 1):
             if result[dag[djlist[i]][j]]['endtime'] < temp:
                 temp = result[dag[djlist[i]][j]]['endtime']
-        if temp < delist[i-1]:
-            temp = delist[i-1]
+        # if temp < delist[i-1]:
+        #     temp = delist[i-1]
         dslist[i] = temp
 for i in range(1, len(ejlist), 1):
     if len(ejlist) != 0 and ejlist[i] in dag:
@@ -160,8 +161,8 @@ for i in range(1, len(ejlist), 1):
         for j in range(0, len(dag[ejlist[i]]), 1):
             if result[dag[ejlist[i]][j]]['endtime'] < temp:
                 temp = result[dag[ejlist[i]][j]]['endtime']
-        if temp < eelist[i-1]:
-            temp = eelist[i-1]
+        # if temp < eelist[i-1]:
+        #     temp = eelist[i-1]
         eslist[i] = temp
 for i in range(1, len(fjlist), 1):
     if len(fjlist) != 0 and fjlist[i] in dag:
@@ -169,8 +170,8 @@ for i in range(1, len(fjlist), 1):
         for j in range(0, len(dag[fjlist[i]]), 1):
             if result[dag[fjlist[i]][j]]['endtime'] < temp:
                 temp = result[dag[fjlist[i]][j]]['endtime']
-        if temp < felist[i-1]:
-            temp = felist[i-1]
+        # if temp < felist[i-1]:
+        #     temp = felist[i-1]
         fslist[i] = temp
 for i in range(1, len(gjlist), 1):
     if len(gjlist) != 0 and gjlist[i] in dag:
@@ -178,8 +179,8 @@ for i in range(1, len(gjlist), 1):
         for j in range(0, len(dag[gjlist[i]]), 1):
             if result[dag[gjlist[i]][j]]['endtime'] < temp:
                 temp = result[dag[gjlist[i]][j]]['endtime']
-        if temp < gelist[i-1]:
-            temp = gelist[i-1]
+        # if temp < gelist[i-1]:
+        #     temp = gelist[i-1]
         gslist[i] = temp
 
 """Add communication cost to the schedule"""
@@ -194,8 +195,8 @@ for i in range(0, len(ajlist)-1, 1):
                                 , result[ajlist[i]]['vm'], result[reverse_dag[ajlist[i]][j]]['vm'])
 
         aelist[i] += temp
-        if aelist[i] > aslist[i+1]:
-            aelist[i] = aslist[i+1]
+        # if aelist[i] > aslist[i+1]:
+        #     aelist[i] = aslist[i+1]
 for i in range(0, len(bjlist)-1, 1):
     if bjlist[i] in reverse_dag:
         temp = 0
@@ -206,8 +207,8 @@ for i in range(0, len(bjlist)-1, 1):
                                 , result[bjlist[i]]['vm'], result[reverse_dag[bjlist[i]][j]]['vm'])
 
         belist[i] += temp
-        if belist[i] > bslist[i + 1]:
-            belist[i] = bslist[i + 1]
+        # if belist[i] > bslist[i + 1]:
+        #     belist[i] = bslist[i + 1]
 """Start from here"""
 for i in range(0, len(cjlist)-1, 1):
     if cjlist[i] in reverse_dag:
@@ -219,8 +220,8 @@ for i in range(0, len(cjlist)-1, 1):
                                 , result[cjlist[i]]['vm'], result[reverse_dag[cjlist[i]][j]]['vm'])
 
         celist[i] += temp
-        if celist[i] > cslist[i + 1]:
-            celist[i] = cslist[i + 1]
+        # if celist[i] > cslist[i + 1]:
+        #     celist[i] = cslist[i + 1]
 for i in range(0, len(djlist)-1, 1):
     if djlist[i] in reverse_dag:
         temp = 0
@@ -231,8 +232,8 @@ for i in range(0, len(djlist)-1, 1):
                                 , result[djlist[i]]['vm'], result[reverse_dag[djlist[i]][j]]['vm'])
 
         delist[i] += temp
-        if delist[i] > dslist[i + 1]:
-            delist[i] = dslist[i + 1]
+        # if delist[i] > dslist[i + 1]:
+        #     delist[i] = dslist[i + 1]
 for i in range(0, len(ejlist)-1, 1):
     if ejlist[i] in reverse_dag:
         temp = 0
@@ -243,8 +244,8 @@ for i in range(0, len(ejlist)-1, 1):
                                 , result[ejlist[i]]['vm'], result[reverse_dag[ejlist[i]][j]]['vm'])
 
         eelist[i] += temp
-        if eelist[i] > eslist[i + 1]:
-            eelist[i] = eslist[i + 1]
+        # if eelist[i] > eslist[i + 1]:
+        #     eelist[i] = eslist[i + 1]
 for i in range(0, len(fjlist)-1, 1):
     if fjlist[i] in reverse_dag:
         temp = 0
@@ -255,8 +256,8 @@ for i in range(0, len(fjlist)-1, 1):
                                 , result[fjlist[i]]['vm'], result[reverse_dag[fjlist[i]][j]]['vm'])
 
         felist[i] += temp
-        if felist[i] > fslist[i + 1]:
-            felist[i] = fslist[i + 1]
+        # if felist[i] > fslist[i + 1]:
+        #     felist[i] = fslist[i + 1]
 for i in range(0, len(gjlist)-1, 1):
     if gjlist[i] in reverse_dag:
         temp = 0
@@ -267,9 +268,22 @@ for i in range(0, len(gjlist)-1, 1):
                                 , result[gjlist[i]]['vm'], result[reverse_dag[gjlist[i]][j]]['vm'])
 
         gelist[i] += temp
-        if gelist[i] > gslist[i + 1]:
-            gelist[i] = gslist[i + 1]
-
+        # if gelist[i] > gslist[i + 1]:
+        #     gelist[i] = gslist[i + 1]
+if aslist != None:
+    aslist,aelist = getVmList(aslist, aelist, ajlist)
+if bslist != None:
+    bslist,belist = getVmList(bslist, belist, bjlist)
+if cslist != None:
+    cslist,celist = getVmList(cslist, celist, cjlist)
+if dslist != None:
+    dslist,delist = getVmList(dslist, delist, djlist)
+if eslist != None:
+    eslist,eelist = getVmList(eslist, eelist, ejlist)
+if fslist != None:
+    fslist,felist = getVmList(fslist, felist, fjlist)
+if gslist != None:
+    gslist,gelist = getVmList(gslist, gelist, gjlist)
 
 print(ajlist, '\n', aslist, '\n', aelist)
 print(bjlist, '\n', bslist, '\n', belist)
@@ -303,7 +317,7 @@ for i in range(len(ajlist), 0, -1):
         # print('j=:',j)
         # weight = round((G.node[ajlist[i]]["endtime"] - G.node[ajlist[j]]["starttime"]) / 6)
         # print(weight)
-        aG.add_edge(j, i, weight=math.ceil((aG.node[i]["starttime"]-aG.node[j]["endtime"])/60))
+        aG.add_edge(j, i, weight=math.ceil((aG.node[i]["starttime"]-aG.node[j]["endtime"])/3600))
         # print(j,i,':',G.get_edge_data(j,i))
 # print(G.edges)
 
@@ -323,7 +337,7 @@ for i in range(0, len(bjlist)+1,1):
 """Set edges bG"""
 for i in range(len(bjlist), 0, -1):
     for j in range(0, i, 1):
-        bG.add_edge(j, i, weight=math.ceil((bG.node[i]["starttime"]-bG.node[j]["endtime"])/60))
+        bG.add_edge(j, i, weight=math.ceil((bG.node[i]["starttime"]-bG.node[j]["endtime"])/3600))
 
 
 """Set nodes cG"""
@@ -341,7 +355,7 @@ for i in range(0, len(cjlist)+1,1):
 """Set edges cG"""
 for i in range(len(cjlist), 0, -1):
     for j in range(0, i, 1):
-        cG.add_edge(j, i, weight=math.ceil((cG.node[i]["starttime"]-cG.node[j]["endtime"])/60))
+        cG.add_edge(j, i, weight=math.ceil((cG.node[i]["starttime"]-cG.node[j]["endtime"])/3600))
 
 
 if len(djlist) != 0:
@@ -360,7 +374,7 @@ if len(djlist) != 0:
     """Set edges dG"""
     for i in range(len(djlist), 0, -1):
         for j in range(0, i, 1):
-            dG.add_edge(j, i, weight=math.ceil((dG.node[i]["starttime"] - dG.node[j]["endtime"]) / 60))
+            dG.add_edge(j, i, weight=math.ceil((dG.node[i]["starttime"] - dG.node[j]["endtime"]) / 3600))
 
 
 if len(ejlist) != 0:
@@ -379,7 +393,7 @@ if len(ejlist) != 0:
     """Set edges eG"""
     for i in range(len(ejlist), 0, -1):
         for j in range(0, i, 1):
-            eG.add_edge(j, i, weight=math.ceil((eG.node[i]["starttime"] - eG.node[j]["endtime"]) / 60))
+            eG.add_edge(j, i, weight=math.ceil((eG.node[i]["starttime"] - eG.node[j]["endtime"]) / 3600))
 
 
 if len(fjlist) != 0:
@@ -398,7 +412,7 @@ if len(fjlist) != 0:
     """Set edges fG"""
     for i in range(len(fjlist), 0, -1):
         for j in range(0, i, 1):
-            fG.add_edge(j, i, weight=math.ceil((fG.node[i]["starttime"] - fG.node[j]["endtime"]) / 60))
+            fG.add_edge(j, i, weight=math.ceil((fG.node[i]["starttime"] - fG.node[j]["endtime"]) / 3600))
 
 
 if len(gjlist) != 0:
@@ -417,7 +431,7 @@ if len(gjlist) != 0:
     """Set edges dG"""
     for i in range(len(gjlist), 0, -1):
         for j in range(0, i, 1):
-            gG.add_edge(j, i, weight=math.ceil((gG.node[i]["starttime"] - gG.node[j]["endtime"]) / 60))
+            gG.add_edge(j, i, weight=math.ceil((gG.node[i]["starttime"] - gG.node[j]["endtime"]) / 3600))
 
 """Find the minimum path"""
 apath = nx.dijkstra_path(aG, 0, len(ajlist), weight='weight')
@@ -477,8 +491,8 @@ for i in range(0, len(gpath)-1, 1):
     gtemp += gG.get_edge_data(gpath[i], gpath[i + 1])['weight']
 print('total instance hour:', atemp, btemp, ctemp, dtemp, etemp, ftemp, gtemp)
 """Draw the DAG"""
-# nx.draw(G,pos = nx.random_layout(G),node_color = 'b',edge_color = 'r',with_labels = True,font_size =12,node_size =40)
-# plt.show()
+nx.draw(aG, pos = nx.random_layout(aG),node_color = 'b',edge_color = 'r',with_labels = True,font_size =12,node_size =40)
+plt.show()
 #  # temp = 0
 # #     Result = 9999
 # ajlist=[0,75,123,250,290,335]
