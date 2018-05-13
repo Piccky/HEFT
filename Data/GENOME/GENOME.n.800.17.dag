@@ -1,0 +1,4590 @@
+FILE chr21.0.86.nocontam.bfq 553448
+FILE chr21.1.52.nocontam.fq 2129073
+FILE chr21.0.95.sfq 5195578
+FILE chr21.1.37.nocontam.fq 2736183
+FILE chr21.1.87.nocontam.sfq 2458966
+FILE chr21.0.94.nocontam.fq 1262321
+FILE chr21.0.61.nocontam.fq 2732187
+FILE chr21.0.45.nocontam.bfq 678196
+FILE chr21.1.58.contam.sfq 2721857
+FILE chr21.1.19.nocontam.map 516876
+FILE chr21.0.28.nocontam.fq 1802488
+FILE chr21.1.1.nocontam.sfq 2240663
+FILE chr21.0.3.nocontam.sfq 2811236
+FILE chr21.1.26.nocontam.sfq 2770375
+FILE chr21.0.89.nocontam.map 591459
+FILE chr21.0.10.nocontam.bfq 482035
+FILE chr21.0.77.nocontam.sfq 2525786
+FILE chr21.1.61.nocontam.map 605445
+FILE chr21.0.92.contam.sfq 2730053
+FILE chr21.1.91.sfq 5317669
+FILE chr21.0.96.nocontam.sfq 2779832
+FILE chr21.0.35.nocontam.map 490259
+FILE chr21.0.70.contam.sfq 2622966
+FILE chr21.0.29.contam.sfq 2414206
+FILE chr21.0.42.nocontam.sfq 2636285
+FILE chr21.1.39.nocontam.bfq 881933
+FILE chr21.0.45.contam.sfq 2736867
+FILE chr21.1.81.nocontam.bfq 407859
+FILE chr21.1.62.nocontam.bfq 550666
+FILE chr21.1.92.nocontam.fq 2063719
+FILE chr21.1.84.sfq 4959384
+FILE chr21.0.23.contam.sfq 2779880
+FILE chr21.1.21.nocontam.bfq 488939
+FILE chr21.1.67.nocontam.fq 1555032
+FILE chr21.0.91.nocontam.fq 1679238
+FILE chr21.0.29.nocontam.bfq 397423
+FILE chr21.1.15.nocontam.fq 1852502
+FILE chr21.0.68.nocontam.fq 1800310
+FILE chr21.1.5.nocontam.sfq 2521974
+FILE chr21.1.65.nocontam.map 436425
+FILE chr21.0.71.nocontam.bfq 347184
+FILE chr21.0.25.nocontam.fq 2217886
+FILE chr21.0.6.nocontam.sfq 2501459
+FILE chr21.1.82.sfq 5075570
+FILE chr21.1.96.contam.sfq 2429026
+FILE chr21.0.41.sfq 5286018
+FILE chr21.1.72.nocontam.sfq 2542418
+FILE chr21.1.30.nocontam.map 592366
+FILE chr21.1.11.nocontam.map 473981
+FILE chr21.0.39.nocontam.map 520859
+FILE chr21.0.46.nocontam.sfq 2665778
+FILE chr21.1.74.contam.sfq 2934213
+FILE chr21.0.68.sfq 5357083
+FILE chr21.1.90.contam.sfq 2468552
+FILE chr21.1.49.contam.sfq 2545822
+FILE chr21.0.81.nocontam.map 378553
+FILE chr21.1.85.nocontam.bfq 338624
+FILE chr21.1.66.nocontam.bfq 680986
+FILE chr21.0.62.nocontam.sfq 2551446
+FILE chr21.0.20.nocontam.map 504081
+FILE chr21.0.1.nocontam.bfq 445034
+FILE chr21.0.66.sfq 5185981
+FILE chr21.1.24.nocontam.bfq 436611
+FILE chr21.0.75.nocontam.bfq 449725
+FILE chr21.0.61.contam.sfq 2977082
+FILE chr21.1.45.nocontam.fq 1859078
+FILE chr21.1.12.nocontam.fq 1480897
+FILE chr21.0.98.nocontam.fq 2955305
+FILE chr21.1.91.contam.sfq 2586665
+FILE chr21.0.65.nocontam.fq 2302216
+FILE chr21.1.8.nocontam.sfq 2677950
+FILE chr21.1.68.nocontam.map 477180
+FILE chr21.1.49.nocontam.map 678864
+FILE chr21.1.66.contam.sfq 2884032
+FILE chr21.1.56.nocontam.sfq 2700648
+FILE chr21.1.34.nocontam.map 461523
+FILE chr21.1.15.nocontam.map 559718
+FILE chr21.0.40.nocontam.bfq 449992
+FILE chr21.1.44.contam.sfq 2483925
+FILE chr21.1.62.sfq 5100479
+FILE chr21.1.75.nocontam.sfq 2333704
+FILE chr21.1.22.nocontam.sfq 2486341
+FILE chr21.1.91.nocontam.map 460135
+FILE chr21.1.41.nocontam.sfq 2542955
+FILE chr21.1.89.sfq 5100742
+FILE chr21.0.49.nocontam.sfq 2682237
+FILE chr21.0.65.nocontam.map 640933
+FILE chr21.0.24.nocontam.map 734304
+FILE chr21.1.69.nocontam.bfq 322144
+FILE chr21.1.3.nocontam.bfq 460643
+FILE chr21.0.31.nocontam.sfq 2480788
+FILE chr21.0.72.nocontam.sfq 2772151
+FILE chr21.0.91.nocontam.sfq 2553047
+FILE chr21.1.60.sfq 5315216
+FILE chr21.1.55.sfq 5144133
+FILE chr21.1.28.nocontam.bfq 458939
+FILE chr21.1.87.sfq 5042255
+FILE chr21.0.15.contam.sfq 2747887
+FILE chr21.1.70.nocontam.bfq 407900
+FILE chr21.1.51.nocontam.bfq 371141
+FILE chr21.0.31.contam.sfq 2587513
+FILE chr21.1.85.nocontam.fq 1559479
+FILE chr21.1.8.nocontam.fq 1864024
+FILE chr21.0.78.nocontam.bfq 393668
+FILE chr21.0.59.nocontam.bfq 730347
+FILE chr21.1.42.nocontam.fq 2091042
+FILE chr21.1.53.sfq 4913869
+FILE chr21.0.84.nocontam.fq 2016725
+FILE chr21.0.44.nocontam.bfq 393533
+FILE chr21.0.25.nocontam.bfq 425015
+FILE chr21.0.43.nocontam.fq 1201897
+FILE chr21.1.19.nocontam.fq 1845309
+FILE chr21.0.12.sfq 5579870
+FILE chr21.1.95.nocontam.map 648176
+FILE chr21.1.18.nocontam.map 695092
+FILE chr21.0.18.nocontam.fq 1744259
+FILE chr21.1.0.nocontam.sfq 2660855
+FILE chr21.0.86.contam.sfq 2674551
+FILE chr21.0.39.sfq 5276040
+FILE chr21.0.3.contam.sfq 2629505
+FILE chr21.1.25.nocontam.sfq 2508764
+FILE chr21.0.84.sfq 5247394
+FILE chr21.0.69.nocontam.map 1020950
+FILE chr21.0.76.nocontam.sfq 2433946
+FILE chr21.1.60.nocontam.map 596772
+FILE chr21.1.82.contam.sfq 2632379
+FILE chr21.0.50.sfq 5019435
+FILE chr21.0.27.nocontam.map 791539
+FILE chr21.1.60.contam.sfq 2764797
+FILE chr21.0.82.sfq 5070803
+FILE chr21.0.77.sfq 5305917
+FILE chr21.0.15.nocontam.sfq 2671875
+FILE chr21.0.37.sfq 4847827
+FILE chr21.0.34.nocontam.sfq 2666383
+FILE chr21.1.38.nocontam.bfq 608555
+FILE chr21.0.2.nocontam.fq 1803863
+FILE chr21.1.35.contam.sfq 2443982
+FILE chr21.0.50.nocontam.map 822163
+FILE chr21.1.80.nocontam.bfq 355405
+FILE chr21.1.54.nocontam.bfq 467803
+FILE chr21.1.5.nocontam.fq 1841337
+FILE chr21.1.71.nocontam.fq 1757161
+FILE chr21.1.20.nocontam.bfq 379724
+FILE chr21.0.75.sfq 5243660
+FILE chr21.1.98.nocontam.map 595882
+FILE chr21.0.28.nocontam.bfq 403288
+FILE chr21.1.38.nocontam.fq 2477593
+FILE chr21.1.29.nocontam.sfq 2507791
+FILE chr21.0.58.nocontam.fq 1764487
+FILE chr21.1.33.sfq 4999506
+FILE chr21.1.4.nocontam.sfq 2440400
+FILE chr21.0.62.nocontam.fq 1367088
+FILE chr21.1.64.nocontam.map 450606
+FILE chr21.0.70.nocontam.bfq 466590
+FILE chr21.1.36.contam.sfq 2528707
+FILE chr21.0.10.nocontam.fq 1952225
+FILE chr21.0.79.nocontam.sfq 2658023
+FILE chr21.1.71.nocontam.sfq 2485319
+FILE chr21.0.95.nocontam.map 712406
+FILE chr21.0.19.nocontam.sfq 2548554
+FILE chr21.1.26.sfq 5420510
+FILE chr21.1.52.contam.sfq 2674694
+FILE chr21.0.38.nocontam.sfq 2715238
+FILE chr21.1.71.sfq 5223250
+FILE chr21.1.10.nocontam.sfq 2654093
+FILE chr21.1.31.sfq 5285107
+FILE chr21.0.54.nocontam.map 506522
+FILE chr21.1.30.contam.sfq 2581732
+FILE chr21.1.6.contam.sfq 2675060
+FILE chr21.1.98.sfq 5155272
+FILE chr21.1.58.sfq 5369444
+FILE chr21.1.58.nocontam.bfq 467788
+FILE chr21.0.77.contam.sfq 2780131
+FILE chr21.0.61.nocontam.sfq 2719379
+FILE chr21.1.2.nocontam.fq 1474351
+FILE chr21.0.80.nocontam.sfq 2643095
+FILE chr21.1.24.sfq 5318282
+FILE chr21.1.23.nocontam.bfq 452638
+FILE chr21.1.78.nocontam.fq 1410513
+FILE chr21.1.96.sfq 4751251
+FILE chr21.0.74.nocontam.bfq 383659
+FILE chr21.1.35.nocontam.fq 3202601
+FILE chr21.0.55.sfq 5264395
+FILE chr21.1.7.nocontam.sfq 2513106
+FILE chr21.0.77.nocontam.fq 2192587
+FILE chr21.1.28.contam.sfq 2839350
+FILE chr21.1.48.nocontam.map 515903
+FILE chr21.1.55.nocontam.sfq 2686112
+FILE chr21.0.36.nocontam.fq 1912559
+FILE chr21.0.13.nocontam.bfq 538037
+FILE chr21.1.14.nocontam.sfq 2694437
+FILE chr21.0.21.sfq 5212282
+FILE chr21.1.90.nocontam.map 522297
+FILE chr21.0.48.sfq 5271577
+FILE chr21.0.93.sfq 5344261
+FILE chr21.0.94.contam.sfq 2549616
+FILE chr21.0.53.sfq 5254536
+FILE chr21.0.57.nocontam.map 527096
+FILE chr21.0.72.contam.sfq 2560877
+FILE chr21.0.64.nocontam.sfq 2546614
+FILE chr21.0.23.nocontam.map 567975
+FILE chr21.1.2.nocontam.bfq 405264
+FILE chr21.1.77.contam.sfq 2588249
+FILE chr21.1.2.sfq 5278198
+FILE chr21.1.84.nocontam.bfq 703267
+FILE chr21.1.27.nocontam.bfq 709348
+FILE chr21.0.30.nocontam.sfq 2826249
+FILE chr21.0.46.sfq 5520010
+FILE chr21.0.91.sfq 5239343
+FILE chr21.1.50.nocontam.bfq 417338
+FILE chr21.0.0.nocontam.bfq 442112
+FILE chr21.1.75.nocontam.fq 1515500
+FILE chr21.1.0.contam.sfq 2762937
+FILE chr21.1.21.contam.sfq 2570558
+FILE chr21.0.58.nocontam.bfq 377446
+FILE chr21.1.59.nocontam.sfq 2381374
+FILE chr21.0.17.nocontam.bfq 403876
+FILE chr21.1.13.nocontam.fq 2068396
+FILE chr21.0.9.nocontam.sfq 2535917
+FILE chr21.1.98.contam.sfq 2555762
+FILE chr21.0.55.nocontam.fq 2940806
+FILE chr21.0.48.contam.sfq 2742157
+FILE chr21.0.22.nocontam.fq 1504993
+FILE chr21.1.94.nocontam.map 497179
+FILE chr21.1.42.sfq 5251986
+FILE chr21.1.17.nocontam.sfq 2482876
+FILE chr21.1.76.contam.sfq 2578036
+FILE chr21.1.52.nocontam.map 549139
+FILE chr21.1.33.nocontam.map 483507
+FILE chr21.0.68.nocontam.sfq 2743840
+FILE chr21.1.29.sfq 5072053
+FILE chr21.1.74.sfq 5620356
+FILE chr21.1.22.contam.sfq 2525751
+FILE chr21.1.69.sfq 4814255
+FILE chr21.0.84.nocontam.map 494655
+FILE chr21.1.40.nocontam.sfq 2344442
+FILE chr21.1.88.nocontam.bfq 291655
+FILE chr21.1.40.sfq 4857357
+FILE chr21.0.69.contam.sfq 2416335
+FILE chr21.0.14.nocontam.sfq 2695538
+FILE chr21.0.33.nocontam.sfq 2626521
+FILE chr21.0.4.nocontam.bfq 446492
+FILE chr21.1.67.sfq 4868394
+FILE chr21.1.53.nocontam.bfq 349588
+FILE chr21.1.94.nocontam.fq 1937398
+FILE chr21.0.63.contam.sfq 2788886
+FILE chr21.0.26.sfq 5131109
+FILE chr21.1.12.nocontam.bfq 409934
+FILE chr21.0.95.nocontam.fq 2753706
+FILE chr21.1.53.nocontam.fq 1579010
+FILE chr21.1.93.contam.sfq 2883093
+FILE chr21.1.97.nocontam.map 489876
+FILE chr21.1.78.nocontam.map 361889
+FILE chr21.1.28.nocontam.fq 1840424
+FILE chr21.0.52.nocontam.fq 2350099
+FILE chr21.1.37.nocontam.map 773088
+FILE chr21.0.62.nocontam.bfq 312793
+FILE chr21.0.43.nocontam.bfq 293151
+FILE chr21.0.24.sfq 5066914
+FILE chr21.0.19.sfq 5295509
+FILE chr21.0.29.nocontam.fq 1903437
+FILE chr21.1.44.nocontam.sfq 2598240
+FILE chr21.1.14.contam.sfq 2445936
+FILE chr21.1.85.nocontam.sfq 2823794
+FILE chr21.0.64.sfq 4890193
+FILE chr21.0.1.nocontam.sfq 2965973
+FILE chr21.0.87.nocontam.map 456028
+FILE chr21.0.18.nocontam.sfq 2794818
+FILE chr21.0.53.nocontam.map 452807
+FILE chr21.0.94.nocontam.sfq 2477850
+FILE chr21.1.69.contam.sfq 2503797
+FILE chr21.0.62.sfq 5048417
+FILE chr21.0.80.contam.sfq 2491201
+FILE chr21.0.39.contam.sfq 2762443
+FILE chr21.0.17.sfq 5236628
+FILE chr21.1.57.nocontam.bfq 577897
+FILE chr21.0.7.nocontam.bfq 342908
+FILE chr21.0.89.sfq 5421111
+FILE chr21.0.17.contam.sfq 2650425
+FILE chr21.0.60.nocontam.sfq 2324061
+FILE chr21.1.20.sfq 5412799
+FILE chr21.0.11.nocontam.map 689465
+FILE chr21.1.22.nocontam.bfq 394846
+FILE chr21.0.88.nocontam.bfq 394647
+FILE chr21.0.92.nocontam.fq 2416048
+FILE chr21.1.89.nocontam.sfq 2673657
+FILE chr21.1.68.nocontam.fq 1848383
+FILE chr21.1.63.contam.sfq 2576883
+FILE chr21.1.72.nocontam.fq 2447950
+FILE chr21.0.47.nocontam.bfq 486703
+FILE chr21.1.13.sfq 5065719
+FILE chr21.1.20.nocontam.fq 1436960
+FILE chr21.0.56.contam.sfq 2680412
+FILE chr21.0.59.nocontam.fq 3404400
+FILE chr21.0.5.nocontam.sfq 2852453
+FILE chr21.0.26.nocontam.fq 1672332
+FILE chr21.0.30.nocontam.fq 3066981
+FILE chr21.1.47.nocontam.sfq 2705633
+FILE chr21.0.5.contam.sfq 2636673
+FILE chr21.1.45.sfq 5279674
+FILE chr21.0.12.nocontam.bfq 430012
+FILE chr21.1.13.nocontam.sfq 2592960
+FILE chr21.0.98.nocontam.sfq 2873955
+FILE chr21.0.34.contam.sfq 2850014
+FILE chr21.1.82.nocontam.map 481122
+FILE chr21.1.84.contam.sfq 2418525
+FILE chr21.1.11.sfq 5157148
+FILE chr21.0.56.nocontam.map 820297
+FILE chr21.0.37.nocontam.map 450160
+FILE chr21.1.62.contam.sfq 2471889
+FILE chr21.1.38.sfq 5167030
+FILE chr21.nocontam.chr.pileup 19938595
+FILE chr21.0.22.nocontam.sfq 2487440
+FILE chr21.0.63.nocontam.sfq 2696582
+FILE chr211.sfq 511423236
+FILE chr21.1.83.nocontam.bfq 657287
+FILE chr21.0.1.sfq 5653475
+FILE chr21.0.55.contam.sfq 2642589
+FILE chr21.1.42.nocontam.bfq 539636
+FILE chr21.1.87.nocontam.fq 2260093
+FILE chr21.0.0.contam.sfq 2475196
+FILE chr21.0.70.nocontam.fq 1833903
+FILE chr21.0.88.nocontam.fq 1695619
+FILE chr21.1.46.nocontam.fq 1949241
+FILE chr21.1.86.nocontam.map 433191
+FILE chr21.1.67.nocontam.map 386315
+FILE chr21.0.92.nocontam.bfq 600392
+FILE chr21.0.16.nocontam.bfq 396725
+FILE chr21.0.8.nocontam.sfq 2686528
+FILE chr21.1.38.contam.sfq 2688263
+FILE chr21.0.45.nocontam.fq 2501473
+FILE chr21.1.74.nocontam.sfq 2686143
+FILE chr21.1.54.contam.sfq 2608452
+FILE chr21.1.93.nocontam.sfq 2684313
+FILE chr21.1.32.nocontam.map 537017
+FILE chr21.0.2.nocontam.map 468481
+FILE chr21.0.67.nocontam.sfq 2628458
+FILE chr21.0.33.sfq 5431565
+FILE chr21.0.48.nocontam.sfq 2529420
+FILE chr21.0.65.sfq 5648833
+FILE chr21.0.83.nocontam.map 513726
+FILE chr21.1.87.nocontam.bfq 547125
+FILE chr21.0.90.nocontam.sfq 2703317
+FILE chr21.0.41.nocontam.map 519410
+FILE chr21.1.1.nocontam.bfq 630013
+FILE chr21.0.3.nocontam.bfq 655556
+FILE chr21.1.55.contam.sfq 2458021
+FILE chr21.1.9.sfq 4928972
+FILE chr21.0.25.contam.sfq 2816508
+FILE chr21.1.45.nocontam.bfq 462946
+FILE chr21.1.26.nocontam.bfq 515953
+FILE chr21.1.9.nocontam.fq 1434019
+FILE chr21.0.4.nocontam.fq 1861595
+FILE chr21.1.11.nocontam.bfq 436063
+FILE chr21.0.96.nocontam.bfq 523263
+FILE chr21.0.77.nocontam.bfq 484766
+FILE chr21.1.76.sfq 5157147
+FILE chr21.1.9.contam.sfq 2562559
+FILE chr21.0.85.nocontam.fq 2552100
+FILE chr21.1.16.sfq 5173862
+FILE chr21.1.81.sfq 5265252
+FILE chr21.1.65.nocontam.fq 1700346
+FILE chr21.1.32.nocontam.fq 2058329
+FILE chr21.1.7.sfq 5050382
+FILE chr21.1.77.nocontam.sfq 2561355
+FILE chr21.1.36.nocontam.map 833352
+FILE chr21.0.42.nocontam.bfq 852856
+FILE chr21.0.19.nocontam.fq 1412854
+FILE chr21.0.96.contam.sfq 2762235
+FILE chr21.0.23.nocontam.fq 2569788
+FILE chr21.1.43.nocontam.sfq 2502113
+FILE chr21.0.42.contam.sfq 2787908
+FILE chr21.0.86.nocontam.map 601573
+FILE chr21.0.20.contam.sfq 2436977
+FILE chr21.0.45.nocontam.map 737169
+FILE chr21.0.26.nocontam.map 389172
+FILE chr21.1.5.nocontam.bfq 432431
+FILE chr21.0.93.nocontam.sfq 2665324
+FILE chr21.1.70.contam.sfq 2757163
+FILE chr21.nocontam.chr.map 2579782
+FILE chr21.0.6.nocontam.bfq 550089
+FILE chr21.0.52.nocontam.sfq 2793508
+FILE chr21.0.4.sfq 4964336
+FILE chr21.0.97.contam.sfq 2459367
+FILE chr21.1.72.nocontam.bfq 510029
+FILE chr21.1.2.contam.sfq 2682152
+FILE chr21.1.6.nocontam.fq 2188204
+FILE chr21.0.41.contam.sfq 2537888
+FILE chr21.1.62.nocontam.fq 2247866
+FILE chr21.0.46.nocontam.bfq 454337
+FILE chr21.0.63.nocontam.fq 1628787
+FILE chr21.1.39.nocontam.fq 3216598
+FILE chr21.1.10.nocontam.fq 1889020
+FILE chr21.1.39.nocontam.map 958622
+FILE chr21.1.46.contam.sfq 2567070
+FILE chr21.1.27.nocontam.sfq 2529736
+FILE chr21.0.20.nocontam.fq 1763884
+FILE chr21.1.46.nocontam.sfq 2547270
+FILE chr21.0.38.nocontam.fq 1763836
+FILE chr21.1.2.nocontam.sfq 2596046
+FILE chr21.0.96.sfq 5542067
+FILE chr21.0.97.nocontam.sfq 2328454
+FILE chr21.0.36.sfq 5659585
+FILE chr21.1.24.contam.sfq 2707544
+FILE chr21.1.81.nocontam.map 443325
+FILE chr21.1.62.nocontam.map 598550
+FILE chr21.1.21.nocontam.map 531455
+FILE chr21.0.55.nocontam.map 662376
+FILE chr21.0.29.nocontam.map 431981
+FILE chr21.1.8.nocontam.bfq 450425
+FILE chr21.1.40.contam.sfq 2512915
+FILE chr21.0.36.nocontam.sfq 2839967
+FILE chr21.0.90.contam.sfq 2630476
+FILE chr21.0.71.nocontam.map 377373
+FILE chr21.1.75.nocontam.bfq 337522
+FILE chr21.1.52.sfq 5128101
+FILE chr21.1.47.sfq 5314556
+FILE chr21.1.41.nocontam.bfq 467909
+FILE chr21.0.8.nocontam.fq 3190639
+FILE chr21.0.11.contam.sfq 2569889
+FILE chr21.1.79.sfq 5166952
+FILE chr21.0.49.nocontam.bfq 422304
+FILE chr21.0.93.nocontam.fq 1948763
+FILE chr21.1.41.contam.sfq 2574348
+FILE chr21.0.60.nocontam.fq 1846565
+FILE chr21.0.78.nocontam.fq 1511373
+FILE chr21.1.69.nocontam.fq 1472013
+FILE chr21.1.6.nocontam.sfq 2453759
+FILE chr21.1.36.nocontam.fq 3054246
+FILE chr21.1.40.nocontam.fq 2442466
+FILE chr21.BSnull.bfa 1242177912
+FILE chr21.1.66.nocontam.map 740202
+FILE chr21.0.91.nocontam.bfq 457544
+FILE chr21.0.72.nocontam.bfq 503765
+FILE chr21.1.16.contam.sfq 2609847
+FILE chr21.1.90.sfq 5117280
+FILE chr21.0.88.contam.sfq 2512738
+FILE chr21.0.31.nocontam.bfq 395027
+FILE chr21.0.66.contam.sfq 2598379
+FILE chr21.1.73.nocontam.sfq 2463231
+FILE chr21.1.92.nocontam.sfq 2479737
+FILE chr21.0.16.nocontam.fq 1678451
+FILE chr21.1.24.nocontam.map 474577
+FILE chr21.0.1.nocontam.map 483732
+FILE chr21.0.75.nocontam.map 488831
+FILE chr21.0.82.contam.sfq 2634824
+FILE chr21.1.31.nocontam.sfq 2564147
+FILE chr21.1.79.nocontam.bfq 377621
+FILE chr21.0.82.nocontam.sfq 2435979
+FILE chr21.0.40.nocontam.map 489121
+FILE chr21.0.21.nocontam.map 436206
+FILE chr21.1.0.nocontam.bfq 580530
+FILE chr21.0.74.sfq 5500202
+FILE chr21.nocontam.map 95535683
+FILE chr21.1.25.nocontam.bfq 787202
+FILE chr21.1.98.nocontam.fq 2055358
+FILE chr21.1.80.nocontam.fq 1348700
+FILE chr21.1.3.nocontam.fq 2171761
+FILE chr21.0.95.nocontam.bfq 655414
+FILE chr21.0.76.nocontam.bfq 533798
+FILE chr21.0.40.sfq 5138294
+FILE chr21.1.9.nocontam.sfq 2366413
+FILE chr21.0.83.contam.sfq 2759796
+FILE chr21.1.55.nocontam.fq 2827375
+FILE chr21.nocontam.map.vm 492413
+FILE chr21.1.69.nocontam.map 350156
+FILE chr21.0.56.nocontam.fq 3130519
+FILE chr21.0.58.contam.sfq 2760928
+FILE chr21.1.76.nocontam.sfq 2579111
+FILE chr21.0.72.sfq 5333028
+FILE chr21.0.67.sfq 5047320
+FILE chr21.1.28.nocontam.map 498846
+FILE chr21.1.3.nocontam.map 500698
+FILE chr21.0.34.nocontam.bfq 458974
+FILE chr21.0.36.contam.sfq 2819618
+FILE chr21.1.16.nocontam.sfq 2564015
+FILE chr21.1.35.nocontam.sfq 2398101
+FILE chr21.0.13.nocontam.fq 2077874
+FILE chr21.1.32.contam.sfq 2538822
+FILE chr21.1.70.nocontam.map 443369
+FILE chr21.1.51.nocontam.map 403414
+FILE chr21.0.78.nocontam.map 427900
+FILE chr21.0.59.nocontam.map 793855
+FILE chr21.0.66.nocontam.sfq 2587602
+FILE chr21.1.10.contam.sfq 2757449
+FILE chr21.0.44.nocontam.map 427753
+FILE chr21.0.25.nocontam.map 461972
+FILE chr21.1.4.nocontam.bfq 322682
+FILE chr21.0.85.nocontam.sfq 2566625
+FILE chr21.1.23.sfq 5092055
+FILE chr21.0.8.contam.sfq 2672673
+FILE chr21.0.32.nocontam.sfq 2526894
+FILE chr21.1.29.nocontam.bfq 649571
+FILE chr21.0.51.nocontam.sfq 2589203
+FILE chr21.1.87.contam.sfq 2583289
+FILE chr21.1.0.nocontam.fq 2189004
+FILE chr21.1.95.sfq 5484511
+FILE chr21.1.71.nocontam.bfq 353113
+FILE chr21.1.95.nocontam.fq 2770005
+FILE chr21.0.79.nocontam.bfq 387165
+FILE chr21.1.61.sfq 5325704
+FILE chr21.1.96.nocontam.map 525433
+FILE chr21.BS.bfa 1242177912
+FILE chr21.1.10.nocontam.bfq 489843
+FILE chr21.0.38.nocontam.bfq 394502
+FILE chr21.0.19.nocontam.bfq 326196
+FILE chr21.1.93.sfq 5567406
+FILE chr21.0.86.nocontam.fq 2233010
+FILE chr21.0.53.nocontam.fq 1801919
+FILE chr21.1.88.sfq 5286138
+FILE chr21.1.29.nocontam.fq 2800324
+FILE chr21.1.48.sfq 5177770
+FILE chr21.1.33.nocontam.fq 1856983
+FILE chr21.1.81.contam.sfq 2602154
+FILE chr21.0.80.nocontam.bfq 360815
+FILE chr21.0.61.nocontam.bfq 635789
+FILE chr21.1.19.nocontam.sfq 2693804
+FILE chr21.1.3.contam.sfq 2610127
+FILE chr21.1.45.nocontam.sfq 2584223
+FILE chr21.1.54.nocontam.map 508481
+FILE chr21.0.74.contam.sfq 2685455
+FILE chr21.1.20.nocontam.map 412743
+FILE chr21.0.52.contam.sfq 2569309
+FILE chr21.1.61.nocontam.sfq 2694315
+FILE chr21.1.86.sfq 5250241
+FILE chr21.0.28.nocontam.map 438356
+FILE chr21.1.7.nocontam.bfq 490338
+FILE chr21.0.45.sfq 5344536
+FILE chr21.0.35.nocontam.sfq 2279448
+FILE chr21.1.79.contam.sfq 2672861
+FILE chr21.0.90.sfq 5333793
+FILE chr21.1.57.contam.sfq 2608666
+FILE chr21.0.27.contam.sfq 2657539
+FILE chr21.0.70.nocontam.map 507163
+FILE chr21.0.10.nocontam.map 523951
+FILE chr21.1.74.nocontam.bfq 786456
+FILE chr21.1.55.nocontam.bfq 601047
+FILE chr21.0.11.sfq 5320378
+FILE chr21.1.14.nocontam.bfq 447591
+FILE chr21.0.38.sfq 5541981
+FILE chr21.1.73.nocontam.fq 1974226
+FILE chr21.0.83.sfq 5264801
+FILE chr21.0.43.sfq 4978158
+FILE chr21.0.48.nocontam.bfq 470931
+FILE chr21.0.72.nocontam.fq 2138177
+FILE chr21.1.30.nocontam.fq 2389054
+FILE chr21.1.48.nocontam.fq 1946829
+FILE chr21.1.58.nocontam.map 508465
+FILE chr21.0.90.nocontam.bfq 453919
+FILE chr21.0.64.nocontam.bfq 476114
+FILE chr21.0.31.nocontam.fq 1730246
+FILE chr21.0.49.nocontam.fq 1809468
+FILE chr21.0.28.contam.sfq 2808753
+FILE chr21.1.65.nocontam.sfq 2468756
+FILE chr21.0.30.nocontam.bfq 721602
+FILE chr21.0.44.contam.sfq 2556488
+FILE chr21.0.81.sfq 5388690
+FILE chr21.1.23.nocontam.map 491997
+FILE chr21.0.22.contam.sfq 2732624
+FILE chr21.0.39.nocontam.sfq 2513597
+FILE chr21.1.11.nocontam.sfq 2626681
+FILE chr21.0.74.nocontam.map 417020
+FILE chr21.1.66.sfq 5591982
+FILE chr21.1.30.nocontam.sfq 2425721
+FILE chr21.1.59.nocontam.bfq 424731
+FILE chr21.0.9.nocontam.bfq 519742
+FILE chr21.1.27.contam.sfq 2359357
+FILE chr21.0.81.nocontam.sfq 2605728
+FILE chr21.0.13.nocontam.map 584822
+FILE chr21.1.32.sfq 5075369
+FILE chr21.0.20.nocontam.sfq 2584171
+FILE chr21.1.17.nocontam.bfq 480706
+FILE chr21.1.19.sfq 5243405
+FILE chr21.1.70.nocontam.fq 1691586
+FILE chr21.1.88.nocontam.fq 1382297
+FILE chr21.1.64.sfq 5189277
+FILE chr21.1.95.contam.sfq 2867432
+FILE chr21.1.59.sfq 4878403
+FILE chr21.1.40.nocontam.bfq 680924
+FILE chr21.0.68.nocontam.bfq 432570
+FILE chr21.1.73.contam.sfq 2446440
+FILE chr21.0.79.nocontam.fq 1681253
+FILE chr21.1.48.contam.sfq 2506839
+FILE chr21.0.46.nocontam.fq 1720156
+FILE chr21.0.50.nocontam.fq 2783904
+FILE chr21.1.30.sfq 5007453
+FILE chr21.1.49.nocontam.sfq 2470220
+FILE chr21.1.68.nocontam.sfq 2808659
+FILE chr21.1.26.nocontam.fq 1867542
+FILE chr21.1.2.nocontam.map 440504
+FILE chr21.0.33.nocontam.bfq 361734
+FILE chr21.0.14.nocontam.bfq 621961
+FILE chr21.1.26.contam.sfq 2650135
+FILE chr21.1.15.nocontam.sfq 2814381
+FILE chr21.1.57.sfq 5053201
+FILE chr21.1.34.nocontam.sfq 2653804
+FILE chr21.0.9.sfq 5271133
+FILE chr21.1.84.nocontam.map 764420
+FILE chr21.0.61.sfq 5696461
+FILE chr21.0.16.sfq 5101563
+FILE chr21.1.91.nocontam.sfq 2731004
+FILE chr21.1.50.nocontam.map 453628
+FILE chr21.0.58.nocontam.map 410267
+FILE chr21.0.0.nocontam.map 480556
+FILE chr21.0.88.sfq 4971608
+FILE chr21.0.65.nocontam.sfq 2758288
+FILE chr21.0.17.nocontam.map 438995
+FILE chr21.0.24.nocontam.sfq 2631640
+FILE chr21.0.60.contam.sfq 2515680
+FILE chr21.0.19.contam.sfq 2746955
+FILE chr21.0.7.sfq 5299096
+FILE chr21.0.54.sfq 5269561
+FILE chr21.0.14.sfq 5346325
+FILE chr21.1.65.contam.sfq 2467635
+FILE chr21.1.63.nocontam.bfq 639005
+FILE chr21.1.44.nocontam.bfq 385228
+FILE chr21.0.5.nocontam.fq 1759295
+FILE chr21.0.86.sfq 5263873
+FILE chr21.1.43.contam.sfq 2626000
+FILE chr21.0.13.contam.sfq 2565637
+FILE chr21.0.90.nocontam.fq 2240082
+FILE chr21.1.66.nocontam.fq 2995165
+FILE chr21.1.88.nocontam.map 317016
+FILE chr21.0.94.nocontam.bfq 278947
+FILE chr21.0.37.nocontam.bfq 414148
+FILE chr21.0.18.nocontam.bfq 391204
+FILE chr21.0.76.nocontam.fq 2341768
+FILE chr21.0.52.sfq 5362817
+FILE chr21.1.23.nocontam.fq 2055619
+FILE chr21.0.60.nocontam.bfq 455244
+FILE chr21.1.18.nocontam.sfq 2618843
+FILE chr21.0.79.sfq 5114216
+FILE chr21.0.68.contam.sfq 2613243
+FILE chr21.0.24.nocontam.fq 2669570
+FILE chr21.1.95.nocontam.sfq 2617079
+FILE chr21.1.10.sfq 5411542
+FILE chr21.1.53.nocontam.map 379986
+FILE chr21.0.4.nocontam.map 485317
+FILE chr21.1.1.sfq 4649829
+FILE chr21.0.14.contam.sfq 2650787
+FILE chr21.1.37.sfq 5291142
+FILE chr21.0.69.nocontam.sfq 2582166
+FILE chr21.1.12.nocontam.map 445580
+FILE chr21.0.30.contam.sfq 2781355
+FILE chr21.1.60.nocontam.sfq 2550419
+FILE chr210.sfq 520036943
+FILE chr21.1.89.nocontam.bfq 631408
+FILE chr21.0.27.nocontam.sfq 2440453
+FILE chr21.1.19.contam.sfq 2549601
+FILE chr21.0.62.nocontam.map 339992
+FILE chr21.0.43.nocontam.map 318642
+FILE chr21.0.5.nocontam.bfq 433599
+FILE chr21.1.35.sfq 4842083
+FILE chr21.1.80.sfq 4939574
+FILE chr21.1.75.sfq 4788411
+FILE chr21.1.47.nocontam.bfq 749920
+FILE chr21.0.2.contam.sfq 2525628
+FILE chr21.0.50.nocontam.sfq 2495401
+FILE chr21.1.13.contam.sfq 2472759
+FILE chr21.0.85.contam.sfq 2644554
+FILE chr21.1.13.nocontam.bfq 480636
+FILE chr21.0.98.nocontam.bfq 726914
+FILE chr21.1.96.nocontam.fq 2082358
+FILE chr21.1.63.nocontam.fq 2859156
+FILE chr21.1.73.sfq 4909671
+FILE chr21.1.79.nocontam.sfq 2494091
+FILE chr21.1.98.nocontam.sfq 2599510
+FILE chr21.1.28.sfq 5455640
+FILE chr21.1.57.nocontam.map 628148
+FILE chr21.1.38.nocontam.map 661472
+FILE chr21.0.63.nocontam.bfq 378436
+FILE chr21.0.54.nocontam.fq 2028931
+FILE chr21.0.21.nocontam.fq 1755750
+FILE chr21.0.39.nocontam.fq 2159451
+FILE chr21.0.32.sfq 5037057
+FILE chr21.0.7.nocontam.map 372726
+FILE chr21.0.22.nocontam.bfq 346576
+FILE chr21.1.34.contam.sfq 2905007
+FILE chr21.0.59.sfq 5225416
+FILE chr21.1.64.nocontam.sfq 2629110
+FILE chr21.1.80.nocontam.map 386309
+FILE chr21.0.88.nocontam.map 428964
+FILE chr21.1.12.contam.sfq 2542945
+FILE chr21.0.47.nocontam.map 529025
+FILE chr21.0.30.sfq 5607604
+FILE chr21.0.25.sfq 5750145
+FILE chr21.0.54.nocontam.sfq 2579352
+FILE chr21.0.95.nocontam.sfq 2604800
+FILE chr21.0.8.nocontam.bfq 747503
+FILE chr21.1.89.contam.sfq 2427085
+FILE chr21.0.57.sfq 5284651
+FILE chr21.0.12.nocontam.map 467404
+FILE chr21.1.93.nocontam.bfq 921203
+FILE chr21.1.16.nocontam.bfq 573418
+FILE chr21.1.82.nocontam.fq 1945223
+FILE chr21.0.23.sfq 5319068
+FILE chr21.1.6.sfq 5128819
+FILE chr21.0.67.nocontam.bfq 650287
+FILE chr21.0.83.nocontam.fq 1832007
+FILE chr21.1.41.nocontam.fq 2129638
+FILE chr21.1.59.nocontam.fq 1854297
+FILE chr21.1.51.contam.sfq 2513031
+FILE chr21.0.69.nocontam.fq 3062361
+FILE chr21.0.40.nocontam.fq 1988018
+FILE chr21.1.48.nocontam.sfq 2670931
+FILE chr21.1.5.contam.sfq 2698929
+FILE chr21.1.16.nocontam.fq 2661918
+FILE chr21.0.32.nocontam.bfq 500046
+FILE chr21.1.4.sfq 5095216
+FILE chr21.0.17.nocontam.fq 1827053
+FILE chr21.0.76.contam.sfq 2666250
+FILE chr21.1.83.nocontam.map 714442
+FILE chr21.1.42.nocontam.map 586560
+FILE chr21.0.54.contam.sfq 2690209
+FILE chr21.1.90.nocontam.sfq 2648728
+FILE chr21.nocontam.map.zr 1587057
+FILE chr21.1.46.sfq 5114340
+FILE chr21.0.57.nocontam.sfq 2617627
+FILE chr21.1.51.sfq 5166414
+FILE chr21.0.73.nocontam.map 687204
+FILE chr21.0.16.nocontam.map 431222
+FILE chr21.0.23.nocontam.sfq 2539188
+FILE chr21.0.92.nocontam.map 652600
+FILE chr21.1.77.nocontam.bfq 517151
+FILE chr21.1.43.nocontam.bfq 529390
+FILE chr21.1.4.nocontam.fq 1693067
+FILE chr21.1.44.sfq 5082165
+FILE chr21.0.93.contam.sfq 2678937
+FILE chr21.0.80.nocontam.fq 1739822
+FILE chr21.1.89.nocontam.fq 2462785
+FILE chr21.1.56.nocontam.fq 2172581
+FILE chr21.1.60.nocontam.fq 2303797
+FILE chr21.1.87.nocontam.map 594701
+FILE chr21.0.93.nocontam.bfq 406910
+FILE chr21.0.71.contam.sfq 2492402
+FILE chr21.0.52.nocontam.bfq 586411
+FILE chr21.0.47.nocontam.fq 1853860
+FILE chr21.0.14.nocontam.fq 2645281
+FILE chr21.1.94.nocontam.sfq 2486005
+FILE chr21.0.46.contam.sfq 2854232
+FILE chr21.1.26.nocontam.map 560818
+FILE chr21.1.1.nocontam.map 684796
+FILE chr21.0.3.nocontam.map 712560
+FILE chr21.1.33.nocontam.sfq 2434065
+FILE chr21.0.96.nocontam.map 568764
+FILE chr21.0.77.nocontam.map 526919
+FILE chr21.0.28.sfq 5481219
+FILE chr21.1.20.contam.sfq 2833098
+FILE chr21.0.84.nocontam.sfq 2697269
+FILE chr21.0.42.nocontam.map 927017
+FILE chr21.1.1.nocontam.fq 2573532
+FILE chr21.0.47.contam.sfq 2412679
+FILE chr21.1.97.contam.sfq 2581222
+FILE chr21.1.46.nocontam.bfq 430098
+FILE chr21.1.75.contam.sfq 2454707
+FILE chr21.0.97.nocontam.bfq 362776
+FILE chr21.0.6.nocontam.fq 1912321
+FILE chr21.1.86.nocontam.fq 1628581
+FILE chr21.1.78.nocontam.sfq 2690038
+FILE chr21.1.34.nocontam.fq 1601496
+FILE chr21.0.87.nocontam.fq 1885319
+FILE chr21.1.5.nocontam.map 470033
+FILE chr21.0.36.nocontam.bfq 402620
+FILE chr21.1.37.nocontam.sfq 2753563
+FILE chr21.1.97.nocontam.sfq 2793604
+FILE chr21.0.33.nocontam.fq 1365064
+FILE chr21_1.nocontam.map 51502475
+FILE chr21.0.6.nocontam.map 597922
+FILE chr21.0.21.nocontam.bfq 401310
+FILE chr21.1.22.sfq 5012092
+FILE chr21.1.17.sfq 4737681
+FILE chr21.1.72.nocontam.map 554379
+FILE chr21.0.87.nocontam.sfq 2756126
+FILE chr21.0.46.nocontam.map 493844
+FILE chr21.1.6.nocontam.bfq 650378
+FILE chr21.1.92.contam.sfq 2388739
+FILE chr21.0.62.contam.sfq 2496971
+FILE chr21.0.53.nocontam.sfq 2548920
+FILE chr21.1.15.sfq 5461072
+FILE chr21.0.40.contam.sfq 2631265
+FILE chr21.1.67.contam.sfq 2525590
+FILE chr21.1.92.nocontam.bfq 482153
+FILE chr21.1.73.nocontam.bfq 483847
+FILE chr21.0.3.nocontam.fq 2269892
+FILE chr21.0.11.nocontam.sfq 2750489
+FILE chr21.1.31.nocontam.bfq 490230
+FILE chr21.0.73.nocontam.fq 2599321
+FILE chr21.1.64.nocontam.fq 1510260
+FILE chr21.0.5.sfq 5489126
+FILE chr21.1.31.nocontam.fq 1882235
+FILE chr21.1.49.nocontam.fq 2736989
+FILE chr21.1.8.nocontam.map 489592
+FILE chr21.0.82.nocontam.bfq 384819
+FILE chr21.0.38.contam.sfq 2826743
+FILE chr21.1.68.contam.sfq 2588625
+FILE chr21.1.75.nocontam.map 366871
+FILE chr21.1.56.nocontam.map 555711
+FILE chr21.0.11.nocontam.fq 2295104
+FILE chr21.0.16.contam.sfq 2529322
+FILE chr21.1.41.nocontam.map 508596
+FILE chr21.1.22.nocontam.map 429180
+FILE chr21.1.63.nocontam.sfq 2486881
+FILE chr21.1.82.nocontam.sfq 2443191
+FILE chr21.0.32.contam.sfq 2510163
+FILE chr21.0.3.sfq 5440741
+FILE chr21.0.49.nocontam.map 459026
+FILE chr21.1.9.nocontam.bfq 310582
+FILE chr21.0.10.sfq 4983077
+FILE chr21.0.37.nocontam.sfq 2305919
+FILE chr21.0.56.nocontam.sfq 2459607
+FILE chr21.0.91.nocontam.map 497330
+FILE chr21.0.72.nocontam.map 547570
+FILE chr21.0.31.nocontam.map 429377
+FILE chr21.1.76.nocontam.bfq 470837
+FILE chr21.0.4.contam.sfq 2375415
+FILE chr21.0.87.contam.sfq 2867228
+FILE chr21.1.35.nocontam.bfq 760161
+FILE chr21.1.93.nocontam.fq 3526670
+FILE chr21.0.33.contam.sfq 2805044
+FILE chr21.1.79.nocontam.fq 1636443
+FILE chr21.1.50.nocontam.fq 1972874
+FILE chr21.1.83.contam.sfq 2494563
+FILE chr21.1.79.nocontam.map 410457
+FILE chr21.0.85.nocontam.bfq 614885
+FILE chr21.0.66.nocontam.bfq 458284
+FILE chr21.0.51.nocontam.fq 1419074
+FILE chr21.1.27.nocontam.fq 2802614
+FILE chr21.1.61.contam.sfq 2631389
+FILE chr21.1.67.nocontam.sfq 2342804
+FILE chr21.0.51.nocontam.bfq 363440
+FILE chr21.0.37.nocontam.fq 1738551
+FILE chr21.1.85.sfq 5426404
+FILE chr21.1.86.nocontam.sfq 2663323
+FILE chr21.1.25.nocontam.map 855654
+FILE chr21.1.0.nocontam.map 631010
+FILE chr21.1.32.nocontam.sfq 2536547
+FILE chr21.0.2.nocontam.sfq 2605378
+FILE chr21.0.76.nocontam.map 580215
+FILE chr21.1.83.sfq 5198312
+FILE chr21.0.83.nocontam.sfq 2505005
+FILE chr21.1.78.sfq 5503806
+FILE chr21.1.59.contam.sfq 2497029
+FILE chr21.1.18.sfq 5247147
+FILE chr21.0.34.nocontam.map 498884
+FILE chr21.0.15.nocontam.map 588465
+FILE chr21.1.37.contam.sfq 2537579
+FILE chr21.1.19.nocontam.bfq 475526
+FILE chr21.1.90.nocontam.fq 2147766
+FILE chr21.0.41.nocontam.sfq 2748130
+FILE chr21.1.53.contam.sfq 2529065
+FILE chr21.1.61.nocontam.bfq 557010
+FILE chr21.0.89.nocontam.bfq 544143
+FILE chr21.0.66.nocontam.fq 1724086
+FILE chr21.1.57.nocontam.fq 2204888
+FILE chr21.1.24.nocontam.fq 1741653
+FILE chr21.0.35.sfq 4789373
+FILE chr21.1.7.contam.sfq 2537276
+FILE chr21.0.80.sfq 5134296
+FILE chr21.0.81.nocontam.fq 1659783
+FILE chr21.1.29.nocontam.map 706055
+FILE chr21.1.4.nocontam.map 350741
+FILE chr21.0.35.nocontam.bfq 451039
+FILE chr21.1.36.nocontam.sfq 2728758
+FILE chr21.0.78.contam.sfq 2781055
+FILE chr21_0.nocontam.map 49765349
+FILE chr21.1.45.nocontam.map 503202
+FILE chr21.0.24.contam.sfq 2435274
+FILE chr21.0.6.sfq 4972481
+FILE chr21.1.71.nocontam.map 383818
+FILE chr21.0.79.nocontam.map 420831
+FILE chr21.0.86.nocontam.sfq 2589322
+FILE chr21.0.73.sfq 5185814
+FILE chr21.1.52.nocontam.sfq 2453407
+FILE chr21.1.10.nocontam.map 532438
+FILE chr21.0.38.nocontam.map 428806
+FILE chr21.0.19.nocontam.map 354560
+FILE chr21.0.26.nocontam.sfq 2476367
+FILE chr21.0.45.nocontam.sfq 2607669
+FILE chr21.1.8.contam.sfq 2678698
+FILE chr21.1.29.contam.sfq 2564262
+FILE chr21.0.79.contam.sfq 2456193
+FILE chr21.0.80.nocontam.map 392190
+FILE chr21.0.61.nocontam.map 691075
+FILE chr21.1.65.nocontam.bfq 401511
+FILE chr21.0.71.sfq 5081336
+FILE chr21.1.97.nocontam.fq 2145693
+FILE chr21.0.95.contam.sfq 2590778
+FILE chr21.0.98.sfq 5493477
+FILE chr21.1.30.nocontam.bfq 544977
+FILE chr21.0.39.nocontam.bfq 479191
+FILE chr21.0.96.nocontam.fq 2184754
+FILE chr21.1.56.sfq 5410282
+FILE chr21.1.0.sfq 5423792
+FILE chr21.1.43.nocontam.fq 2183587
+FILE chr21.0.73.contam.sfq 2631377
+FILE chr21.1.7.nocontam.map 532976
+FILE chr21.0.81.nocontam.bfq 348269
+FILE chr21.0.55.nocontam.bfq 609386
+FILE chr21.1.39.nocontam.sfq 2663856
+FILE chr21.0.44.nocontam.fq 1760260
+FILE chr21.1.74.nocontam.map 854843
+FILE chr21.1.55.nocontam.map 653311
+FILE chr21.1.14.nocontam.map 486511
+FILE chr21.0.20.nocontam.bfq 463755
+FILE chr21.1.21.nocontam.sfq 2527955
+FILE chr21.1.62.nocontam.sfq 2628590
+FILE chr21.1.94.sfq 4836903
+FILE chr21.1.81.nocontam.sfq 2663098
+FILE chr21.1.1.contam.sfq 2409166
+FILE chr21.1.54.sfq 5159468
+FILE chr21.1.49.sfq 5016042
+FILE chr21.0.29.nocontam.sfq 2447697
+FILE chr21.0.64.nocontam.map 517515
+FILE chr21.0.49.contam.sfq 2830387
+FILE chr21.0.30.nocontam.map 784350
+FILE chr21.1.68.nocontam.bfq 439006
+FILE chr21.1.49.nocontam.bfq 624555
+FILE chr21.0.71.nocontam.sfq 2588934
+FILE chr21.1.45.contam.sfq 2695451
+FILE chr21.1.92.sfq 4868476
+FILE chr21.1.91.nocontam.bfq 423325
+FILE chr21.1.34.nocontam.bfq 424602
+FILE chr21.1.15.nocontam.bfq 514941
+FILE chr21.1.83.nocontam.fq 2801773
+FILE chr21.1.23.contam.sfq 2572123
+FILE chr21.0.51.sfq 5071620
+FILE chr21.0.78.sfq 5300730
+FILE chr21.1.59.nocontam.map 461664
+FILE chr21.0.84.nocontam.bfq 455083
+FILE chr21.0.65.nocontam.bfq 589659
+FILE chr21.0.41.nocontam.fq 2035913
+FILE chr21.1.17.nocontam.fq 1966573
+FILE chr21.1.21.nocontam.fq 2110246
+FILE chr21.1.66.nocontam.sfq 2707950
+FILE chr21.0.74.nocontam.fq 1501740
+FILE chr21.0.9.nocontam.map 564936
+FILE chr21.0.24.nocontam.bfq 675560
+FILE chr21.0.44.sfq 5152734
+FILE chr21.1.17.nocontam.map 522506
+FILE chr21.1.24.nocontam.sfq 2610738
+FILE chr21.0.76.sfq 5100196
+FILE chr21.0.64.contam.sfq 2343579
+FILE chr21.0.68.nocontam.map 470184
+FILE chr21.0.10.contam.sfq 2393679
+FILE chr21.1.94.contam.sfq 2350898
+FILE chr21.0.75.nocontam.sfq 2617328
+FILE chr21.1.40.nocontam.map 740134
+FILE chr21.0.42.sfq 5424193
+FILE chr21.0.33.nocontam.map 393189
+FILE chr21.0.14.nocontam.map 676044
+FILE chr21.1.95.nocontam.bfq 596322
+FILE chr21.0.69.sfq 4998501
+FILE chr21.1.15.contam.sfq 2646691
+FILE chr21.0.21.nocontam.sfq 2735114
+FILE chr21.0.0.nocontam.fq 1946655
+FILE chr21.1.18.nocontam.bfq 639485
+FILE chr21.1.72.sfq 5110460
+FILE chr21.0.65.contam.sfq 2890545
+FILE chr21.1.27.sfq 4889093
+FILE chr21.0.40.nocontam.sfq 2507029
+FILE chr21.1.60.nocontam.bfq 549031
+FILE chr21.0.69.nocontam.bfq 939274
+FILE chr21.1.61.nocontam.fq 2020061
+FILE chr21.0.89.nocontam.fq 2084514
+FILE chr21.0.81.contam.sfq 2782962
+FILE chr21.1.47.nocontam.fq 3111666
+FILE chr21.1.69.nocontam.sfq 2310458
+FILE chr21.0.71.nocontam.fq 1658906
+FILE chr21.1.85.nocontam.map 368069
+FILE chr21.0.27.nocontam.bfq 728216
+FILE chr21.0.18.contam.sfq 2635485
+FILE chr21.1.25.sfq 5040068
+FILE chr21.1.70.sfq 5388085
+FILE chr21.1.28.nocontam.sfq 2616290
+FILE chr21.0.48.nocontam.fq 2000314
+FILE chr21.1.65.sfq 4936391
+FILE chr21.1.3.nocontam.sfq 2832115
+FILE chr21.1.63.nocontam.map 694570
+FILE chr21.1.44.nocontam.map 418726
+FILE chr21.0.50.nocontam.bfq 756390
+FILE chr21.1.97.sfq 5374826
+FILE chr21.0.59.nocontam.sfq 2529307
+FILE chr21.1.51.nocontam.sfq 2653383
+FILE chr21.1.70.nocontam.sfq 2630922
+FILE chr21.0.18.nocontam.map 425221
+FILE chr21.0.25.nocontam.sfq 2933637
+FILE chr21.1.63.sfq 5063764
+FILE chr21.0.44.nocontam.sfq 2596246
+FILE chr21.0.94.nocontam.map 303203
+FILE chr21.1.98.nocontam.bfq 548212
+FILE chr21.0.6.contam.sfq 2471022
+FILE chr21.0.57.contam.sfq 2667024
+FILE chr21.0.22.sfq 5220064
+FILE chr21.0.60.nocontam.map 494830
+FILE chr21.1.64.nocontam.bfq 414558
+FILE chr21.0.35.contam.sfq 2509925
+FILE chr21.0.49.sfq 5512624
+FILE chr21.1.91.nocontam.fq 1509333
+FILE chr21.0.8.sfq 5359201
+FILE chr21.1.76.nocontam.fq 1697827
+FILE chr21.1.85.contam.sfq 2602610
+FILE chr21.0.7.nocontam.fq 1739971
+FILE chr21.1.31.contam.sfq 2720960
+FILE chr21.1.89.nocontam.map 686313
+FILE chr21.0.20.sfq 5021148
+FILE chr21.0.15.sfq 5419762
+FILE chr21.0.60.sfq 4839741
+FILE chr21.0.73.nocontam.bfq 632228
+FILE chr21.0.54.nocontam.bfq 466001
+FILE chr21.0.67.nocontam.fq 3115570
+FILE chr21.0.7.contam.sfq 2646615
+FILE chr21.0.34.nocontam.fq 1847139
+FILE chr21.1.96.nocontam.sfq 2322225
+FILE chr21.0.92.sfq 5272043
+FILE chr21.0.87.sfq 5623354
+FILE chr21.1.14.nocontam.fq 1820480
+FILE chr21.0.47.sfq 5023848
+FILE chr21.1.47.nocontam.map 815130
+FILE chr21.0.5.nocontam.map 471303
+FILE chr21.0.15.nocontam.fq 2436662
+FILE chr21.1.54.nocontam.sfq 2551016
+FILE chr21.1.86.contam.sfq 2586918
+FILE chr21.1.13.nocontam.map 522430
+FILE chr21.0.98.nocontam.map 790123
+FILE chr21.0.1.contam.sfq 2687502
+FILE chr21.0.13.sfq 4928963
+FILE chr21.0.85.sfq 5211179
+FILE chr21.1.20.nocontam.sfq 2579701
+FILE chr21.0.28.nocontam.sfq 2672466
+FILE chr21.0.63.nocontam.map 411343
+FILE chr21.1.80.contam.sfq 2520153
+FILE chr21.1.39.contam.sfq 2578214
+FILE chr21.1.43.sfq 5128113
+FILE chr21.0.50.contam.sfq 2524034
+FILE chr21.0.22.nocontam.map 376713
+FILE chr21.1.48.nocontam.bfq 474631
+FILE chr21.0.10.nocontam.sfq 2589398
+FILE chr21.0.70.nocontam.sfq 2877930
+FILE chr21.1.90.nocontam.bfq 480514
+FILE chr21.1.7.nocontam.fq 2288688
+FILE chr21.1.54.nocontam.fq 1925420
+FILE chr21.1.36.sfq 5257465
+FILE chr21.1.41.sfq 5117303
+FILE chr21.0.57.nocontam.bfq 484929
+FILE chr21.0.64.nocontam.fq 1989609
+FILE chr21.1.58.nocontam.sfq 2647587
+FILE chr21.1.78.contam.sfq 2813768
+FILE chr21.0.51.contam.sfq 2482417
+FILE chr21.1.68.sfq 5397284
+FILE chr21.1.11.nocontam.fq 1607546
+FILE chr21.0.8.nocontam.map 812503
+FILE chr21.0.23.nocontam.bfq 522537
+FILE chr21.0.12.nocontam.fq 1777206
+FILE chr21.0.26.contam.sfq 2654742
+FILE chr21.1.56.contam.sfq 2709634
+FILE chr21.1.93.nocontam.map 1001307
+FILE chr21.0.89.nocontam.sfq 2575981
+FILE chr21.1.23.nocontam.sfq 2519932
+FILE chr21.1.34.sfq 5558811
+FILE chr21.0.67.nocontam.map 706833
+FILE chr21.0.48.nocontam.map 511881
+FILE chr21.0.55.nocontam.sfq 2621806
+FILE chr21.0.74.nocontam.sfq 2814747
+FILE chr21.0.90.nocontam.map 493390
+FILE chr21.1.94.nocontam.bfq 457405
+FILE chr21.0.13.nocontam.sfq 2363326
+FILE chr21.0.31.sfq 5068301
+FILE chr21.0.43.contam.sfq 2608959
+FILE chr21.1.52.nocontam.bfq 505208
+FILE chr21.1.33.nocontam.bfq 444827
+FILE chr21.1.84.nocontam.fq 2606407
+FILE chr21.0.58.sfq 5620464
+FILE chr21.1.51.nocontam.fq 1781446
+FILE chr21.0.18.sfq 5430303
+FILE chr21.0.21.contam.sfq 2477168
+FILE chr21.0.63.sfq 5485468
+FILE chr21.1.71.contam.sfq 2737931
+FILE chr21.1.77.nocontam.map 562120
+FILE chr21.0.26.nocontam.bfq 358039
+FILE chr21.0.42.nocontam.fq 3364980
+FILE chr21.0.98.contam.sfq 2619522
+FILE chr21.0.27.nocontam.fq 2785984
+FILE chr21.1.18.nocontam.fq 2879142
+FILE chr21.1.43.nocontam.map 575423
+FILE chr21.1.84.nocontam.sfq 2540859
+FILE chr21.0.56.sfq 5140019
+FILE chr21.0.0.nocontam.sfq 2539343
+FILE chr21.0.58.nocontam.sfq 2859536
+FILE chr21.1.50.nocontam.sfq 2622915
+FILE chr21.1.14.sfq 5140373
+FILE chr21.0.17.nocontam.sfq 2586203
+FILE chr21.1.5.sfq 5220903
+FILE chr21.1.72.contam.sfq 2568042
+FILE chr21.0.93.nocontam.map 442293
+FILE chr21.0.52.nocontam.map 637403
+FILE chr21.1.97.nocontam.bfq 450686
+FILE chr21.1.78.nocontam.bfq 332938
+FILE chr21.1.47.contam.sfq 2608923
+FILE chr21.1.56.nocontam.bfq 511255
+FILE chr21.1.37.nocontam.bfq 711241
+FILE chr21.1.12.sfq 5063104
+FILE chr21.1.25.contam.sfq 2531304
+FILE chr21.0.1.nocontam.fq 2002645
+FILE chr21.1.39.sfq 5242070
+FILE chr21.1.3.sfq 5442242
+FILE chr21.1.81.nocontam.fq 1800888
+FILE chr21.0.87.nocontam.bfq 419546
+FILE chr21.0.82.nocontam.fq 1648878
+FILE chr21.1.88.nocontam.sfq 2618802
+FILE chr21.1.58.nocontam.fq 2124327
+FILE chr21.0.53.nocontam.bfq 416583
+FILE chr21.0.57.nocontam.fq 2221489
+FILE chr21.0.91.contam.sfq 2686296
+FILE chr21.1.50.sfq 5409466
+FILE chr21.0.2.sfq 5131006
+FILE chr21.1.46.nocontam.map 467497
+FILE chr21.1.27.nocontam.map 771030
+FILE chr21.1.77.sfq 5149604
+FILE chr21.1.64.contam.sfq 2560167
+FILE chr21.0.4.nocontam.sfq 2588921
+FILE chr21.0.97.nocontam.map 394321
+FILE chr21.0.11.nocontam.bfq 634308
+FILE chr21.0.12.contam.sfq 2690874
+FILE chr21.0.78.nocontam.sfq 2519675
+FILE chr21.1.12.nocontam.sfq 2520159
+FILE chr21.1.53.nocontam.sfq 2384804
+FILE chr21.1.42.contam.sfq 2671798
+FILE chr21.0.0.sfq 5014539
+FILE chr21.0.36.nocontam.map 437630
+FILE chr21.0.43.nocontam.sfq 2369199
+FILE chr21.1.17.contam.sfq 2254805
+FILE chr21.0.89.contam.sfq 2845130
+FILE chr21.0.34.sfq 5516397
+FILE chr21.0.29.sfq 4861903
+FILE chr21.0.67.contam.sfq 2418862
+FILE chr21.0.94.sfq 5027466
+FILE chr21.1.82.nocontam.bfq 442633
+FILE chr21.1.77.nocontam.fq 2251524
+FILE chr21.1.44.nocontam.fq 1643470
+FILE chr21.0.97.nocontam.fq 1517191
+FILE chr21.1.6.nocontam.map 706932
+FILE chr21.0.56.nocontam.bfq 754674
+FILE chr21.1.57.nocontam.sfq 2444535
+FILE chr21.1.25.nocontam.fq 3269975
+FILE chr21.1.18.contam.sfq 2628304
+FILE chr21.0.27.sfq 5097992
+FILE chr21.1.38.nocontam.sfq 2478767
+FILE chr21.0.15.nocontam.bfq 541388
+FILE chr21.0.35.nocontam.fq 1649609
+FILE chr21.0.7.nocontam.sfq 2652481
+FILE chr21.1.92.nocontam.map 524079
+FILE chr21.1.73.nocontam.map 525920
+FILE chr21.0.88.nocontam.sfq 2458870
+FILE chr21.1.80.nocontam.sfq 2419421
+FILE chr21.1.31.nocontam.map 532858
+FILE chr21.0.47.nocontam.sfq 2611169
+FILE chr21.0.84.contam.sfq 2550125
+FILE chr21.1.8.sfq 5356648
+FILE chr21.0.59.contam.sfq 2696109
+FILE chr21.0.82.nocontam.map 418281
+FILE chr21.1.86.nocontam.bfq 398536
+FILE chr21.1.67.nocontam.bfq 355410
+FILE chr21.0.37.contam.sfq 2541908
+FILE chr21.0.12.nocontam.sfq 2888996
+FILE chr21.0.2.nocontam.bfq 431003
+FILE chr21.1.33.contam.sfq 2565441
+FILE chr21.1.32.nocontam.bfq 494056
+FILE chr21.1.74.nocontam.fq 3503431
+FILE chr21.1.11.contam.sfq 2530467
+FILE chr21.1.21.sfq 5098513
+FILE chr21.1.9.nocontam.map 337589
+FILE chr21.0.83.nocontam.bfq 472628
+FILE chr21.1.22.nocontam.fq 1874758
+FILE chr21.0.9.contam.sfq 2735216
+FILE chr21.0.75.nocontam.fq 1898265
+FILE chr21.1.76.nocontam.map 511779
+FILE chr21.0.32.nocontam.fq 2118954
+FILE chr21.1.88.contam.sfq 2667336
+FILE chr21.1.35.nocontam.map 826261
+FILE chr21.1.16.nocontam.map 623280
+FILE chr21.0.41.nocontam.bfq 477858
+FILE chr21.1.83.nocontam.sfq 2703749
+FILE chr21.1.42.nocontam.sfq 2580188
+FILE chr21.0.85.nocontam.map 668353
+FILE chr21.0.66.nocontam.map 498134
+FILE chr21.1.50.contam.sfq 2786551
+FILE chr21.0.16.nocontam.sfq 2572241
+FILE chr21.0.70.sfq 5500896
+FILE chr21.0.51.nocontam.map 395043
+FILE chr21.0.32.nocontam.map 543528
+FILE chr21.1.96.nocontam.bfq 483399
+FILE chr21.1.4.contam.sfq 2654816
+FILE chr21.0.73.nocontam.sfq 2554437
+FILE chr21.0.92.nocontam.sfq 2541990
+FILE chr21.0.97.sfq 4787821
+FILE chr21.1.36.nocontam.bfq 766684
+FILE chr21.0.75.contam.sfq 2626332
+FILE chr21.0.53.contam.sfq 2705616
+FILE chr21.0.9.nocontam.fq 1852590
+TASK ID00500 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00632 Genome::map_chr21:1.0 2968.57
+TASK ID00764 Genome::map_chr21:1.0 2839.79
+TASK ID00501 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00633 Genome::map_chr21:1.0 4823.93
+TASK ID00765 Genome::map_chr21:1.0 3530.55
+TASK ID00502 Genome::fastq2bfq_chr21:1.0 0.19
+TASK ID00634 Genome::map_chr21:1.0 4790.89
+TASK ID00766 Genome::map_chr21:1.0 4740.51
+TASK ID00503 Genome::fastq2bfq_chr21:1.0 0.40
+TASK ID00635 Genome::map_chr21:1.0 2469.27
+TASK ID00767 Genome::map_chr21:1.0 4477.74
+TASK ID00504 Genome::fastq2bfq_chr21:1.0 0.32
+TASK ID00636 Genome::map_chr21:1.0 6679.72
+TASK ID00768 Genome::map_chr21:1.0 3412.49
+TASK ID00505 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00637 Genome::map_chr21:1.0 4020.57
+TASK ID00769 Genome::map_chr21:1.0 3886.96
+TASK ID00506 Genome::fastq2bfq_chr21:1.0 0.17
+TASK ID00638 Genome::map_chr21:1.0 2323.19
+TASK ID00770 Genome::map_chr21:1.0 2990.69
+TASK ID00507 Genome::fastq2bfq_chr21:1.0 0.42
+TASK ID00639 Genome::map_chr21:1.0 2932.28
+TASK ID00771 Genome::map_chr21:1.0 4785.38
+TASK ID00508 Genome::fastq2bfq_chr21:1.0 0.21
+TASK ID00640 Genome::map_chr21:1.0 3578.63
+TASK ID00772 Genome::map_chr21:1.0 6076.43
+TASK ID00509 Genome::fastq2bfq_chr21:1.0 0.22
+TASK ID00641 Genome::map_chr21:1.0 3288.37
+TASK ID00773 Genome::map_chr21:1.0 2530.82
+TASK ID00510 Genome::fastq2bfq_chr21:1.0 0.31
+TASK ID00642 Genome::map_chr21:1.0 5023.10
+TASK ID00774 Genome::map_chr21:1.0 3343.90
+TASK ID00511 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00643 Genome::map_chr21:1.0 3253.75
+TASK ID00775 Genome::map_chr21:1.0 4402.57
+TASK ID00512 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00644 Genome::map_chr21:1.0 5819.52
+TASK ID00776 Genome::map_chr21:1.0 3194.44
+TASK ID00513 Genome::fastq2bfq_chr21:1.0 0.68
+TASK ID00645 Genome::map_chr21:1.0 4980.69
+TASK ID00777 Genome::map_chr21:1.0 5081.50
+TASK ID00514 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00646 Genome::map_chr21:1.0 6627.16
+TASK ID00778 Genome::map_chr21:1.0 2845.36
+TASK ID00647 Genome::map_chr21:1.0 3854.25
+TASK ID00779 Genome::map_chr21:1.0 5205.01
+TASK ID00515 Genome::fastq2bfq_chr21:1.0 0.39
+TASK ID00648 Genome::map_chr21:1.0 2445.68
+TASK ID00516 Genome::fastq2bfq_chr21:1.0 0.22
+TASK ID00649 Genome::map_chr21:1.0 2937.40
+TASK ID00780 Genome::map_chr21:1.0 4114.92
+TASK ID00517 Genome::fastq2bfq_chr21:1.0 0.19
+TASK ID00781 Genome::map_chr21:1.0 3275.65
+TASK ID00518 Genome::fastq2bfq_chr21:1.0 0.35
+TASK ID00650 Genome::map_chr21:1.0 2286.54
+TASK ID00782 Genome::map_chr21:1.0 4080.70
+TASK ID00519 Genome::fastq2bfq_chr21:1.0 0.31
+TASK ID00651 Genome::map_chr21:1.0 2837.76
+TASK ID00783 Genome::map_chr21:1.0 4490.71
+TASK ID00520 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00652 Genome::map_chr21:1.0 2989.28
+TASK ID00784 Genome::map_chr21:1.0 2978.98
+TASK ID00521 Genome::fastq2bfq_chr21:1.0 0.25
+TASK ID00653 Genome::map_chr21:1.0 6103.29
+TASK ID00785 Genome::map_chr21:1.0 2965.37
+TASK ID00786 Genome::map_chr21:1.0 4458.55
+TASK ID00522 Genome::fastq2bfq_chr21:1.0 0.39
+TASK ID00654 Genome::map_chr21:1.0 4604.06
+TASK ID00787 Genome::map_chr21:1.0 2992.64
+TASK ID00523 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00655 Genome::map_chr21:1.0 2729.94
+TASK ID00788 Genome::map_chr21:1.0 3133.94
+TASK ID00524 Genome::fastq2bfq_chr21:1.0 0.54
+TASK ID00656 Genome::map_chr21:1.0 3254.29
+TASK ID00789 Genome::map_chr21:1.0 2823.58
+TASK ID00525 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00657 Genome::map_chr21:1.0 2603.32
+TASK ID00526 Genome::fastq2bfq_chr21:1.0 0.40
+TASK ID00658 Genome::map_chr21:1.0 2991.05
+TASK ID00527 Genome::fastq2bfq_chr21:1.0 0.35
+TASK ID00659 Genome::map_chr21:1.0 5083.33
+TASK ID00790 Genome::map_chr21:1.0 3132.32
+TASK ID00791 Genome::map_chr21:1.0 5531.88
+TASK ID00528 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00792 Genome::map_chr21:1.0 2858.06
+TASK ID00660 Genome::map_chr21:1.0 3067.00
+TASK ID00529 Genome::fastq2bfq_chr21:1.0 0.41
+TASK ID00793 Genome::map_chr21:1.0 2564.31
+TASK ID00661 Genome::map_chr21:1.0 4075.03
+TASK ID00794 Genome::mapMerge_chr21:1.0 33.65
+TASK ID00530 Genome::fastq2bfq_chr21:1.0 0.32
+TASK ID00662 Genome::map_chr21:1.0 3320.56
+TASK ID00795 Genome::mapMerge_chr21:1.0 30.57
+TASK ID00531 Genome::fastq2bfq_chr21:1.0 0.20
+TASK ID00663 Genome::map_chr21:1.0 3153.01
+TASK ID00796 Genome::mapMerge_chr21:1.0 46.60
+TASK ID00400 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00532 Genome::fastq2bfq_chr21:1.0 0.51
+TASK ID00664 Genome::map_chr21:1.0 4437.72
+TASK ID00797 Genome::maqindex_chr21:1.0 0.25
+TASK ID00401 Genome::fastq2bfq_chr21:1.0 0.44
+TASK ID00533 Genome::fastq2bfq_chr21:1.0 0.42
+TASK ID00665 Genome::map_chr21:1.0 4750.24
+TASK ID00798 Genome::pileup_chr21:1.0 1209.03
+TASK ID00402 Genome::fastq2bfq_chr21:1.0 0.25
+TASK ID00534 Genome::fastq2bfq_chr21:1.0 0.42
+TASK ID00666 Genome::map_chr21:1.0 5898.13
+TASK ID00403 Genome::fastq2bfq_chr21:1.0 0.24
+TASK ID00535 Genome::fastq2bfq_chr21:1.0 0.35
+TASK ID00667 Genome::map_chr21:1.0 3892.06
+TASK ID00404 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00536 Genome::fastq2bfq_chr21:1.0 0.40
+TASK ID00668 Genome::map_chr21:1.0 2311.74
+TASK ID00405 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00537 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00669 Genome::map_chr21:1.0 4339.96
+TASK ID00406 Genome::fastq2bfq_chr21:1.0 0.52
+TASK ID00538 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00407 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00539 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00670 Genome::map_chr21:1.0 3100.80
+TASK ID00408 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00671 Genome::map_chr21:1.0 4786.76
+TASK ID00409 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00540 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00672 Genome::map_chr21:1.0 2997.35
+TASK ID00541 Genome::fastq2bfq_chr21:1.0 0.34
+TASK ID00673 Genome::map_chr21:1.0 2619.59
+TASK ID00410 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00542 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00674 Genome::map_chr21:1.0 3085.94
+TASK ID00411 Genome::fastq2bfq_chr21:1.0 0.25
+TASK ID00543 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00675 Genome::map_chr21:1.0 2863.83
+TASK ID00412 Genome::fastq2bfq_chr21:1.0 0.40
+TASK ID00544 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00676 Genome::map_chr21:1.0 2510.67
+TASK ID00413 Genome::fastq2bfq_chr21:1.0 0.41
+TASK ID00545 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00677 Genome::map_chr21:1.0 4643.20
+TASK ID00414 Genome::fastq2bfq_chr21:1.0 0.24
+TASK ID00546 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00678 Genome::map_chr21:1.0 3249.50
+TASK ID00415 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00547 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00679 Genome::map_chr21:1.0 4613.12
+TASK ID00416 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00548 Genome::fastq2bfq_chr21:1.0 0.25
+TASK ID00417 Genome::fastq2bfq_chr21:1.0 0.23
+TASK ID00549 Genome::fastq2bfq_chr21:1.0 0.34
+TASK ID00680 Genome::map_chr21:1.0 3215.67
+TASK ID00681 Genome::map_chr21:1.0 3575.84
+TASK ID00418 Genome::fastq2bfq_chr21:1.0 0.23
+TASK ID00550 Genome::fastq2bfq_chr21:1.0 0.21
+TASK ID00682 Genome::map_chr21:1.0 2623.02
+TASK ID00419 Genome::fastq2bfq_chr21:1.0 0.24
+TASK ID00551 Genome::fastq2bfq_chr21:1.0 0.25
+TASK ID00683 Genome::map_chr21:1.0 3453.76
+TASK ID00420 Genome::fastq2bfq_chr21:1.0 0.21
+TASK ID00552 Genome::fastq2bfq_chr21:1.0 0.45
+TASK ID00684 Genome::map_chr21:1.0 2472.13
+TASK ID00421 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00553 Genome::fastq2bfq_chr21:1.0 0.34
+TASK ID00685 Genome::map_chr21:1.0 2766.95
+TASK ID00422 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00554 Genome::fastq2bfq_chr21:1.0 0.40
+TASK ID00686 Genome::map_chr21:1.0 3614.31
+TASK ID00423 Genome::fastq2bfq_chr21:1.0 0.42
+TASK ID00555 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00687 Genome::map_chr21:1.0 3554.87
+TASK ID00424 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00556 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00688 Genome::map_chr21:1.0 4375.48
+TASK ID00425 Genome::fastq2bfq_chr21:1.0 0.35
+TASK ID00557 Genome::fastq2bfq_chr21:1.0 0.33
+TASK ID00689 Genome::map_chr21:1.0 2984.64
+TASK ID00426 Genome::fastq2bfq_chr21:1.0 0.31
+TASK ID00558 Genome::fastq2bfq_chr21:1.0 0.39
+TASK ID00427 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00559 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00690 Genome::map_chr21:1.0 2827.37
+TASK ID00428 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00691 Genome::map_chr21:1.0 2354.00
+TASK ID00560 Genome::fastq2bfq_chr21:1.0 0.44
+TASK ID00692 Genome::map_chr21:1.0 2953.37
+TASK ID00429 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00561 Genome::fastq2bfq_chr21:1.0 0.23
+TASK ID00693 Genome::map_chr21:1.0 2266.02
+TASK ID00694 Genome::map_chr21:1.0 2708.45
+TASK ID00430 Genome::fastq2bfq_chr21:1.0 0.39
+TASK ID00562 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00695 Genome::map_chr21:1.0 2490.84
+TASK ID00431 Genome::fastq2bfq_chr21:1.0 0.21
+TASK ID00563 Genome::fastq2bfq_chr21:1.0 0.47
+TASK ID00696 Genome::map_chr21:1.0 4655.50
+TASK ID00300 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00432 Genome::fastq2bfq_chr21:1.0 0.24
+TASK ID00564 Genome::fastq2bfq_chr21:1.0 0.23
+TASK ID00697 Genome::map_chr21:1.0 4585.25
+TASK ID00301 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00433 Genome::fastq2bfq_chr21:1.0 0.37
+TASK ID00565 Genome::fastq2bfq_chr21:1.0 0.42
+TASK ID00698 Genome::map_chr21:1.0 4946.20
+TASK ID00302 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00434 Genome::fastq2bfq_chr21:1.0 0.22
+TASK ID00566 Genome::fastq2bfq_chr21:1.0 0.24
+TASK ID00699 Genome::map_chr21:1.0 3897.77
+TASK ID00303 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00435 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00567 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00304 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00436 Genome::fastq2bfq_chr21:1.0 0.24
+TASK ID00568 Genome::fastq2bfq_chr21:1.0 0.22
+TASK ID00305 Genome::sol2sanger_chr21:1.0 0.19
+TASK ID00437 Genome::fastq2bfq_chr21:1.0 0.33
+TASK ID00569 Genome::fastq2bfq_chr21:1.0 0.38
+TASK ID00306 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00438 Genome::fastq2bfq_chr21:1.0 0.24
+TASK ID00307 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00439 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00570 Genome::fastq2bfq_chr21:1.0 0.34
+TASK ID00571 Genome::fastq2bfq_chr21:1.0 0.47
+TASK ID00308 Genome::sol2sanger_chr21:1.0 0.11
+TASK ID00440 Genome::fastq2bfq_chr21:1.0 0.61
+TASK ID00572 Genome::fastq2bfq_chr21:1.0 0.22
+TASK ID00309 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00441 Genome::fastq2bfq_chr21:1.0 0.15
+TASK ID00573 Genome::fastq2bfq_chr21:1.0 0.25
+TASK ID00310 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00442 Genome::fastq2bfq_chr21:1.0 0.23
+TASK ID00574 Genome::fastq2bfq_chr21:1.0 0.31
+TASK ID00311 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00443 Genome::fastq2bfq_chr21:1.0 0.41
+TASK ID00575 Genome::fastq2bfq_chr21:1.0 0.19
+TASK ID00312 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00444 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00576 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00313 Genome::sol2sanger_chr21:1.0 0.21
+TASK ID00445 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00577 Genome::fastq2bfq_chr21:1.0 0.25
+TASK ID00314 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00446 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00578 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00315 Genome::sol2sanger_chr21:1.0 0.32
+TASK ID00447 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00579 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00316 Genome::sol2sanger_chr21:1.0 0.11
+TASK ID00448 Genome::fastq2bfq_chr21:1.0 0.38
+TASK ID00317 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00449 Genome::fastq2bfq_chr21:1.0 0.18
+TASK ID00580 Genome::fastq2bfq_chr21:1.0 0.35
+TASK ID00318 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00581 Genome::fastq2bfq_chr21:1.0 0.34
+TASK ID00450 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00582 Genome::fastq2bfq_chr21:1.0 0.22
+TASK ID00319 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00451 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00583 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00320 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00452 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00584 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00321 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00453 Genome::fastq2bfq_chr21:1.0 0.42
+TASK ID00585 Genome::fastq2bfq_chr21:1.0 0.21
+TASK ID00322 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00454 Genome::fastq2bfq_chr21:1.0 0.48
+TASK ID00586 Genome::fastq2bfq_chr21:1.0 0.34
+TASK ID00323 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00455 Genome::fastq2bfq_chr21:1.0 0.33
+TASK ID00587 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00324 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00456 Genome::fastq2bfq_chr21:1.0 0.20
+TASK ID00588 Genome::fastq2bfq_chr21:1.0 0.22
+TASK ID00457 Genome::fastq2bfq_chr21:1.0 0.55
+TASK ID00589 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00325 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00458 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00326 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00459 Genome::fastq2bfq_chr21:1.0 0.50
+TASK ID00327 Genome::sol2sanger_chr21:1.0 0.26
+TASK ID00590 Genome::fastq2bfq_chr21:1.0 0.50
+TASK ID00328 Genome::sol2sanger_chr21:1.0 0.19
+TASK ID00591 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00329 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00460 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00592 Genome::fastq2bfq_chr21:1.0 0.37
+TASK ID00461 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00593 Genome::fastq2bfq_chr21:1.0 0.35
+TASK ID00330 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00462 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00594 Genome::fastq2bfq_chr21:1.0 0.33
+TASK ID00331 Genome::sol2sanger_chr21:1.0 0.23
+TASK ID00463 Genome::fastq2bfq_chr21:1.0 0.31
+TASK ID00595 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00200 Genome::sol2sanger_chr21:1.0 0.12
+TASK ID00332 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00464 Genome::fastq2bfq_chr21:1.0 0.25
+TASK ID00596 Genome::map_chr21:1.0 3544.20
+TASK ID00201 Genome::sol2sanger_chr21:1.0 0.37
+TASK ID00333 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00465 Genome::fastq2bfq_chr21:1.0 0.33
+TASK ID00597 Genome::map_chr21:1.0 3674.41
+TASK ID00202 Genome::sol2sanger_chr21:1.0 0.19
+TASK ID00334 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00466 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00598 Genome::map_chr21:1.0 5493.29
+TASK ID00203 Genome::sol2sanger_chr21:1.0 0.25
+TASK ID00335 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00467 Genome::fastq2bfq_chr21:1.0 0.52
+TASK ID00599 Genome::map_chr21:1.0 3736.95
+TASK ID00204 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00336 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00468 Genome::fastq2bfq_chr21:1.0 0.32
+TASK ID00205 Genome::sol2sanger_chr21:1.0 0.24
+TASK ID00337 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00469 Genome::fastq2bfq_chr21:1.0 0.24
+TASK ID00206 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00338 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00207 Genome::sol2sanger_chr21:1.0 0.22
+TASK ID00339 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00470 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00208 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00471 Genome::fastq2bfq_chr21:1.0 0.35
+TASK ID00340 Genome::sol2sanger_chr21:1.0 0.24
+TASK ID00472 Genome::fastq2bfq_chr21:1.0 0.19
+TASK ID00209 Genome::sol2sanger_chr21:1.0 0.19
+TASK ID00341 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00473 Genome::fastq2bfq_chr21:1.0 0.23
+TASK ID00210 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00342 Genome::sol2sanger_chr21:1.0 0.30
+TASK ID00474 Genome::fastq2bfq_chr21:1.0 0.33
+TASK ID00211 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00343 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00475 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00212 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00344 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00476 Genome::fastq2bfq_chr21:1.0 0.23
+TASK ID00213 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00345 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00477 Genome::fastq2bfq_chr21:1.0 0.22
+TASK ID00214 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00346 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00478 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00215 Genome::sol2sanger_chr21:1.0 0.23
+TASK ID00347 Genome::sol2sanger_chr21:1.0 0.12
+TASK ID00479 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00216 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00348 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00217 Genome::sol2sanger_chr21:1.0 0.19
+TASK ID00349 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00218 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00480 Genome::fastq2bfq_chr21:1.0 0.21
+TASK ID00219 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00481 Genome::fastq2bfq_chr21:1.0 0.31
+TASK ID00350 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00482 Genome::fastq2bfq_chr21:1.0 0.34
+TASK ID00351 Genome::sol2sanger_chr21:1.0 0.22
+TASK ID00483 Genome::fastq2bfq_chr21:1.0 0.44
+TASK ID00220 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00352 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00484 Genome::fastq2bfq_chr21:1.0 0.29
+TASK ID00221 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00353 Genome::sol2sanger_chr21:1.0 0.11
+TASK ID00485 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00222 Genome::sol2sanger_chr21:1.0 0.24
+TASK ID00354 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00486 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00223 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00355 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00487 Genome::fastq2bfq_chr21:1.0 0.43
+TASK ID00224 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00356 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00488 Genome::fastq2bfq_chr21:1.0 0.30
+TASK ID00225 Genome::sol2sanger_chr21:1.0 0.22
+TASK ID00357 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00489 Genome::fastq2bfq_chr21:1.0 0.32
+TASK ID00226 Genome::sol2sanger_chr21:1.0 0.23
+TASK ID00358 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00227 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00359 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00490 Genome::fastq2bfq_chr21:1.0 0.48
+TASK ID00228 Genome::sol2sanger_chr21:1.0 0.24
+TASK ID00491 Genome::fastq2bfq_chr21:1.0 0.24
+TASK ID00229 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00360 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00492 Genome::fastq2bfq_chr21:1.0 0.18
+TASK ID00361 Genome::sol2sanger_chr21:1.0 0.19
+TASK ID00493 Genome::fastq2bfq_chr21:1.0 0.39
+TASK ID00230 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00362 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00494 Genome::fastq2bfq_chr21:1.0 0.28
+TASK ID00231 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00363 Genome::sol2sanger_chr21:1.0 0.21
+TASK ID00495 Genome::fastq2bfq_chr21:1.0 0.25
+TASK ID00100 Genome::filterContams_chr21:1.0 0.75
+TASK ID00232 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00364 Genome::sol2sanger_chr21:1.0 0.32
+TASK ID00496 Genome::fastq2bfq_chr21:1.0 0.37
+TASK ID00101 Genome::filterContams_chr21:1.0 1.11
+TASK ID00233 Genome::sol2sanger_chr21:1.0 0.27
+TASK ID00365 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00497 Genome::fastq2bfq_chr21:1.0 0.31
+TASK ID00102 Genome::filterContams_chr21:1.0 0.45
+TASK ID00234 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00366 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00498 Genome::fastq2bfq_chr21:1.0 0.36
+TASK ID00103 Genome::filterContams_chr21:1.0 0.94
+TASK ID00235 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00367 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00499 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00104 Genome::filterContams_chr21:1.0 0.54
+TASK ID00236 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00368 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00000 Genome::fastqSplit_chr21:1.0 61.98
+TASK ID00105 Genome::filterContams_chr21:1.0 0.50
+TASK ID00237 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00369 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00001 Genome::fastqSplit_chr21:1.0 56.08
+TASK ID00106 Genome::filterContams_chr21:1.0 0.58
+TASK ID00238 Genome::sol2sanger_chr21:1.0 0.23
+TASK ID00002 Genome::filterContams_chr21:1.0 0.42
+TASK ID00107 Genome::filterContams_chr21:1.0 0.48
+TASK ID00239 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00370 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00003 Genome::filterContams_chr21:1.0 0.53
+TASK ID00108 Genome::filterContams_chr21:1.0 0.55
+TASK ID00371 Genome::sol2sanger_chr21:1.0 0.23
+TASK ID00004 Genome::filterContams_chr21:1.0 0.89
+TASK ID00109 Genome::filterContams_chr21:1.0 0.67
+TASK ID00005 Genome::filterContams_chr21:1.0 0.79
+TASK ID00240 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00372 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00006 Genome::filterContams_chr21:1.0 0.98
+TASK ID00241 Genome::sol2sanger_chr21:1.0 0.26
+TASK ID00373 Genome::sol2sanger_chr21:1.0 0.27
+TASK ID00007 Genome::filterContams_chr21:1.0 0.82
+TASK ID00110 Genome::filterContams_chr21:1.0 0.67
+TASK ID00242 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00374 Genome::sol2sanger_chr21:1.0 0.19
+TASK ID00111 Genome::filterContams_chr21:1.0 0.58
+TASK ID00243 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00375 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00008 Genome::filterContams_chr21:1.0 0.67
+TASK ID00112 Genome::filterContams_chr21:1.0 0.61
+TASK ID00244 Genome::sol2sanger_chr21:1.0 0.30
+TASK ID00376 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00009 Genome::filterContams_chr21:1.0 0.53
+TASK ID00113 Genome::filterContams_chr21:1.0 0.47
+TASK ID00245 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00377 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00114 Genome::filterContams_chr21:1.0 0.42
+TASK ID00246 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00378 Genome::sol2sanger_chr21:1.0 0.23
+TASK ID00010 Genome::filterContams_chr21:1.0 0.54
+TASK ID00115 Genome::filterContams_chr21:1.0 0.43
+TASK ID00247 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00379 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00011 Genome::filterContams_chr21:1.0 0.77
+TASK ID00116 Genome::filterContams_chr21:1.0 0.56
+TASK ID00248 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00012 Genome::filterContams_chr21:1.0 0.67
+TASK ID00117 Genome::filterContams_chr21:1.0 0.88
+TASK ID00249 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00380 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00013 Genome::filterContams_chr21:1.0 0.43
+TASK ID00118 Genome::filterContams_chr21:1.0 0.58
+TASK ID00381 Genome::sol2sanger_chr21:1.0 0.12
+TASK ID00014 Genome::filterContams_chr21:1.0 0.57
+TASK ID00119 Genome::filterContams_chr21:1.0 0.50
+TASK ID00250 Genome::sol2sanger_chr21:1.0 0.26
+TASK ID00382 Genome::sol2sanger_chr21:1.0 0.21
+TASK ID00015 Genome::filterContams_chr21:1.0 0.48
+TASK ID00251 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00383 Genome::sol2sanger_chr21:1.0 0.19
+TASK ID00016 Genome::filterContams_chr21:1.0 0.71
+TASK ID00120 Genome::filterContams_chr21:1.0 0.43
+TASK ID00252 Genome::sol2sanger_chr21:1.0 0.24
+TASK ID00384 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00017 Genome::filterContams_chr21:1.0 0.70
+TASK ID00121 Genome::filterContams_chr21:1.0 0.54
+TASK ID00253 Genome::sol2sanger_chr21:1.0 0.26
+TASK ID00385 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00018 Genome::filterContams_chr21:1.0 0.69
+TASK ID00122 Genome::filterContams_chr21:1.0 0.59
+TASK ID00254 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00386 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00019 Genome::filterContams_chr21:1.0 1.18
+TASK ID00123 Genome::filterContams_chr21:1.0 0.64
+TASK ID00255 Genome::sol2sanger_chr21:1.0 0.12
+TASK ID00387 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00124 Genome::filterContams_chr21:1.0 0.61
+TASK ID00256 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00388 Genome::sol2sanger_chr21:1.0 0.25
+TASK ID00020 Genome::filterContams_chr21:1.0 1.10
+TASK ID00125 Genome::filterContams_chr21:1.0 0.53
+TASK ID00257 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00389 Genome::sol2sanger_chr21:1.0 0.12
+TASK ID00021 Genome::filterContams_chr21:1.0 0.64
+TASK ID00126 Genome::filterContams_chr21:1.0 0.49
+TASK ID00258 Genome::sol2sanger_chr21:1.0 0.31
+TASK ID00022 Genome::filterContams_chr21:1.0 0.50
+TASK ID00127 Genome::filterContams_chr21:1.0 1.25
+TASK ID00259 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00390 Genome::sol2sanger_chr21:1.0 0.23
+TASK ID00023 Genome::filterContams_chr21:1.0 0.45
+TASK ID00128 Genome::filterContams_chr21:1.0 0.47
+TASK ID00391 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00024 Genome::filterContams_chr21:1.0 0.54
+TASK ID00129 Genome::filterContams_chr21:1.0 0.43
+TASK ID00260 Genome::sol2sanger_chr21:1.0 0.12
+TASK ID00392 Genome::sol2sanger_chr21:1.0 0.13
+TASK ID00025 Genome::filterContams_chr21:1.0 0.83
+TASK ID00261 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00393 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00026 Genome::filterContams_chr21:1.0 0.46
+TASK ID00130 Genome::filterContams_chr21:1.0 1.06
+TASK ID00262 Genome::sol2sanger_chr21:1.0 0.28
+TASK ID00394 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00027 Genome::filterContams_chr21:1.0 1.21
+TASK ID00131 Genome::filterContams_chr21:1.0 0.91
+TASK ID00263 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00395 Genome::sol2sanger_chr21:1.0 0.27
+TASK ID00028 Genome::filterContams_chr21:1.0 0.66
+TASK ID00132 Genome::filterContams_chr21:1.0 0.58
+TASK ID00264 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00396 Genome::sol2sanger_chr21:1.0 0.21
+TASK ID00029 Genome::filterContams_chr21:1.0 0.98
+TASK ID00133 Genome::filterContams_chr21:1.0 0.72
+TASK ID00265 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00397 Genome::sol2sanger_chr21:1.0 0.24
+TASK ID00134 Genome::filterContams_chr21:1.0 0.59
+TASK ID00266 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00398 Genome::fastq2bfq_chr21:1.0 0.27
+TASK ID00267 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00399 Genome::fastq2bfq_chr21:1.0 0.26
+TASK ID00030 Genome::filterContams_chr21:1.0 1.05
+TASK ID00135 Genome::filterContams_chr21:1.0 1.24
+TASK ID00268 Genome::sol2sanger_chr21:1.0 0.19
+TASK ID00031 Genome::filterContams_chr21:1.0 0.84
+TASK ID00136 Genome::filterContams_chr21:1.0 0.48
+TASK ID00269 Genome::sol2sanger_chr21:1.0 0.29
+TASK ID00032 Genome::filterContams_chr21:1.0 0.59
+TASK ID00137 Genome::filterContams_chr21:1.0 0.67
+TASK ID00033 Genome::filterContams_chr21:1.0 0.62
+TASK ID00138 Genome::filterContams_chr21:1.0 0.87
+TASK ID00034 Genome::filterContams_chr21:1.0 0.44
+TASK ID00139 Genome::filterContams_chr21:1.0 0.47
+TASK ID00270 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00035 Genome::filterContams_chr21:1.0 0.46
+TASK ID00271 Genome::sol2sanger_chr21:1.0 0.25
+TASK ID00036 Genome::filterContams_chr21:1.0 0.62
+TASK ID00140 Genome::filterContams_chr21:1.0 1.11
+TASK ID00272 Genome::sol2sanger_chr21:1.0 0.25
+TASK ID00037 Genome::filterContams_chr21:1.0 1.00
+TASK ID00141 Genome::filterContams_chr21:1.0 0.68
+TASK ID00273 Genome::sol2sanger_chr21:1.0 0.21
+TASK ID00038 Genome::filterContams_chr21:1.0 0.80
+TASK ID00142 Genome::filterContams_chr21:1.0 0.97
+TASK ID00274 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00039 Genome::filterContams_chr21:1.0 0.49
+TASK ID00143 Genome::filterContams_chr21:1.0 0.42
+TASK ID00275 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00144 Genome::filterContams_chr21:1.0 1.12
+TASK ID00276 Genome::sol2sanger_chr21:1.0 0.30
+TASK ID00040 Genome::filterContams_chr21:1.0 0.45
+TASK ID00145 Genome::filterContams_chr21:1.0 0.69
+TASK ID00277 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00041 Genome::filterContams_chr21:1.0 0.63
+TASK ID00146 Genome::filterContams_chr21:1.0 0.82
+TASK ID00278 Genome::sol2sanger_chr21:1.0 0.21
+TASK ID00700 Genome::map_chr21:1.0 5457.28
+TASK ID00042 Genome::filterContams_chr21:1.0 0.77
+TASK ID00147 Genome::filterContams_chr21:1.0 0.40
+TASK ID00279 Genome::sol2sanger_chr21:1.0 0.21
+TASK ID00701 Genome::map_chr21:1.0 2627.79
+TASK ID00043 Genome::filterContams_chr21:1.0 1.01
+TASK ID00148 Genome::filterContams_chr21:1.0 0.58
+TASK ID00702 Genome::map_chr21:1.0 3777.08
+TASK ID00044 Genome::filterContams_chr21:1.0 0.48
+TASK ID00149 Genome::filterContams_chr21:1.0 0.60
+TASK ID00703 Genome::map_chr21:1.0 3086.25
+TASK ID00280 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00045 Genome::filterContams_chr21:1.0 0.59
+TASK ID00281 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00046 Genome::filterContams_chr21:1.0 0.62
+TASK ID00150 Genome::filterContams_chr21:1.0 0.51
+TASK ID00282 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00047 Genome::filterContams_chr21:1.0 0.72
+TASK ID00704 Genome::map_chr21:1.0 5270.72
+TASK ID00151 Genome::filterContams_chr21:1.0 0.54
+TASK ID00283 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00048 Genome::filterContams_chr21:1.0 0.68
+TASK ID00705 Genome::map_chr21:1.0 4958.26
+TASK ID00152 Genome::filterContams_chr21:1.0 0.50
+TASK ID00284 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00049 Genome::filterContams_chr21:1.0 0.47
+TASK ID00706 Genome::map_chr21:1.0 3187.66
+TASK ID00153 Genome::filterContams_chr21:1.0 0.95
+TASK ID00285 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00707 Genome::map_chr21:1.0 3246.43
+TASK ID00154 Genome::filterContams_chr21:1.0 0.63
+TASK ID00286 Genome::sol2sanger_chr21:1.0 0.21
+TASK ID00708 Genome::map_chr21:1.0 3067.17
+TASK ID00050 Genome::filterContams_chr21:1.0 0.54
+TASK ID00155 Genome::filterContams_chr21:1.0 0.87
+TASK ID00287 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00709 Genome::map_chr21:1.0 3978.83
+TASK ID00051 Genome::filterContams_chr21:1.0 0.81
+TASK ID00156 Genome::filterContams_chr21:1.0 1.20
+TASK ID00288 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00052 Genome::filterContams_chr21:1.0 0.55
+TASK ID00157 Genome::filterContams_chr21:1.0 0.53
+TASK ID00289 Genome::sol2sanger_chr21:1.0 0.27
+TASK ID00710 Genome::map_chr21:1.0 2557.61
+TASK ID00053 Genome::filterContams_chr21:1.0 0.47
+TASK ID00158 Genome::filterContams_chr21:1.0 0.50
+TASK ID00711 Genome::map_chr21:1.0 2351.38
+TASK ID00054 Genome::filterContams_chr21:1.0 0.46
+TASK ID00159 Genome::filterContams_chr21:1.0 0.96
+TASK ID00712 Genome::map_chr21:1.0 3468.97
+TASK ID00713 Genome::map_chr21:1.0 3251.71
+TASK ID00290 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00055 Genome::filterContams_chr21:1.0 0.79
+TASK ID00714 Genome::map_chr21:1.0 3365.16
+TASK ID00291 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00056 Genome::filterContams_chr21:1.0 0.90
+TASK ID00160 Genome::filterContams_chr21:1.0 0.53
+TASK ID00292 Genome::sol2sanger_chr21:1.0 0.14
+TASK ID00057 Genome::filterContams_chr21:1.0 0.65
+TASK ID00715 Genome::map_chr21:1.0 2249.82
+TASK ID00161 Genome::filterContams_chr21:1.0 0.79
+TASK ID00293 Genome::sol2sanger_chr21:1.0 0.15
+TASK ID00058 Genome::filterContams_chr21:1.0 0.41
+TASK ID00716 Genome::map_chr21:1.0 4397.67
+TASK ID00162 Genome::filterContams_chr21:1.0 0.73
+TASK ID00294 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00059 Genome::filterContams_chr21:1.0 1.12
+TASK ID00717 Genome::map_chr21:1.0 3765.97
+TASK ID00163 Genome::filterContams_chr21:1.0 0.66
+TASK ID00295 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00718 Genome::map_chr21:1.0 2846.98
+TASK ID00164 Genome::filterContams_chr21:1.0 0.56
+TASK ID00296 Genome::sol2sanger_chr21:1.0 0.17
+TASK ID00719 Genome::map_chr21:1.0 3426.61
+TASK ID00060 Genome::filterContams_chr21:1.0 0.66
+TASK ID00165 Genome::filterContams_chr21:1.0 0.94
+TASK ID00297 Genome::sol2sanger_chr21:1.0 0.16
+TASK ID00061 Genome::filterContams_chr21:1.0 0.43
+TASK ID00166 Genome::filterContams_chr21:1.0 0.53
+TASK ID00298 Genome::sol2sanger_chr21:1.0 0.18
+TASK ID00720 Genome::map_chr21:1.0 4968.37
+TASK ID00062 Genome::filterContams_chr21:1.0 0.73
+TASK ID00167 Genome::filterContams_chr21:1.0 0.57
+TASK ID00299 Genome::sol2sanger_chr21:1.0 0.20
+TASK ID00721 Genome::map_chr21:1.0 3795.20
+TASK ID00063 Genome::filterContams_chr21:1.0 0.78
+TASK ID00168 Genome::filterContams_chr21:1.0 0.63
+TASK ID00722 Genome::map_chr21:1.0 4879.04
+TASK ID00064 Genome::filterContams_chr21:1.0 0.69
+TASK ID00169 Genome::filterContams_chr21:1.0 0.47
+TASK ID00723 Genome::map_chr21:1.0 2688.38
+TASK ID00065 Genome::filterContams_chr21:1.0 1.24
+TASK ID00724 Genome::map_chr21:1.0 2907.38
+TASK ID00066 Genome::filterContams_chr21:1.0 0.44
+TASK ID00725 Genome::map_chr21:1.0 3051.89
+TASK ID00170 Genome::filterContams_chr21:1.0 1.12
+TASK ID00067 Genome::filterContams_chr21:1.0 0.51
+TASK ID00171 Genome::filterContams_chr21:1.0 0.48
+TASK ID00068 Genome::filterContams_chr21:1.0 1.03
+TASK ID00726 Genome::map_chr21:1.0 6576.67
+TASK ID00172 Genome::filterContams_chr21:1.0 0.50
+TASK ID00069 Genome::filterContams_chr21:1.0 0.91
+TASK ID00727 Genome::map_chr21:1.0 3835.92
+TASK ID00173 Genome::filterContams_chr21:1.0 1.14
+TASK ID00728 Genome::map_chr21:1.0 5187.72
+TASK ID00174 Genome::filterContams_chr21:1.0 0.56
+TASK ID00729 Genome::map_chr21:1.0 4377.09
+TASK ID00070 Genome::filterContams_chr21:1.0 0.47
+TASK ID00175 Genome::filterContams_chr21:1.0 0.45
+TASK ID00071 Genome::filterContams_chr21:1.0 0.78
+TASK ID00176 Genome::filterContams_chr21:1.0 0.48
+TASK ID00072 Genome::filterContams_chr21:1.0 0.94
+TASK ID00177 Genome::filterContams_chr21:1.0 0.82
+TASK ID00730 Genome::map_chr21:1.0 3266.00
+TASK ID00073 Genome::filterContams_chr21:1.0 0.48
+TASK ID00178 Genome::filterContams_chr21:1.0 0.77
+TASK ID00731 Genome::map_chr21:1.0 4212.17
+TASK ID00074 Genome::filterContams_chr21:1.0 0.44
+TASK ID00179 Genome::filterContams_chr21:1.0 0.61
+TASK ID00600 Genome::map_chr21:1.0 2785.47
+TASK ID00732 Genome::map_chr21:1.0 4221.99
+TASK ID00075 Genome::filterContams_chr21:1.0 0.41
+TASK ID00601 Genome::map_chr21:1.0 3960.86
+TASK ID00733 Genome::map_chr21:1.0 4843.92
+TASK ID00076 Genome::filterContams_chr21:1.0 0.68
+TASK ID00602 Genome::map_chr21:1.0 2983.82
+TASK ID00734 Genome::map_chr21:1.0 3145.43
+TASK ID00180 Genome::filterContams_chr21:1.0 0.78
+TASK ID00077 Genome::filterContams_chr21:1.0 0.69
+TASK ID00603 Genome::map_chr21:1.0 3973.65
+TASK ID00735 Genome::map_chr21:1.0 4081.45
+TASK ID00181 Genome::filterContams_chr21:1.0 0.40
+TASK ID00078 Genome::filterContams_chr21:1.0 0.84
+TASK ID00604 Genome::map_chr21:1.0 3164.20
+TASK ID00736 Genome::map_chr21:1.0 5048.36
+TASK ID00079 Genome::filterContams_chr21:1.0 0.48
+TASK ID00182 Genome::filterContams_chr21:1.0 1.17
+TASK ID00605 Genome::map_chr21:1.0 2862.58
+TASK ID00737 Genome::map_chr21:1.0 4852.42
+TASK ID00183 Genome::filterContams_chr21:1.0 0.82
+TASK ID00606 Genome::map_chr21:1.0 4912.03
+TASK ID00738 Genome::map_chr21:1.0 4325.99
+TASK ID00184 Genome::filterContams_chr21:1.0 0.52
+TASK ID00607 Genome::map_chr21:1.0 3159.03
+TASK ID00739 Genome::map_chr21:1.0 5188.52
+TASK ID00080 Genome::filterContams_chr21:1.0 0.70
+TASK ID00185 Genome::filterContams_chr21:1.0 0.45
+TASK ID00608 Genome::map_chr21:1.0 5497.25
+TASK ID00081 Genome::filterContams_chr21:1.0 0.64
+TASK ID00186 Genome::filterContams_chr21:1.0 0.69
+TASK ID00740 Genome::map_chr21:1.0 2566.99
+TASK ID00609 Genome::map_chr21:1.0 4622.29
+TASK ID00082 Genome::filterContams_chr21:1.0 0.48
+TASK ID00187 Genome::filterContams_chr21:1.0 0.71
+TASK ID00741 Genome::map_chr21:1.0 4448.19
+TASK ID00083 Genome::filterContams_chr21:1.0 0.45
+TASK ID00188 Genome::filterContams_chr21:1.0 0.69
+TASK ID00610 Genome::map_chr21:1.0 2933.41
+TASK ID00742 Genome::map_chr21:1.0 2593.27
+TASK ID00084 Genome::filterContams_chr21:1.0 0.48
+TASK ID00189 Genome::filterContams_chr21:1.0 0.50
+TASK ID00611 Genome::map_chr21:1.0 2897.05
+TASK ID00743 Genome::map_chr21:1.0 6147.50
+TASK ID00085 Genome::filterContams_chr21:1.0 0.46
+TASK ID00612 Genome::map_chr21:1.0 2992.16
+TASK ID00744 Genome::map_chr21:1.0 4033.96
+TASK ID00086 Genome::filterContams_chr21:1.0 0.56
+TASK ID00613 Genome::map_chr21:1.0 4962.63
+TASK ID00745 Genome::map_chr21:1.0 4402.97
+TASK ID00190 Genome::filterContams_chr21:1.0 0.49
+TASK ID00087 Genome::filterContams_chr21:1.0 0.44
+TASK ID00614 Genome::map_chr21:1.0 2359.01
+TASK ID00746 Genome::map_chr21:1.0 3355.02
+TASK ID00191 Genome::filterContams_chr21:1.0 0.58
+TASK ID00088 Genome::filterContams_chr21:1.0 0.67
+TASK ID00615 Genome::map_chr21:1.0 2701.10
+TASK ID00747 Genome::map_chr21:1.0 4258.09
+TASK ID00192 Genome::filterContams_chr21:1.0 0.55
+TASK ID00089 Genome::filterContams_chr21:1.0 0.53
+TASK ID00193 Genome::filterContams_chr21:1.0 0.74
+TASK ID00616 Genome::map_chr21:1.0 2804.09
+TASK ID00748 Genome::map_chr21:1.0 4664.95
+TASK ID00194 Genome::filterContams_chr21:1.0 0.85
+TASK ID00617 Genome::map_chr21:1.0 3155.58
+TASK ID00749 Genome::map_chr21:1.0 5743.70
+TASK ID00090 Genome::filterContams_chr21:1.0 0.39
+TASK ID00195 Genome::filterContams_chr21:1.0 0.72
+TASK ID00618 Genome::map_chr21:1.0 2999.86
+TASK ID00091 Genome::filterContams_chr21:1.0 0.75
+TASK ID00196 Genome::filterContams_chr21:1.0 0.92
+TASK ID00750 Genome::map_chr21:1.0 3931.26
+TASK ID00619 Genome::map_chr21:1.0 3169.55
+TASK ID00092 Genome::filterContams_chr21:1.0 0.69
+TASK ID00197 Genome::filterContams_chr21:1.0 0.41
+TASK ID00751 Genome::map_chr21:1.0 2770.34
+TASK ID00093 Genome::filterContams_chr21:1.0 0.56
+TASK ID00198 Genome::filterContams_chr21:1.0 0.84
+TASK ID00094 Genome::filterContams_chr21:1.0 0.84
+TASK ID00199 Genome::filterContams_chr21:1.0 0.82
+TASK ID00620 Genome::map_chr21:1.0 3318.45
+TASK ID00752 Genome::map_chr21:1.0 4562.39
+TASK ID00095 Genome::filterContams_chr21:1.0 0.62
+TASK ID00621 Genome::map_chr21:1.0 4935.65
+TASK ID00753 Genome::map_chr21:1.0 2590.41
+TASK ID00096 Genome::filterContams_chr21:1.0 0.44
+TASK ID00622 Genome::map_chr21:1.0 2336.47
+TASK ID00754 Genome::map_chr21:1.0 3986.99
+TASK ID00097 Genome::filterContams_chr21:1.0 1.00
+TASK ID00623 Genome::map_chr21:1.0 3619.04
+TASK ID00755 Genome::map_chr21:1.0 2702.78
+TASK ID00098 Genome::filterContams_chr21:1.0 0.95
+TASK ID00624 Genome::map_chr21:1.0 3320.84
+TASK ID00756 Genome::map_chr21:1.0 2377.67
+TASK ID00099 Genome::filterContams_chr21:1.0 0.38
+TASK ID00625 Genome::map_chr21:1.0 3452.69
+TASK ID00757 Genome::map_chr21:1.0 3810.77
+TASK ID00626 Genome::map_chr21:1.0 3268.98
+TASK ID00758 Genome::map_chr21:1.0 3646.94
+TASK ID00627 Genome::map_chr21:1.0 2584.13
+TASK ID00759 Genome::map_chr21:1.0 2569.40
+TASK ID00628 Genome::map_chr21:1.0 2815.75
+TASK ID00760 Genome::map_chr21:1.0 3585.71
+TASK ID00629 Genome::map_chr21:1.0 3172.19
+TASK ID00761 Genome::map_chr21:1.0 2283.26
+TASK ID00630 Genome::map_chr21:1.0 3381.32
+TASK ID00762 Genome::map_chr21:1.0 4002.60
+TASK ID00631 Genome::map_chr21:1.0 3651.37
+TASK ID00763 Genome::map_chr21:1.0 2958.60
+INPUTS ID00500 chr21.1.3.nocontam.fq
+OUTPUTS ID00500 chr21.1.3.nocontam.bfq
+INPUTS ID00632 chr21.BS.bfa chr21.0.36.nocontam.bfq
+OUTPUTS ID00632 chr21.0.36.nocontam.map
+INPUTS ID00764 chr21.BS.bfa chr21.1.69.nocontam.bfq
+OUTPUTS ID00764 chr21.1.69.nocontam.map
+INPUTS ID00501 chr21.1.4.nocontam.fq
+OUTPUTS ID00501 chr21.1.4.nocontam.bfq
+INPUTS ID00633 chr21.BS.bfa chr21.0.37.nocontam.bfq
+OUTPUTS ID00633 chr21.0.37.nocontam.map
+INPUTS ID00765 chr21.BS.bfa chr21.1.70.nocontam.bfq
+OUTPUTS ID00765 chr21.1.70.nocontam.map
+INPUTS ID00502 chr21.1.5.nocontam.fq
+OUTPUTS ID00502 chr21.1.5.nocontam.bfq
+INPUTS ID00634 chr21.BS.bfa chr21.0.38.nocontam.bfq
+OUTPUTS ID00634 chr21.0.38.nocontam.map
+INPUTS ID00766 chr21.BS.bfa chr21.1.71.nocontam.bfq
+OUTPUTS ID00766 chr21.1.71.nocontam.map
+INPUTS ID00503 chr21.1.6.nocontam.fq
+OUTPUTS ID00503 chr21.1.6.nocontam.bfq
+INPUTS ID00635 chr21.BS.bfa chr21.0.39.nocontam.bfq
+OUTPUTS ID00635 chr21.0.39.nocontam.map
+INPUTS ID00767 chr21.BS.bfa chr21.1.72.nocontam.bfq
+OUTPUTS ID00767 chr21.1.72.nocontam.map
+INPUTS ID00504 chr21.1.7.nocontam.fq
+OUTPUTS ID00504 chr21.1.7.nocontam.bfq
+INPUTS ID00636 chr21.BS.bfa chr21.0.40.nocontam.bfq
+OUTPUTS ID00636 chr21.0.40.nocontam.map
+INPUTS ID00768 chr21.BS.bfa chr21.1.73.nocontam.bfq
+OUTPUTS ID00768 chr21.1.73.nocontam.map
+INPUTS ID00505 chr21.1.8.nocontam.fq
+OUTPUTS ID00505 chr21.1.8.nocontam.bfq
+INPUTS ID00637 chr21.BS.bfa chr21.0.41.nocontam.bfq
+OUTPUTS ID00637 chr21.0.41.nocontam.map
+INPUTS ID00769 chr21.BS.bfa chr21.1.74.nocontam.bfq
+OUTPUTS ID00769 chr21.1.74.nocontam.map
+INPUTS ID00506 chr21.1.9.nocontam.fq
+OUTPUTS ID00506 chr21.1.9.nocontam.bfq
+INPUTS ID00638 chr21.BS.bfa chr21.0.42.nocontam.bfq
+OUTPUTS ID00638 chr21.0.42.nocontam.map
+INPUTS ID00770 chr21.BS.bfa chr21.1.75.nocontam.bfq
+OUTPUTS ID00770 chr21.1.75.nocontam.map
+INPUTS ID00507 chr21.1.10.nocontam.fq
+OUTPUTS ID00507 chr21.1.10.nocontam.bfq
+INPUTS ID00639 chr21.BS.bfa chr21.0.43.nocontam.bfq
+OUTPUTS ID00639 chr21.0.43.nocontam.map
+INPUTS ID00771 chr21.BS.bfa chr21.1.76.nocontam.bfq
+OUTPUTS ID00771 chr21.1.76.nocontam.map
+INPUTS ID00508 chr21.1.11.nocontam.fq
+OUTPUTS ID00508 chr21.1.11.nocontam.bfq
+INPUTS ID00640 chr21.BS.bfa chr21.0.44.nocontam.bfq
+OUTPUTS ID00640 chr21.0.44.nocontam.map
+INPUTS ID00772 chr21.BS.bfa chr21.1.77.nocontam.bfq
+OUTPUTS ID00772 chr21.1.77.nocontam.map
+INPUTS ID00509 chr21.1.12.nocontam.fq
+OUTPUTS ID00509 chr21.1.12.nocontam.bfq
+INPUTS ID00641 chr21.BS.bfa chr21.0.45.nocontam.bfq
+OUTPUTS ID00641 chr21.0.45.nocontam.map
+INPUTS ID00773 chr21.BS.bfa chr21.1.78.nocontam.bfq
+OUTPUTS ID00773 chr21.1.78.nocontam.map
+INPUTS ID00510 chr21.1.13.nocontam.fq
+OUTPUTS ID00510 chr21.1.13.nocontam.bfq
+INPUTS ID00642 chr21.BS.bfa chr21.0.46.nocontam.bfq
+OUTPUTS ID00642 chr21.0.46.nocontam.map
+INPUTS ID00774 chr21.BS.bfa chr21.1.79.nocontam.bfq
+OUTPUTS ID00774 chr21.1.79.nocontam.map
+INPUTS ID00511 chr21.1.14.nocontam.fq
+OUTPUTS ID00511 chr21.1.14.nocontam.bfq
+INPUTS ID00643 chr21.BS.bfa chr21.0.47.nocontam.bfq
+OUTPUTS ID00643 chr21.0.47.nocontam.map
+INPUTS ID00775 chr21.BS.bfa chr21.1.80.nocontam.bfq
+OUTPUTS ID00775 chr21.1.80.nocontam.map
+INPUTS ID00512 chr21.1.15.nocontam.fq
+OUTPUTS ID00512 chr21.1.15.nocontam.bfq
+INPUTS ID00644 chr21.BS.bfa chr21.0.48.nocontam.bfq
+OUTPUTS ID00644 chr21.0.48.nocontam.map
+INPUTS ID00776 chr21.BS.bfa chr21.1.81.nocontam.bfq
+OUTPUTS ID00776 chr21.1.81.nocontam.map
+INPUTS ID00513 chr21.1.16.nocontam.fq
+OUTPUTS ID00513 chr21.1.16.nocontam.bfq
+INPUTS ID00645 chr21.BS.bfa chr21.0.49.nocontam.bfq
+OUTPUTS ID00645 chr21.0.49.nocontam.map
+INPUTS ID00777 chr21.BS.bfa chr21.1.82.nocontam.bfq
+OUTPUTS ID00777 chr21.1.82.nocontam.map
+INPUTS ID00514 chr21.1.17.nocontam.fq
+OUTPUTS ID00514 chr21.1.17.nocontam.bfq
+INPUTS ID00646 chr21.BS.bfa chr21.0.50.nocontam.bfq
+OUTPUTS ID00646 chr21.0.50.nocontam.map
+INPUTS ID00778 chr21.BS.bfa chr21.1.83.nocontam.bfq
+OUTPUTS ID00778 chr21.1.83.nocontam.map
+INPUTS ID00647 chr21.BS.bfa chr21.0.51.nocontam.bfq
+OUTPUTS ID00647 chr21.0.51.nocontam.map
+INPUTS ID00779 chr21.BS.bfa chr21.1.84.nocontam.bfq
+OUTPUTS ID00779 chr21.1.84.nocontam.map
+INPUTS ID00515 chr21.1.18.nocontam.fq
+OUTPUTS ID00515 chr21.1.18.nocontam.bfq
+INPUTS ID00648 chr21.BS.bfa chr21.0.52.nocontam.bfq
+OUTPUTS ID00648 chr21.0.52.nocontam.map
+INPUTS ID00516 chr21.1.19.nocontam.fq
+OUTPUTS ID00516 chr21.1.19.nocontam.bfq
+INPUTS ID00649 chr21.BS.bfa chr21.0.53.nocontam.bfq
+OUTPUTS ID00649 chr21.0.53.nocontam.map
+INPUTS ID00780 chr21.BS.bfa chr21.1.85.nocontam.bfq
+OUTPUTS ID00780 chr21.1.85.nocontam.map
+INPUTS ID00517 chr21.1.20.nocontam.fq
+OUTPUTS ID00517 chr21.1.20.nocontam.bfq
+INPUTS ID00781 chr21.BS.bfa chr21.1.86.nocontam.bfq
+OUTPUTS ID00781 chr21.1.86.nocontam.map
+INPUTS ID00518 chr21.1.21.nocontam.fq
+OUTPUTS ID00518 chr21.1.21.nocontam.bfq
+INPUTS ID00650 chr21.BS.bfa chr21.0.54.nocontam.bfq
+OUTPUTS ID00650 chr21.0.54.nocontam.map
+INPUTS ID00782 chr21.BS.bfa chr21.1.87.nocontam.bfq
+OUTPUTS ID00782 chr21.1.87.nocontam.map
+INPUTS ID00519 chr21.1.22.nocontam.fq
+OUTPUTS ID00519 chr21.1.22.nocontam.bfq
+INPUTS ID00651 chr21.BS.bfa chr21.0.55.nocontam.bfq
+OUTPUTS ID00651 chr21.0.55.nocontam.map
+INPUTS ID00783 chr21.BS.bfa chr21.1.88.nocontam.bfq
+OUTPUTS ID00783 chr21.1.88.nocontam.map
+INPUTS ID00520 chr21.1.23.nocontam.fq
+OUTPUTS ID00520 chr21.1.23.nocontam.bfq
+INPUTS ID00652 chr21.BS.bfa chr21.0.56.nocontam.bfq
+OUTPUTS ID00652 chr21.0.56.nocontam.map
+INPUTS ID00784 chr21.BS.bfa chr21.1.89.nocontam.bfq
+OUTPUTS ID00784 chr21.1.89.nocontam.map
+INPUTS ID00521 chr21.1.24.nocontam.fq
+OUTPUTS ID00521 chr21.1.24.nocontam.bfq
+INPUTS ID00653 chr21.BS.bfa chr21.0.57.nocontam.bfq
+OUTPUTS ID00653 chr21.0.57.nocontam.map
+INPUTS ID00785 chr21.BS.bfa chr21.1.90.nocontam.bfq
+OUTPUTS ID00785 chr21.1.90.nocontam.map
+INPUTS ID00786 chr21.BS.bfa chr21.1.91.nocontam.bfq
+OUTPUTS ID00786 chr21.1.91.nocontam.map
+INPUTS ID00522 chr21.1.25.nocontam.fq
+OUTPUTS ID00522 chr21.1.25.nocontam.bfq
+INPUTS ID00654 chr21.BS.bfa chr21.0.58.nocontam.bfq
+OUTPUTS ID00654 chr21.0.58.nocontam.map
+INPUTS ID00787 chr21.BS.bfa chr21.1.92.nocontam.bfq
+OUTPUTS ID00787 chr21.1.92.nocontam.map
+INPUTS ID00523 chr21.1.26.nocontam.fq
+OUTPUTS ID00523 chr21.1.26.nocontam.bfq
+INPUTS ID00655 chr21.BS.bfa chr21.0.59.nocontam.bfq
+OUTPUTS ID00655 chr21.0.59.nocontam.map
+INPUTS ID00788 chr21.BS.bfa chr21.1.93.nocontam.bfq
+OUTPUTS ID00788 chr21.1.93.nocontam.map
+INPUTS ID00524 chr21.1.27.nocontam.fq
+OUTPUTS ID00524 chr21.1.27.nocontam.bfq
+INPUTS ID00656 chr21.BS.bfa chr21.0.60.nocontam.bfq
+OUTPUTS ID00656 chr21.0.60.nocontam.map
+INPUTS ID00789 chr21.BS.bfa chr21.1.94.nocontam.bfq
+OUTPUTS ID00789 chr21.1.94.nocontam.map
+INPUTS ID00525 chr21.1.28.nocontam.fq
+OUTPUTS ID00525 chr21.1.28.nocontam.bfq
+INPUTS ID00657 chr21.BS.bfa chr21.0.61.nocontam.bfq
+OUTPUTS ID00657 chr21.0.61.nocontam.map
+INPUTS ID00526 chr21.1.29.nocontam.fq
+OUTPUTS ID00526 chr21.1.29.nocontam.bfq
+INPUTS ID00658 chr21.BS.bfa chr21.0.62.nocontam.bfq
+OUTPUTS ID00658 chr21.0.62.nocontam.map
+INPUTS ID00527 chr21.1.30.nocontam.fq
+OUTPUTS ID00527 chr21.1.30.nocontam.bfq
+INPUTS ID00659 chr21.BS.bfa chr21.0.63.nocontam.bfq
+OUTPUTS ID00659 chr21.0.63.nocontam.map
+INPUTS ID00790 chr21.BS.bfa chr21.1.95.nocontam.bfq
+OUTPUTS ID00790 chr21.1.95.nocontam.map
+INPUTS ID00791 chr21.BS.bfa chr21.1.96.nocontam.bfq
+OUTPUTS ID00791 chr21.1.96.nocontam.map
+INPUTS ID00528 chr21.1.31.nocontam.fq
+OUTPUTS ID00528 chr21.1.31.nocontam.bfq
+INPUTS ID00792 chr21.BS.bfa chr21.1.97.nocontam.bfq
+OUTPUTS ID00792 chr21.1.97.nocontam.map
+INPUTS ID00660 chr21.BS.bfa chr21.0.64.nocontam.bfq
+OUTPUTS ID00660 chr21.0.64.nocontam.map
+INPUTS ID00529 chr21.1.32.nocontam.fq
+OUTPUTS ID00529 chr21.1.32.nocontam.bfq
+INPUTS ID00793 chr21.BS.bfa chr21.1.98.nocontam.bfq
+OUTPUTS ID00793 chr21.1.98.nocontam.map
+INPUTS ID00661 chr21.BS.bfa chr21.0.65.nocontam.bfq
+OUTPUTS ID00661 chr21.0.65.nocontam.map
+INPUTS ID00794 chr21.0.0.nocontam.map chr21.0.1.nocontam.map chr21.0.2.nocontam.map chr21.0.3.nocontam.map chr21.0.4.nocontam.map chr21.0.5.nocontam.map chr21.0.6.nocontam.map chr21.0.7.nocontam.map chr21.0.8.nocontam.map chr21.0.9.nocontam.map chr21.0.10.nocontam.map chr21.0.11.nocontam.map chr21.0.12.nocontam.map chr21.0.13.nocontam.map chr21.0.14.nocontam.map chr21.0.15.nocontam.map chr21.0.16.nocontam.map chr21.0.17.nocontam.map chr21.0.18.nocontam.map chr21.0.19.nocontam.map chr21.0.20.nocontam.map chr21.0.21.nocontam.map chr21.0.22.nocontam.map chr21.0.23.nocontam.map chr21.0.24.nocontam.map chr21.0.25.nocontam.map chr21.0.26.nocontam.map chr21.0.27.nocontam.map chr21.0.28.nocontam.map chr21.0.29.nocontam.map chr21.0.30.nocontam.map chr21.0.31.nocontam.map chr21.0.32.nocontam.map chr21.0.33.nocontam.map chr21.0.34.nocontam.map chr21.0.35.nocontam.map chr21.0.36.nocontam.map chr21.0.37.nocontam.map chr21.0.38.nocontam.map chr21.0.39.nocontam.map chr21.0.40.nocontam.map chr21.0.41.nocontam.map chr21.0.42.nocontam.map chr21.0.43.nocontam.map chr21.0.44.nocontam.map chr21.0.45.nocontam.map chr21.0.46.nocontam.map chr21.0.47.nocontam.map chr21.0.48.nocontam.map chr21.0.49.nocontam.map chr21.0.50.nocontam.map chr21.0.51.nocontam.map chr21.0.52.nocontam.map chr21.0.53.nocontam.map chr21.0.54.nocontam.map chr21.0.55.nocontam.map chr21.0.56.nocontam.map chr21.0.57.nocontam.map chr21.0.58.nocontam.map chr21.0.59.nocontam.map chr21.0.60.nocontam.map chr21.0.61.nocontam.map chr21.0.62.nocontam.map chr21.0.63.nocontam.map chr21.0.64.nocontam.map chr21.0.65.nocontam.map chr21.0.66.nocontam.map chr21.0.67.nocontam.map chr21.0.68.nocontam.map chr21.0.69.nocontam.map chr21.0.70.nocontam.map chr21.0.71.nocontam.map chr21.0.72.nocontam.map chr21.0.73.nocontam.map chr21.0.74.nocontam.map chr21.0.75.nocontam.map chr21.0.76.nocontam.map chr21.0.77.nocontam.map chr21.0.78.nocontam.map chr21.0.79.nocontam.map chr21.0.80.nocontam.map chr21.0.81.nocontam.map chr21.0.82.nocontam.map chr21.0.83.nocontam.map chr21.0.84.nocontam.map chr21.0.85.nocontam.map chr21.0.86.nocontam.map chr21.0.87.nocontam.map chr21.0.88.nocontam.map chr21.0.89.nocontam.map chr21.0.90.nocontam.map chr21.0.91.nocontam.map chr21.0.92.nocontam.map chr21.0.93.nocontam.map chr21.0.94.nocontam.map chr21.0.95.nocontam.map chr21.0.96.nocontam.map chr21.0.97.nocontam.map chr21.0.98.nocontam.map
+OUTPUTS ID00794 chr21_0.nocontam.map
+INPUTS ID00530 chr21.1.33.nocontam.fq
+OUTPUTS ID00530 chr21.1.33.nocontam.bfq
+INPUTS ID00662 chr21.BS.bfa chr21.0.66.nocontam.bfq
+OUTPUTS ID00662 chr21.0.66.nocontam.map
+INPUTS ID00795 chr21.1.0.nocontam.map chr21.1.1.nocontam.map chr21.1.2.nocontam.map chr21.1.3.nocontam.map chr21.1.4.nocontam.map chr21.1.5.nocontam.map chr21.1.6.nocontam.map chr21.1.7.nocontam.map chr21.1.8.nocontam.map chr21.1.9.nocontam.map chr21.1.10.nocontam.map chr21.1.11.nocontam.map chr21.1.12.nocontam.map chr21.1.13.nocontam.map chr21.1.14.nocontam.map chr21.1.15.nocontam.map chr21.1.16.nocontam.map chr21.1.17.nocontam.map chr21.1.18.nocontam.map chr21.1.19.nocontam.map chr21.1.20.nocontam.map chr21.1.21.nocontam.map chr21.1.22.nocontam.map chr21.1.23.nocontam.map chr21.1.24.nocontam.map chr21.1.25.nocontam.map chr21.1.26.nocontam.map chr21.1.27.nocontam.map chr21.1.28.nocontam.map chr21.1.29.nocontam.map chr21.1.30.nocontam.map chr21.1.31.nocontam.map chr21.1.32.nocontam.map chr21.1.33.nocontam.map chr21.1.34.nocontam.map chr21.1.35.nocontam.map chr21.1.36.nocontam.map chr21.1.37.nocontam.map chr21.1.38.nocontam.map chr21.1.39.nocontam.map chr21.1.40.nocontam.map chr21.1.41.nocontam.map chr21.1.42.nocontam.map chr21.1.43.nocontam.map chr21.1.44.nocontam.map chr21.1.45.nocontam.map chr21.1.46.nocontam.map chr21.1.47.nocontam.map chr21.1.48.nocontam.map chr21.1.49.nocontam.map chr21.1.50.nocontam.map chr21.1.51.nocontam.map chr21.1.52.nocontam.map chr21.1.53.nocontam.map chr21.1.54.nocontam.map chr21.1.55.nocontam.map chr21.1.56.nocontam.map chr21.1.57.nocontam.map chr21.1.58.nocontam.map chr21.1.59.nocontam.map chr21.1.60.nocontam.map chr21.1.61.nocontam.map chr21.1.62.nocontam.map chr21.1.63.nocontam.map chr21.1.64.nocontam.map chr21.1.65.nocontam.map chr21.1.66.nocontam.map chr21.1.67.nocontam.map chr21.1.68.nocontam.map chr21.1.69.nocontam.map chr21.1.70.nocontam.map chr21.1.71.nocontam.map chr21.1.72.nocontam.map chr21.1.73.nocontam.map chr21.1.74.nocontam.map chr21.1.75.nocontam.map chr21.1.76.nocontam.map chr21.1.77.nocontam.map chr21.1.78.nocontam.map chr21.1.79.nocontam.map chr21.1.80.nocontam.map chr21.1.81.nocontam.map chr21.1.82.nocontam.map chr21.1.83.nocontam.map chr21.1.84.nocontam.map chr21.1.85.nocontam.map chr21.1.86.nocontam.map chr21.1.87.nocontam.map chr21.1.88.nocontam.map chr21.1.89.nocontam.map chr21.1.90.nocontam.map chr21.1.91.nocontam.map chr21.1.92.nocontam.map chr21.1.93.nocontam.map chr21.1.94.nocontam.map chr21.1.95.nocontam.map chr21.1.96.nocontam.map chr21.1.97.nocontam.map chr21.1.98.nocontam.map
+OUTPUTS ID00795 chr21_1.nocontam.map
+INPUTS ID00531 chr21.1.34.nocontam.fq
+OUTPUTS ID00531 chr21.1.34.nocontam.bfq
+INPUTS ID00663 chr21.BS.bfa chr21.0.67.nocontam.bfq
+OUTPUTS ID00663 chr21.0.67.nocontam.map
+INPUTS ID00796 chr21_0.nocontam.map chr21_1.nocontam.map
+OUTPUTS ID00796 chr21.nocontam.map chr21.nocontam.map.zr chr21.nocontam.map.vm
+INPUTS ID00400 chr21.0.2.nocontam.fq
+OUTPUTS ID00400 chr21.0.2.nocontam.bfq
+INPUTS ID00532 chr21.1.35.nocontam.fq
+OUTPUTS ID00532 chr21.1.35.nocontam.bfq
+INPUTS ID00664 chr21.BS.bfa chr21.0.68.nocontam.bfq
+OUTPUTS ID00664 chr21.0.68.nocontam.map
+INPUTS ID00797 chr21.nocontam.map
+OUTPUTS ID00797 chr21.nocontam.chr.map
+INPUTS ID00401 chr21.0.3.nocontam.fq
+OUTPUTS ID00401 chr21.0.3.nocontam.bfq
+INPUTS ID00533 chr21.1.36.nocontam.fq
+OUTPUTS ID00533 chr21.1.36.nocontam.bfq
+INPUTS ID00665 chr21.BS.bfa chr21.0.69.nocontam.bfq
+OUTPUTS ID00665 chr21.0.69.nocontam.map
+INPUTS ID00798 chr21.BSnull.bfa chr21.nocontam.chr.map
+OUTPUTS ID00798 chr21.nocontam.chr.pileup
+INPUTS ID00402 chr21.0.4.nocontam.fq
+OUTPUTS ID00402 chr21.0.4.nocontam.bfq
+INPUTS ID00534 chr21.1.37.nocontam.fq
+OUTPUTS ID00534 chr21.1.37.nocontam.bfq
+INPUTS ID00666 chr21.BS.bfa chr21.0.70.nocontam.bfq
+OUTPUTS ID00666 chr21.0.70.nocontam.map
+INPUTS ID00403 chr21.0.5.nocontam.fq
+OUTPUTS ID00403 chr21.0.5.nocontam.bfq
+INPUTS ID00535 chr21.1.38.nocontam.fq
+OUTPUTS ID00535 chr21.1.38.nocontam.bfq
+INPUTS ID00667 chr21.BS.bfa chr21.0.71.nocontam.bfq
+OUTPUTS ID00667 chr21.0.71.nocontam.map
+INPUTS ID00404 chr21.0.6.nocontam.fq
+OUTPUTS ID00404 chr21.0.6.nocontam.bfq
+INPUTS ID00536 chr21.1.39.nocontam.fq
+OUTPUTS ID00536 chr21.1.39.nocontam.bfq
+INPUTS ID00668 chr21.BS.bfa chr21.0.72.nocontam.bfq
+OUTPUTS ID00668 chr21.0.72.nocontam.map
+INPUTS ID00405 chr21.0.7.nocontam.fq
+OUTPUTS ID00405 chr21.0.7.nocontam.bfq
+INPUTS ID00537 chr21.1.40.nocontam.fq
+OUTPUTS ID00537 chr21.1.40.nocontam.bfq
+INPUTS ID00669 chr21.BS.bfa chr21.0.73.nocontam.bfq
+OUTPUTS ID00669 chr21.0.73.nocontam.map
+INPUTS ID00406 chr21.0.8.nocontam.fq
+OUTPUTS ID00406 chr21.0.8.nocontam.bfq
+INPUTS ID00538 chr21.1.41.nocontam.fq
+OUTPUTS ID00538 chr21.1.41.nocontam.bfq
+INPUTS ID00407 chr21.0.9.nocontam.fq
+OUTPUTS ID00407 chr21.0.9.nocontam.bfq
+INPUTS ID00539 chr21.1.42.nocontam.fq
+OUTPUTS ID00539 chr21.1.42.nocontam.bfq
+INPUTS ID00670 chr21.BS.bfa chr21.0.74.nocontam.bfq
+OUTPUTS ID00670 chr21.0.74.nocontam.map
+INPUTS ID00408 chr21.0.10.nocontam.fq
+OUTPUTS ID00408 chr21.0.10.nocontam.bfq
+INPUTS ID00671 chr21.BS.bfa chr21.0.75.nocontam.bfq
+OUTPUTS ID00671 chr21.0.75.nocontam.map
+INPUTS ID00409 chr21.0.11.nocontam.fq
+OUTPUTS ID00409 chr21.0.11.nocontam.bfq
+INPUTS ID00540 chr21.1.43.nocontam.fq
+OUTPUTS ID00540 chr21.1.43.nocontam.bfq
+INPUTS ID00672 chr21.BS.bfa chr21.0.76.nocontam.bfq
+OUTPUTS ID00672 chr21.0.76.nocontam.map
+INPUTS ID00541 chr21.1.44.nocontam.fq
+OUTPUTS ID00541 chr21.1.44.nocontam.bfq
+INPUTS ID00673 chr21.BS.bfa chr21.0.77.nocontam.bfq
+OUTPUTS ID00673 chr21.0.77.nocontam.map
+INPUTS ID00410 chr21.0.12.nocontam.fq
+OUTPUTS ID00410 chr21.0.12.nocontam.bfq
+INPUTS ID00542 chr21.1.45.nocontam.fq
+OUTPUTS ID00542 chr21.1.45.nocontam.bfq
+INPUTS ID00674 chr21.BS.bfa chr21.0.78.nocontam.bfq
+OUTPUTS ID00674 chr21.0.78.nocontam.map
+INPUTS ID00411 chr21.0.13.nocontam.fq
+OUTPUTS ID00411 chr21.0.13.nocontam.bfq
+INPUTS ID00543 chr21.1.46.nocontam.fq
+OUTPUTS ID00543 chr21.1.46.nocontam.bfq
+INPUTS ID00675 chr21.BS.bfa chr21.0.79.nocontam.bfq
+OUTPUTS ID00675 chr21.0.79.nocontam.map
+INPUTS ID00412 chr21.0.14.nocontam.fq
+OUTPUTS ID00412 chr21.0.14.nocontam.bfq
+INPUTS ID00544 chr21.1.47.nocontam.fq
+OUTPUTS ID00544 chr21.1.47.nocontam.bfq
+INPUTS ID00676 chr21.BS.bfa chr21.0.80.nocontam.bfq
+OUTPUTS ID00676 chr21.0.80.nocontam.map
+INPUTS ID00413 chr21.0.15.nocontam.fq
+OUTPUTS ID00413 chr21.0.15.nocontam.bfq
+INPUTS ID00545 chr21.1.48.nocontam.fq
+OUTPUTS ID00545 chr21.1.48.nocontam.bfq
+INPUTS ID00677 chr21.BS.bfa chr21.0.81.nocontam.bfq
+OUTPUTS ID00677 chr21.0.81.nocontam.map
+INPUTS ID00414 chr21.0.16.nocontam.fq
+OUTPUTS ID00414 chr21.0.16.nocontam.bfq
+INPUTS ID00546 chr21.1.49.nocontam.fq
+OUTPUTS ID00546 chr21.1.49.nocontam.bfq
+INPUTS ID00678 chr21.BS.bfa chr21.0.82.nocontam.bfq
+OUTPUTS ID00678 chr21.0.82.nocontam.map
+INPUTS ID00415 chr21.0.17.nocontam.fq
+OUTPUTS ID00415 chr21.0.17.nocontam.bfq
+INPUTS ID00547 chr21.1.50.nocontam.fq
+OUTPUTS ID00547 chr21.1.50.nocontam.bfq
+INPUTS ID00679 chr21.BS.bfa chr21.0.83.nocontam.bfq
+OUTPUTS ID00679 chr21.0.83.nocontam.map
+INPUTS ID00416 chr21.0.18.nocontam.fq
+OUTPUTS ID00416 chr21.0.18.nocontam.bfq
+INPUTS ID00548 chr21.1.51.nocontam.fq
+OUTPUTS ID00548 chr21.1.51.nocontam.bfq
+INPUTS ID00417 chr21.0.19.nocontam.fq
+OUTPUTS ID00417 chr21.0.19.nocontam.bfq
+INPUTS ID00549 chr21.1.52.nocontam.fq
+OUTPUTS ID00549 chr21.1.52.nocontam.bfq
+INPUTS ID00680 chr21.BS.bfa chr21.0.84.nocontam.bfq
+OUTPUTS ID00680 chr21.0.84.nocontam.map
+INPUTS ID00681 chr21.BS.bfa chr21.0.85.nocontam.bfq
+OUTPUTS ID00681 chr21.0.85.nocontam.map
+INPUTS ID00418 chr21.0.20.nocontam.fq
+OUTPUTS ID00418 chr21.0.20.nocontam.bfq
+INPUTS ID00550 chr21.1.53.nocontam.fq
+OUTPUTS ID00550 chr21.1.53.nocontam.bfq
+INPUTS ID00682 chr21.BS.bfa chr21.0.86.nocontam.bfq
+OUTPUTS ID00682 chr21.0.86.nocontam.map
+INPUTS ID00419 chr21.0.21.nocontam.fq
+OUTPUTS ID00419 chr21.0.21.nocontam.bfq
+INPUTS ID00551 chr21.1.54.nocontam.fq
+OUTPUTS ID00551 chr21.1.54.nocontam.bfq
+INPUTS ID00683 chr21.BS.bfa chr21.0.87.nocontam.bfq
+OUTPUTS ID00683 chr21.0.87.nocontam.map
+INPUTS ID00420 chr21.0.22.nocontam.fq
+OUTPUTS ID00420 chr21.0.22.nocontam.bfq
+INPUTS ID00552 chr21.1.55.nocontam.fq
+OUTPUTS ID00552 chr21.1.55.nocontam.bfq
+INPUTS ID00684 chr21.BS.bfa chr21.0.88.nocontam.bfq
+OUTPUTS ID00684 chr21.0.88.nocontam.map
+INPUTS ID00421 chr21.0.23.nocontam.fq
+OUTPUTS ID00421 chr21.0.23.nocontam.bfq
+INPUTS ID00553 chr21.1.56.nocontam.fq
+OUTPUTS ID00553 chr21.1.56.nocontam.bfq
+INPUTS ID00685 chr21.BS.bfa chr21.0.89.nocontam.bfq
+OUTPUTS ID00685 chr21.0.89.nocontam.map
+INPUTS ID00422 chr21.0.24.nocontam.fq
+OUTPUTS ID00422 chr21.0.24.nocontam.bfq
+INPUTS ID00554 chr21.1.57.nocontam.fq
+OUTPUTS ID00554 chr21.1.57.nocontam.bfq
+INPUTS ID00686 chr21.BS.bfa chr21.0.90.nocontam.bfq
+OUTPUTS ID00686 chr21.0.90.nocontam.map
+INPUTS ID00423 chr21.0.25.nocontam.fq
+OUTPUTS ID00423 chr21.0.25.nocontam.bfq
+INPUTS ID00555 chr21.1.58.nocontam.fq
+OUTPUTS ID00555 chr21.1.58.nocontam.bfq
+INPUTS ID00687 chr21.BS.bfa chr21.0.91.nocontam.bfq
+OUTPUTS ID00687 chr21.0.91.nocontam.map
+INPUTS ID00424 chr21.0.26.nocontam.fq
+OUTPUTS ID00424 chr21.0.26.nocontam.bfq
+INPUTS ID00556 chr21.1.59.nocontam.fq
+OUTPUTS ID00556 chr21.1.59.nocontam.bfq
+INPUTS ID00688 chr21.BS.bfa chr21.0.92.nocontam.bfq
+OUTPUTS ID00688 chr21.0.92.nocontam.map
+INPUTS ID00425 chr21.0.27.nocontam.fq
+OUTPUTS ID00425 chr21.0.27.nocontam.bfq
+INPUTS ID00557 chr21.1.60.nocontam.fq
+OUTPUTS ID00557 chr21.1.60.nocontam.bfq
+INPUTS ID00689 chr21.BS.bfa chr21.0.93.nocontam.bfq
+OUTPUTS ID00689 chr21.0.93.nocontam.map
+INPUTS ID00426 chr21.0.28.nocontam.fq
+OUTPUTS ID00426 chr21.0.28.nocontam.bfq
+INPUTS ID00558 chr21.1.61.nocontam.fq
+OUTPUTS ID00558 chr21.1.61.nocontam.bfq
+INPUTS ID00427 chr21.0.29.nocontam.fq
+OUTPUTS ID00427 chr21.0.29.nocontam.bfq
+INPUTS ID00559 chr21.1.62.nocontam.fq
+OUTPUTS ID00559 chr21.1.62.nocontam.bfq
+INPUTS ID00690 chr21.BS.bfa chr21.0.94.nocontam.bfq
+OUTPUTS ID00690 chr21.0.94.nocontam.map
+INPUTS ID00428 chr21.0.30.nocontam.fq
+OUTPUTS ID00428 chr21.0.30.nocontam.bfq
+INPUTS ID00691 chr21.BS.bfa chr21.0.95.nocontam.bfq
+OUTPUTS ID00691 chr21.0.95.nocontam.map
+INPUTS ID00560 chr21.1.63.nocontam.fq
+OUTPUTS ID00560 chr21.1.63.nocontam.bfq
+INPUTS ID00692 chr21.BS.bfa chr21.0.96.nocontam.bfq
+OUTPUTS ID00692 chr21.0.96.nocontam.map
+INPUTS ID00429 chr21.0.31.nocontam.fq
+OUTPUTS ID00429 chr21.0.31.nocontam.bfq
+INPUTS ID00561 chr21.1.64.nocontam.fq
+OUTPUTS ID00561 chr21.1.64.nocontam.bfq
+INPUTS ID00693 chr21.BS.bfa chr21.0.97.nocontam.bfq
+OUTPUTS ID00693 chr21.0.97.nocontam.map
+INPUTS ID00694 chr21.BS.bfa chr21.0.98.nocontam.bfq
+OUTPUTS ID00694 chr21.0.98.nocontam.map
+INPUTS ID00430 chr21.0.32.nocontam.fq
+OUTPUTS ID00430 chr21.0.32.nocontam.bfq
+INPUTS ID00562 chr21.1.65.nocontam.fq
+OUTPUTS ID00562 chr21.1.65.nocontam.bfq
+INPUTS ID00695 chr21.BS.bfa chr21.1.0.nocontam.bfq
+OUTPUTS ID00695 chr21.1.0.nocontam.map
+INPUTS ID00431 chr21.0.33.nocontam.fq
+OUTPUTS ID00431 chr21.0.33.nocontam.bfq
+INPUTS ID00563 chr21.1.66.nocontam.fq
+OUTPUTS ID00563 chr21.1.66.nocontam.bfq
+INPUTS ID00696 chr21.BS.bfa chr21.1.1.nocontam.bfq
+OUTPUTS ID00696 chr21.1.1.nocontam.map
+INPUTS ID00300 chr21.1.1.nocontam.sfq
+OUTPUTS ID00300 chr21.1.1.nocontam.fq
+INPUTS ID00432 chr21.0.34.nocontam.fq
+OUTPUTS ID00432 chr21.0.34.nocontam.bfq
+INPUTS ID00564 chr21.1.67.nocontam.fq
+OUTPUTS ID00564 chr21.1.67.nocontam.bfq
+INPUTS ID00697 chr21.BS.bfa chr21.1.2.nocontam.bfq
+OUTPUTS ID00697 chr21.1.2.nocontam.map
+INPUTS ID00301 chr21.1.2.nocontam.sfq
+OUTPUTS ID00301 chr21.1.2.nocontam.fq
+INPUTS ID00433 chr21.0.35.nocontam.fq
+OUTPUTS ID00433 chr21.0.35.nocontam.bfq
+INPUTS ID00565 chr21.1.68.nocontam.fq
+OUTPUTS ID00565 chr21.1.68.nocontam.bfq
+INPUTS ID00698 chr21.BS.bfa chr21.1.3.nocontam.bfq
+OUTPUTS ID00698 chr21.1.3.nocontam.map
+INPUTS ID00302 chr21.1.3.nocontam.sfq
+OUTPUTS ID00302 chr21.1.3.nocontam.fq
+INPUTS ID00434 chr21.0.36.nocontam.fq
+OUTPUTS ID00434 chr21.0.36.nocontam.bfq
+INPUTS ID00566 chr21.1.69.nocontam.fq
+OUTPUTS ID00566 chr21.1.69.nocontam.bfq
+INPUTS ID00699 chr21.BS.bfa chr21.1.4.nocontam.bfq
+OUTPUTS ID00699 chr21.1.4.nocontam.map
+INPUTS ID00303 chr21.1.4.nocontam.sfq
+OUTPUTS ID00303 chr21.1.4.nocontam.fq
+INPUTS ID00435 chr21.0.37.nocontam.fq
+OUTPUTS ID00435 chr21.0.37.nocontam.bfq
+INPUTS ID00567 chr21.1.70.nocontam.fq
+OUTPUTS ID00567 chr21.1.70.nocontam.bfq
+INPUTS ID00304 chr21.1.5.nocontam.sfq
+OUTPUTS ID00304 chr21.1.5.nocontam.fq
+INPUTS ID00436 chr21.0.38.nocontam.fq
+OUTPUTS ID00436 chr21.0.38.nocontam.bfq
+INPUTS ID00568 chr21.1.71.nocontam.fq
+OUTPUTS ID00568 chr21.1.71.nocontam.bfq
+INPUTS ID00305 chr21.1.6.nocontam.sfq
+OUTPUTS ID00305 chr21.1.6.nocontam.fq
+INPUTS ID00437 chr21.0.39.nocontam.fq
+OUTPUTS ID00437 chr21.0.39.nocontam.bfq
+INPUTS ID00569 chr21.1.72.nocontam.fq
+OUTPUTS ID00569 chr21.1.72.nocontam.bfq
+INPUTS ID00306 chr21.1.7.nocontam.sfq
+OUTPUTS ID00306 chr21.1.7.nocontam.fq
+INPUTS ID00438 chr21.0.40.nocontam.fq
+OUTPUTS ID00438 chr21.0.40.nocontam.bfq
+INPUTS ID00307 chr21.1.8.nocontam.sfq
+OUTPUTS ID00307 chr21.1.8.nocontam.fq
+INPUTS ID00439 chr21.0.41.nocontam.fq
+OUTPUTS ID00439 chr21.0.41.nocontam.bfq
+INPUTS ID00570 chr21.1.73.nocontam.fq
+OUTPUTS ID00570 chr21.1.73.nocontam.bfq
+INPUTS ID00571 chr21.1.74.nocontam.fq
+OUTPUTS ID00571 chr21.1.74.nocontam.bfq
+INPUTS ID00308 chr21.1.9.nocontam.sfq
+OUTPUTS ID00308 chr21.1.9.nocontam.fq
+INPUTS ID00440 chr21.0.42.nocontam.fq
+OUTPUTS ID00440 chr21.0.42.nocontam.bfq
+INPUTS ID00572 chr21.1.75.nocontam.fq
+OUTPUTS ID00572 chr21.1.75.nocontam.bfq
+INPUTS ID00309 chr21.1.10.nocontam.sfq
+OUTPUTS ID00309 chr21.1.10.nocontam.fq
+INPUTS ID00441 chr21.0.43.nocontam.fq
+OUTPUTS ID00441 chr21.0.43.nocontam.bfq
+INPUTS ID00573 chr21.1.76.nocontam.fq
+OUTPUTS ID00573 chr21.1.76.nocontam.bfq
+INPUTS ID00310 chr21.1.11.nocontam.sfq
+OUTPUTS ID00310 chr21.1.11.nocontam.fq
+INPUTS ID00442 chr21.0.44.nocontam.fq
+OUTPUTS ID00442 chr21.0.44.nocontam.bfq
+INPUTS ID00574 chr21.1.77.nocontam.fq
+OUTPUTS ID00574 chr21.1.77.nocontam.bfq
+INPUTS ID00311 chr21.1.12.nocontam.sfq
+OUTPUTS ID00311 chr21.1.12.nocontam.fq
+INPUTS ID00443 chr21.0.45.nocontam.fq
+OUTPUTS ID00443 chr21.0.45.nocontam.bfq
+INPUTS ID00575 chr21.1.78.nocontam.fq
+OUTPUTS ID00575 chr21.1.78.nocontam.bfq
+INPUTS ID00312 chr21.1.13.nocontam.sfq
+OUTPUTS ID00312 chr21.1.13.nocontam.fq
+INPUTS ID00444 chr21.0.46.nocontam.fq
+OUTPUTS ID00444 chr21.0.46.nocontam.bfq
+INPUTS ID00576 chr21.1.79.nocontam.fq
+OUTPUTS ID00576 chr21.1.79.nocontam.bfq
+INPUTS ID00313 chr21.1.14.nocontam.sfq
+OUTPUTS ID00313 chr21.1.14.nocontam.fq
+INPUTS ID00445 chr21.0.47.nocontam.fq
+OUTPUTS ID00445 chr21.0.47.nocontam.bfq
+INPUTS ID00577 chr21.1.80.nocontam.fq
+OUTPUTS ID00577 chr21.1.80.nocontam.bfq
+INPUTS ID00314 chr21.1.15.nocontam.sfq
+OUTPUTS ID00314 chr21.1.15.nocontam.fq
+INPUTS ID00446 chr21.0.48.nocontam.fq
+OUTPUTS ID00446 chr21.0.48.nocontam.bfq
+INPUTS ID00578 chr21.1.81.nocontam.fq
+OUTPUTS ID00578 chr21.1.81.nocontam.bfq
+INPUTS ID00315 chr21.1.16.nocontam.sfq
+OUTPUTS ID00315 chr21.1.16.nocontam.fq
+INPUTS ID00447 chr21.0.49.nocontam.fq
+OUTPUTS ID00447 chr21.0.49.nocontam.bfq
+INPUTS ID00579 chr21.1.82.nocontam.fq
+OUTPUTS ID00579 chr21.1.82.nocontam.bfq
+INPUTS ID00316 chr21.1.17.nocontam.sfq
+OUTPUTS ID00316 chr21.1.17.nocontam.fq
+INPUTS ID00448 chr21.0.50.nocontam.fq
+OUTPUTS ID00448 chr21.0.50.nocontam.bfq
+INPUTS ID00317 chr21.1.18.nocontam.sfq
+OUTPUTS ID00317 chr21.1.18.nocontam.fq
+INPUTS ID00449 chr21.0.51.nocontam.fq
+OUTPUTS ID00449 chr21.0.51.nocontam.bfq
+INPUTS ID00580 chr21.1.83.nocontam.fq
+OUTPUTS ID00580 chr21.1.83.nocontam.bfq
+INPUTS ID00318 chr21.1.19.nocontam.sfq
+OUTPUTS ID00318 chr21.1.19.nocontam.fq
+INPUTS ID00581 chr21.1.84.nocontam.fq
+OUTPUTS ID00581 chr21.1.84.nocontam.bfq
+INPUTS ID00450 chr21.0.52.nocontam.fq
+OUTPUTS ID00450 chr21.0.52.nocontam.bfq
+INPUTS ID00582 chr21.1.85.nocontam.fq
+OUTPUTS ID00582 chr21.1.85.nocontam.bfq
+INPUTS ID00319 chr21.1.20.nocontam.sfq
+OUTPUTS ID00319 chr21.1.20.nocontam.fq
+INPUTS ID00451 chr21.0.53.nocontam.fq
+OUTPUTS ID00451 chr21.0.53.nocontam.bfq
+INPUTS ID00583 chr21.1.86.nocontam.fq
+OUTPUTS ID00583 chr21.1.86.nocontam.bfq
+INPUTS ID00320 chr21.1.21.nocontam.sfq
+OUTPUTS ID00320 chr21.1.21.nocontam.fq
+INPUTS ID00452 chr21.0.54.nocontam.fq
+OUTPUTS ID00452 chr21.0.54.nocontam.bfq
+INPUTS ID00584 chr21.1.87.nocontam.fq
+OUTPUTS ID00584 chr21.1.87.nocontam.bfq
+INPUTS ID00321 chr21.1.22.nocontam.sfq
+OUTPUTS ID00321 chr21.1.22.nocontam.fq
+INPUTS ID00453 chr21.0.55.nocontam.fq
+OUTPUTS ID00453 chr21.0.55.nocontam.bfq
+INPUTS ID00585 chr21.1.88.nocontam.fq
+OUTPUTS ID00585 chr21.1.88.nocontam.bfq
+INPUTS ID00322 chr21.1.23.nocontam.sfq
+OUTPUTS ID00322 chr21.1.23.nocontam.fq
+INPUTS ID00454 chr21.0.56.nocontam.fq
+OUTPUTS ID00454 chr21.0.56.nocontam.bfq
+INPUTS ID00586 chr21.1.89.nocontam.fq
+OUTPUTS ID00586 chr21.1.89.nocontam.bfq
+INPUTS ID00323 chr21.1.24.nocontam.sfq
+OUTPUTS ID00323 chr21.1.24.nocontam.fq
+INPUTS ID00455 chr21.0.57.nocontam.fq
+OUTPUTS ID00455 chr21.0.57.nocontam.bfq
+INPUTS ID00587 chr21.1.90.nocontam.fq
+OUTPUTS ID00587 chr21.1.90.nocontam.bfq
+INPUTS ID00324 chr21.1.25.nocontam.sfq
+OUTPUTS ID00324 chr21.1.25.nocontam.fq
+INPUTS ID00456 chr21.0.58.nocontam.fq
+OUTPUTS ID00456 chr21.0.58.nocontam.bfq
+INPUTS ID00588 chr21.1.91.nocontam.fq
+OUTPUTS ID00588 chr21.1.91.nocontam.bfq
+INPUTS ID00457 chr21.0.59.nocontam.fq
+OUTPUTS ID00457 chr21.0.59.nocontam.bfq
+INPUTS ID00589 chr21.1.92.nocontam.fq
+OUTPUTS ID00589 chr21.1.92.nocontam.bfq
+INPUTS ID00325 chr21.1.26.nocontam.sfq
+OUTPUTS ID00325 chr21.1.26.nocontam.fq
+INPUTS ID00458 chr21.0.60.nocontam.fq
+OUTPUTS ID00458 chr21.0.60.nocontam.bfq
+INPUTS ID00326 chr21.1.27.nocontam.sfq
+OUTPUTS ID00326 chr21.1.27.nocontam.fq
+INPUTS ID00459 chr21.0.61.nocontam.fq
+OUTPUTS ID00459 chr21.0.61.nocontam.bfq
+INPUTS ID00327 chr21.1.28.nocontam.sfq
+OUTPUTS ID00327 chr21.1.28.nocontam.fq
+INPUTS ID00590 chr21.1.93.nocontam.fq
+OUTPUTS ID00590 chr21.1.93.nocontam.bfq
+INPUTS ID00328 chr21.1.29.nocontam.sfq
+OUTPUTS ID00328 chr21.1.29.nocontam.fq
+INPUTS ID00591 chr21.1.94.nocontam.fq
+OUTPUTS ID00591 chr21.1.94.nocontam.bfq
+INPUTS ID00329 chr21.1.30.nocontam.sfq
+OUTPUTS ID00329 chr21.1.30.nocontam.fq
+INPUTS ID00460 chr21.0.62.nocontam.fq
+OUTPUTS ID00460 chr21.0.62.nocontam.bfq
+INPUTS ID00592 chr21.1.95.nocontam.fq
+OUTPUTS ID00592 chr21.1.95.nocontam.bfq
+INPUTS ID00461 chr21.0.63.nocontam.fq
+OUTPUTS ID00461 chr21.0.63.nocontam.bfq
+INPUTS ID00593 chr21.1.96.nocontam.fq
+OUTPUTS ID00593 chr21.1.96.nocontam.bfq
+INPUTS ID00330 chr21.1.31.nocontam.sfq
+OUTPUTS ID00330 chr21.1.31.nocontam.fq
+INPUTS ID00462 chr21.0.64.nocontam.fq
+OUTPUTS ID00462 chr21.0.64.nocontam.bfq
+INPUTS ID00594 chr21.1.97.nocontam.fq
+OUTPUTS ID00594 chr21.1.97.nocontam.bfq
+INPUTS ID00331 chr21.1.32.nocontam.sfq
+OUTPUTS ID00331 chr21.1.32.nocontam.fq
+INPUTS ID00463 chr21.0.65.nocontam.fq
+OUTPUTS ID00463 chr21.0.65.nocontam.bfq
+INPUTS ID00595 chr21.1.98.nocontam.fq
+OUTPUTS ID00595 chr21.1.98.nocontam.bfq
+INPUTS ID00200 chr21.0.0.nocontam.sfq
+OUTPUTS ID00200 chr21.0.0.nocontam.fq
+INPUTS ID00332 chr21.1.33.nocontam.sfq
+OUTPUTS ID00332 chr21.1.33.nocontam.fq
+INPUTS ID00464 chr21.0.66.nocontam.fq
+OUTPUTS ID00464 chr21.0.66.nocontam.bfq
+INPUTS ID00596 chr21.BS.bfa chr21.0.0.nocontam.bfq
+OUTPUTS ID00596 chr21.0.0.nocontam.map
+INPUTS ID00201 chr21.0.1.nocontam.sfq
+OUTPUTS ID00201 chr21.0.1.nocontam.fq
+INPUTS ID00333 chr21.1.34.nocontam.sfq
+OUTPUTS ID00333 chr21.1.34.nocontam.fq
+INPUTS ID00465 chr21.0.67.nocontam.fq
+OUTPUTS ID00465 chr21.0.67.nocontam.bfq
+INPUTS ID00597 chr21.BS.bfa chr21.0.1.nocontam.bfq
+OUTPUTS ID00597 chr21.0.1.nocontam.map
+INPUTS ID00202 chr21.0.2.nocontam.sfq
+OUTPUTS ID00202 chr21.0.2.nocontam.fq
+INPUTS ID00334 chr21.1.35.nocontam.sfq
+OUTPUTS ID00334 chr21.1.35.nocontam.fq
+INPUTS ID00466 chr21.0.68.nocontam.fq
+OUTPUTS ID00466 chr21.0.68.nocontam.bfq
+INPUTS ID00598 chr21.BS.bfa chr21.0.2.nocontam.bfq
+OUTPUTS ID00598 chr21.0.2.nocontam.map
+INPUTS ID00203 chr21.0.3.nocontam.sfq
+OUTPUTS ID00203 chr21.0.3.nocontam.fq
+INPUTS ID00335 chr21.1.36.nocontam.sfq
+OUTPUTS ID00335 chr21.1.36.nocontam.fq
+INPUTS ID00467 chr21.0.69.nocontam.fq
+OUTPUTS ID00467 chr21.0.69.nocontam.bfq
+INPUTS ID00599 chr21.BS.bfa chr21.0.3.nocontam.bfq
+OUTPUTS ID00599 chr21.0.3.nocontam.map
+INPUTS ID00204 chr21.0.4.nocontam.sfq
+OUTPUTS ID00204 chr21.0.4.nocontam.fq
+INPUTS ID00336 chr21.1.37.nocontam.sfq
+OUTPUTS ID00336 chr21.1.37.nocontam.fq
+INPUTS ID00468 chr21.0.70.nocontam.fq
+OUTPUTS ID00468 chr21.0.70.nocontam.bfq
+INPUTS ID00205 chr21.0.5.nocontam.sfq
+OUTPUTS ID00205 chr21.0.5.nocontam.fq
+INPUTS ID00337 chr21.1.38.nocontam.sfq
+OUTPUTS ID00337 chr21.1.38.nocontam.fq
+INPUTS ID00469 chr21.0.71.nocontam.fq
+OUTPUTS ID00469 chr21.0.71.nocontam.bfq
+INPUTS ID00206 chr21.0.6.nocontam.sfq
+OUTPUTS ID00206 chr21.0.6.nocontam.fq
+INPUTS ID00338 chr21.1.39.nocontam.sfq
+OUTPUTS ID00338 chr21.1.39.nocontam.fq
+INPUTS ID00207 chr21.0.7.nocontam.sfq
+OUTPUTS ID00207 chr21.0.7.nocontam.fq
+INPUTS ID00339 chr21.1.40.nocontam.sfq
+OUTPUTS ID00339 chr21.1.40.nocontam.fq
+INPUTS ID00470 chr21.0.72.nocontam.fq
+OUTPUTS ID00470 chr21.0.72.nocontam.bfq
+INPUTS ID00208 chr21.0.8.nocontam.sfq
+OUTPUTS ID00208 chr21.0.8.nocontam.fq
+INPUTS ID00471 chr21.0.73.nocontam.fq
+OUTPUTS ID00471 chr21.0.73.nocontam.bfq
+INPUTS ID00340 chr21.1.41.nocontam.sfq
+OUTPUTS ID00340 chr21.1.41.nocontam.fq
+INPUTS ID00472 chr21.0.74.nocontam.fq
+OUTPUTS ID00472 chr21.0.74.nocontam.bfq
+INPUTS ID00209 chr21.0.9.nocontam.sfq
+OUTPUTS ID00209 chr21.0.9.nocontam.fq
+INPUTS ID00341 chr21.1.42.nocontam.sfq
+OUTPUTS ID00341 chr21.1.42.nocontam.fq
+INPUTS ID00473 chr21.0.75.nocontam.fq
+OUTPUTS ID00473 chr21.0.75.nocontam.bfq
+INPUTS ID00210 chr21.0.10.nocontam.sfq
+OUTPUTS ID00210 chr21.0.10.nocontam.fq
+INPUTS ID00342 chr21.1.43.nocontam.sfq
+OUTPUTS ID00342 chr21.1.43.nocontam.fq
+INPUTS ID00474 chr21.0.76.nocontam.fq
+OUTPUTS ID00474 chr21.0.76.nocontam.bfq
+INPUTS ID00211 chr21.0.11.nocontam.sfq
+OUTPUTS ID00211 chr21.0.11.nocontam.fq
+INPUTS ID00343 chr21.1.44.nocontam.sfq
+OUTPUTS ID00343 chr21.1.44.nocontam.fq
+INPUTS ID00475 chr21.0.77.nocontam.fq
+OUTPUTS ID00475 chr21.0.77.nocontam.bfq
+INPUTS ID00212 chr21.0.12.nocontam.sfq
+OUTPUTS ID00212 chr21.0.12.nocontam.fq
+INPUTS ID00344 chr21.1.45.nocontam.sfq
+OUTPUTS ID00344 chr21.1.45.nocontam.fq
+INPUTS ID00476 chr21.0.78.nocontam.fq
+OUTPUTS ID00476 chr21.0.78.nocontam.bfq
+INPUTS ID00213 chr21.0.13.nocontam.sfq
+OUTPUTS ID00213 chr21.0.13.nocontam.fq
+INPUTS ID00345 chr21.1.46.nocontam.sfq
+OUTPUTS ID00345 chr21.1.46.nocontam.fq
+INPUTS ID00477 chr21.0.79.nocontam.fq
+OUTPUTS ID00477 chr21.0.79.nocontam.bfq
+INPUTS ID00214 chr21.0.14.nocontam.sfq
+OUTPUTS ID00214 chr21.0.14.nocontam.fq
+INPUTS ID00346 chr21.1.47.nocontam.sfq
+OUTPUTS ID00346 chr21.1.47.nocontam.fq
+INPUTS ID00478 chr21.0.80.nocontam.fq
+OUTPUTS ID00478 chr21.0.80.nocontam.bfq
+INPUTS ID00215 chr21.0.15.nocontam.sfq
+OUTPUTS ID00215 chr21.0.15.nocontam.fq
+INPUTS ID00347 chr21.1.48.nocontam.sfq
+OUTPUTS ID00347 chr21.1.48.nocontam.fq
+INPUTS ID00479 chr21.0.81.nocontam.fq
+OUTPUTS ID00479 chr21.0.81.nocontam.bfq
+INPUTS ID00216 chr21.0.16.nocontam.sfq
+OUTPUTS ID00216 chr21.0.16.nocontam.fq
+INPUTS ID00348 chr21.1.49.nocontam.sfq
+OUTPUTS ID00348 chr21.1.49.nocontam.fq
+INPUTS ID00217 chr21.0.17.nocontam.sfq
+OUTPUTS ID00217 chr21.0.17.nocontam.fq
+INPUTS ID00349 chr21.1.50.nocontam.sfq
+OUTPUTS ID00349 chr21.1.50.nocontam.fq
+INPUTS ID00218 chr21.0.18.nocontam.sfq
+OUTPUTS ID00218 chr21.0.18.nocontam.fq
+INPUTS ID00480 chr21.0.82.nocontam.fq
+OUTPUTS ID00480 chr21.0.82.nocontam.bfq
+INPUTS ID00219 chr21.0.19.nocontam.sfq
+OUTPUTS ID00219 chr21.0.19.nocontam.fq
+INPUTS ID00481 chr21.0.83.nocontam.fq
+OUTPUTS ID00481 chr21.0.83.nocontam.bfq
+INPUTS ID00350 chr21.1.51.nocontam.sfq
+OUTPUTS ID00350 chr21.1.51.nocontam.fq
+INPUTS ID00482 chr21.0.84.nocontam.fq
+OUTPUTS ID00482 chr21.0.84.nocontam.bfq
+INPUTS ID00351 chr21.1.52.nocontam.sfq
+OUTPUTS ID00351 chr21.1.52.nocontam.fq
+INPUTS ID00483 chr21.0.85.nocontam.fq
+OUTPUTS ID00483 chr21.0.85.nocontam.bfq
+INPUTS ID00220 chr21.0.20.nocontam.sfq
+OUTPUTS ID00220 chr21.0.20.nocontam.fq
+INPUTS ID00352 chr21.1.53.nocontam.sfq
+OUTPUTS ID00352 chr21.1.53.nocontam.fq
+INPUTS ID00484 chr21.0.86.nocontam.fq
+OUTPUTS ID00484 chr21.0.86.nocontam.bfq
+INPUTS ID00221 chr21.0.21.nocontam.sfq
+OUTPUTS ID00221 chr21.0.21.nocontam.fq
+INPUTS ID00353 chr21.1.54.nocontam.sfq
+OUTPUTS ID00353 chr21.1.54.nocontam.fq
+INPUTS ID00485 chr21.0.87.nocontam.fq
+OUTPUTS ID00485 chr21.0.87.nocontam.bfq
+INPUTS ID00222 chr21.0.22.nocontam.sfq
+OUTPUTS ID00222 chr21.0.22.nocontam.fq
+INPUTS ID00354 chr21.1.55.nocontam.sfq
+OUTPUTS ID00354 chr21.1.55.nocontam.fq
+INPUTS ID00486 chr21.0.88.nocontam.fq
+OUTPUTS ID00486 chr21.0.88.nocontam.bfq
+INPUTS ID00223 chr21.0.23.nocontam.sfq
+OUTPUTS ID00223 chr21.0.23.nocontam.fq
+INPUTS ID00355 chr21.1.56.nocontam.sfq
+OUTPUTS ID00355 chr21.1.56.nocontam.fq
+INPUTS ID00487 chr21.0.89.nocontam.fq
+OUTPUTS ID00487 chr21.0.89.nocontam.bfq
+INPUTS ID00224 chr21.0.24.nocontam.sfq
+OUTPUTS ID00224 chr21.0.24.nocontam.fq
+INPUTS ID00356 chr21.1.57.nocontam.sfq
+OUTPUTS ID00356 chr21.1.57.nocontam.fq
+INPUTS ID00488 chr21.0.90.nocontam.fq
+OUTPUTS ID00488 chr21.0.90.nocontam.bfq
+INPUTS ID00225 chr21.0.25.nocontam.sfq
+OUTPUTS ID00225 chr21.0.25.nocontam.fq
+INPUTS ID00357 chr21.1.58.nocontam.sfq
+OUTPUTS ID00357 chr21.1.58.nocontam.fq
+INPUTS ID00489 chr21.0.91.nocontam.fq
+OUTPUTS ID00489 chr21.0.91.nocontam.bfq
+INPUTS ID00226 chr21.0.26.nocontam.sfq
+OUTPUTS ID00226 chr21.0.26.nocontam.fq
+INPUTS ID00358 chr21.1.59.nocontam.sfq
+OUTPUTS ID00358 chr21.1.59.nocontam.fq
+INPUTS ID00227 chr21.0.27.nocontam.sfq
+OUTPUTS ID00227 chr21.0.27.nocontam.fq
+INPUTS ID00359 chr21.1.60.nocontam.sfq
+OUTPUTS ID00359 chr21.1.60.nocontam.fq
+INPUTS ID00490 chr21.0.92.nocontam.fq
+OUTPUTS ID00490 chr21.0.92.nocontam.bfq
+INPUTS ID00228 chr21.0.28.nocontam.sfq
+OUTPUTS ID00228 chr21.0.28.nocontam.fq
+INPUTS ID00491 chr21.0.93.nocontam.fq
+OUTPUTS ID00491 chr21.0.93.nocontam.bfq
+INPUTS ID00229 chr21.0.29.nocontam.sfq
+OUTPUTS ID00229 chr21.0.29.nocontam.fq
+INPUTS ID00360 chr21.1.61.nocontam.sfq
+OUTPUTS ID00360 chr21.1.61.nocontam.fq
+INPUTS ID00492 chr21.0.94.nocontam.fq
+OUTPUTS ID00492 chr21.0.94.nocontam.bfq
+INPUTS ID00361 chr21.1.62.nocontam.sfq
+OUTPUTS ID00361 chr21.1.62.nocontam.fq
+INPUTS ID00493 chr21.0.95.nocontam.fq
+OUTPUTS ID00493 chr21.0.95.nocontam.bfq
+INPUTS ID00230 chr21.0.30.nocontam.sfq
+OUTPUTS ID00230 chr21.0.30.nocontam.fq
+INPUTS ID00362 chr21.1.63.nocontam.sfq
+OUTPUTS ID00362 chr21.1.63.nocontam.fq
+INPUTS ID00494 chr21.0.96.nocontam.fq
+OUTPUTS ID00494 chr21.0.96.nocontam.bfq
+INPUTS ID00231 chr21.0.31.nocontam.sfq
+OUTPUTS ID00231 chr21.0.31.nocontam.fq
+INPUTS ID00363 chr21.1.64.nocontam.sfq
+OUTPUTS ID00363 chr21.1.64.nocontam.fq
+INPUTS ID00495 chr21.0.97.nocontam.fq
+OUTPUTS ID00495 chr21.0.97.nocontam.bfq
+INPUTS ID00100 chr21.0.98.sfq
+OUTPUTS ID00100 chr21.0.98.nocontam.sfq chr21.0.98.contam.sfq
+INPUTS ID00232 chr21.0.32.nocontam.sfq
+OUTPUTS ID00232 chr21.0.32.nocontam.fq
+INPUTS ID00364 chr21.1.65.nocontam.sfq
+OUTPUTS ID00364 chr21.1.65.nocontam.fq
+INPUTS ID00496 chr21.0.98.nocontam.fq
+OUTPUTS ID00496 chr21.0.98.nocontam.bfq
+INPUTS ID00101 chr21.1.0.sfq
+OUTPUTS ID00101 chr21.1.0.nocontam.sfq chr21.1.0.contam.sfq
+INPUTS ID00233 chr21.0.33.nocontam.sfq
+OUTPUTS ID00233 chr21.0.33.nocontam.fq
+INPUTS ID00365 chr21.1.66.nocontam.sfq
+OUTPUTS ID00365 chr21.1.66.nocontam.fq
+INPUTS ID00497 chr21.1.0.nocontam.fq
+OUTPUTS ID00497 chr21.1.0.nocontam.bfq
+INPUTS ID00102 chr21.1.1.sfq
+OUTPUTS ID00102 chr21.1.1.nocontam.sfq chr21.1.1.contam.sfq
+INPUTS ID00234 chr21.0.34.nocontam.sfq
+OUTPUTS ID00234 chr21.0.34.nocontam.fq
+INPUTS ID00366 chr21.1.67.nocontam.sfq
+OUTPUTS ID00366 chr21.1.67.nocontam.fq
+INPUTS ID00498 chr21.1.1.nocontam.fq
+OUTPUTS ID00498 chr21.1.1.nocontam.bfq
+INPUTS ID00103 chr21.1.2.sfq
+OUTPUTS ID00103 chr21.1.2.nocontam.sfq chr21.1.2.contam.sfq
+INPUTS ID00235 chr21.0.35.nocontam.sfq
+OUTPUTS ID00235 chr21.0.35.nocontam.fq
+INPUTS ID00367 chr21.1.68.nocontam.sfq
+OUTPUTS ID00367 chr21.1.68.nocontam.fq
+INPUTS ID00499 chr21.1.2.nocontam.fq
+OUTPUTS ID00499 chr21.1.2.nocontam.bfq
+INPUTS ID00104 chr21.1.3.sfq
+OUTPUTS ID00104 chr21.1.3.nocontam.sfq chr21.1.3.contam.sfq
+INPUTS ID00236 chr21.0.36.nocontam.sfq
+OUTPUTS ID00236 chr21.0.36.nocontam.fq
+INPUTS ID00368 chr21.1.69.nocontam.sfq
+OUTPUTS ID00368 chr21.1.69.nocontam.fq
+INPUTS ID00000 chr210.sfq
+OUTPUTS ID00000 chr21.0.0.sfq chr21.0.1.sfq chr21.0.2.sfq chr21.0.3.sfq chr21.0.4.sfq chr21.0.5.sfq chr21.0.6.sfq chr21.0.7.sfq chr21.0.8.sfq chr21.0.9.sfq chr21.0.10.sfq chr21.0.11.sfq chr21.0.12.sfq chr21.0.13.sfq chr21.0.14.sfq chr21.0.15.sfq chr21.0.16.sfq chr21.0.17.sfq chr21.0.18.sfq chr21.0.19.sfq chr21.0.20.sfq chr21.0.21.sfq chr21.0.22.sfq chr21.0.23.sfq chr21.0.24.sfq chr21.0.25.sfq chr21.0.26.sfq chr21.0.27.sfq chr21.0.28.sfq chr21.0.29.sfq chr21.0.30.sfq chr21.0.31.sfq chr21.0.32.sfq chr21.0.33.sfq chr21.0.34.sfq chr21.0.35.sfq chr21.0.36.sfq chr21.0.37.sfq chr21.0.38.sfq chr21.0.39.sfq chr21.0.40.sfq chr21.0.41.sfq chr21.0.42.sfq chr21.0.43.sfq chr21.0.44.sfq chr21.0.45.sfq chr21.0.46.sfq chr21.0.47.sfq chr21.0.48.sfq chr21.0.49.sfq chr21.0.50.sfq chr21.0.51.sfq chr21.0.52.sfq chr21.0.53.sfq chr21.0.54.sfq chr21.0.55.sfq chr21.0.56.sfq chr21.0.57.sfq chr21.0.58.sfq chr21.0.59.sfq chr21.0.60.sfq chr21.0.61.sfq chr21.0.62.sfq chr21.0.63.sfq chr21.0.64.sfq chr21.0.65.sfq chr21.0.66.sfq chr21.0.67.sfq chr21.0.68.sfq chr21.0.69.sfq chr21.0.70.sfq chr21.0.71.sfq chr21.0.72.sfq chr21.0.73.sfq chr21.0.74.sfq chr21.0.75.sfq chr21.0.76.sfq chr21.0.77.sfq chr21.0.78.sfq chr21.0.79.sfq chr21.0.80.sfq chr21.0.81.sfq chr21.0.82.sfq chr21.0.83.sfq chr21.0.84.sfq chr21.0.85.sfq chr21.0.86.sfq chr21.0.87.sfq chr21.0.88.sfq chr21.0.89.sfq chr21.0.90.sfq chr21.0.91.sfq chr21.0.92.sfq chr21.0.93.sfq chr21.0.94.sfq chr21.0.95.sfq chr21.0.96.sfq chr21.0.97.sfq chr21.0.98.sfq
+INPUTS ID00105 chr21.1.4.sfq
+OUTPUTS ID00105 chr21.1.4.nocontam.sfq chr21.1.4.contam.sfq
+INPUTS ID00237 chr21.0.37.nocontam.sfq
+OUTPUTS ID00237 chr21.0.37.nocontam.fq
+INPUTS ID00369 chr21.1.70.nocontam.sfq
+OUTPUTS ID00369 chr21.1.70.nocontam.fq
+INPUTS ID00001 chr211.sfq
+OUTPUTS ID00001 chr21.1.0.sfq chr21.1.1.sfq chr21.1.2.sfq chr21.1.3.sfq chr21.1.4.sfq chr21.1.5.sfq chr21.1.6.sfq chr21.1.7.sfq chr21.1.8.sfq chr21.1.9.sfq chr21.1.10.sfq chr21.1.11.sfq chr21.1.12.sfq chr21.1.13.sfq chr21.1.14.sfq chr21.1.15.sfq chr21.1.16.sfq chr21.1.17.sfq chr21.1.18.sfq chr21.1.19.sfq chr21.1.20.sfq chr21.1.21.sfq chr21.1.22.sfq chr21.1.23.sfq chr21.1.24.sfq chr21.1.25.sfq chr21.1.26.sfq chr21.1.27.sfq chr21.1.28.sfq chr21.1.29.sfq chr21.1.30.sfq chr21.1.31.sfq chr21.1.32.sfq chr21.1.33.sfq chr21.1.34.sfq chr21.1.35.sfq chr21.1.36.sfq chr21.1.37.sfq chr21.1.38.sfq chr21.1.39.sfq chr21.1.40.sfq chr21.1.41.sfq chr21.1.42.sfq chr21.1.43.sfq chr21.1.44.sfq chr21.1.45.sfq chr21.1.46.sfq chr21.1.47.sfq chr21.1.48.sfq chr21.1.49.sfq chr21.1.50.sfq chr21.1.51.sfq chr21.1.52.sfq chr21.1.53.sfq chr21.1.54.sfq chr21.1.55.sfq chr21.1.56.sfq chr21.1.57.sfq chr21.1.58.sfq chr21.1.59.sfq chr21.1.60.sfq chr21.1.61.sfq chr21.1.62.sfq chr21.1.63.sfq chr21.1.64.sfq chr21.1.65.sfq chr21.1.66.sfq chr21.1.67.sfq chr21.1.68.sfq chr21.1.69.sfq chr21.1.70.sfq chr21.1.71.sfq chr21.1.72.sfq chr21.1.73.sfq chr21.1.74.sfq chr21.1.75.sfq chr21.1.76.sfq chr21.1.77.sfq chr21.1.78.sfq chr21.1.79.sfq chr21.1.80.sfq chr21.1.81.sfq chr21.1.82.sfq chr21.1.83.sfq chr21.1.84.sfq chr21.1.85.sfq chr21.1.86.sfq chr21.1.87.sfq chr21.1.88.sfq chr21.1.89.sfq chr21.1.90.sfq chr21.1.91.sfq chr21.1.92.sfq chr21.1.93.sfq chr21.1.94.sfq chr21.1.95.sfq chr21.1.96.sfq chr21.1.97.sfq chr21.1.98.sfq
+INPUTS ID00106 chr21.1.5.sfq
+OUTPUTS ID00106 chr21.1.5.nocontam.sfq chr21.1.5.contam.sfq
+INPUTS ID00238 chr21.0.38.nocontam.sfq
+OUTPUTS ID00238 chr21.0.38.nocontam.fq
+INPUTS ID00002 chr21.0.0.sfq
+OUTPUTS ID00002 chr21.0.0.nocontam.sfq chr21.0.0.contam.sfq
+INPUTS ID00107 chr21.1.6.sfq
+OUTPUTS ID00107 chr21.1.6.nocontam.sfq chr21.1.6.contam.sfq
+INPUTS ID00239 chr21.0.39.nocontam.sfq
+OUTPUTS ID00239 chr21.0.39.nocontam.fq
+INPUTS ID00370 chr21.1.71.nocontam.sfq
+OUTPUTS ID00370 chr21.1.71.nocontam.fq
+INPUTS ID00003 chr21.0.1.sfq
+OUTPUTS ID00003 chr21.0.1.nocontam.sfq chr21.0.1.contam.sfq
+INPUTS ID00108 chr21.1.7.sfq
+OUTPUTS ID00108 chr21.1.7.nocontam.sfq chr21.1.7.contam.sfq
+INPUTS ID00371 chr21.1.72.nocontam.sfq
+OUTPUTS ID00371 chr21.1.72.nocontam.fq
+INPUTS ID00004 chr21.0.2.sfq
+OUTPUTS ID00004 chr21.0.2.nocontam.sfq chr21.0.2.contam.sfq
+INPUTS ID00109 chr21.1.8.sfq
+OUTPUTS ID00109 chr21.1.8.nocontam.sfq chr21.1.8.contam.sfq
+INPUTS ID00005 chr21.0.3.sfq
+OUTPUTS ID00005 chr21.0.3.nocontam.sfq chr21.0.3.contam.sfq
+INPUTS ID00240 chr21.0.40.nocontam.sfq
+OUTPUTS ID00240 chr21.0.40.nocontam.fq
+INPUTS ID00372 chr21.1.73.nocontam.sfq
+OUTPUTS ID00372 chr21.1.73.nocontam.fq
+INPUTS ID00006 chr21.0.4.sfq
+OUTPUTS ID00006 chr21.0.4.nocontam.sfq chr21.0.4.contam.sfq
+INPUTS ID00241 chr21.0.41.nocontam.sfq
+OUTPUTS ID00241 chr21.0.41.nocontam.fq
+INPUTS ID00373 chr21.1.74.nocontam.sfq
+OUTPUTS ID00373 chr21.1.74.nocontam.fq
+INPUTS ID00007 chr21.0.5.sfq
+OUTPUTS ID00007 chr21.0.5.nocontam.sfq chr21.0.5.contam.sfq
+INPUTS ID00110 chr21.1.9.sfq
+OUTPUTS ID00110 chr21.1.9.nocontam.sfq chr21.1.9.contam.sfq
+INPUTS ID00242 chr21.0.42.nocontam.sfq
+OUTPUTS ID00242 chr21.0.42.nocontam.fq
+INPUTS ID00374 chr21.1.75.nocontam.sfq
+OUTPUTS ID00374 chr21.1.75.nocontam.fq
+INPUTS ID00111 chr21.1.10.sfq
+OUTPUTS ID00111 chr21.1.10.nocontam.sfq chr21.1.10.contam.sfq
+INPUTS ID00243 chr21.0.43.nocontam.sfq
+OUTPUTS ID00243 chr21.0.43.nocontam.fq
+INPUTS ID00375 chr21.1.76.nocontam.sfq
+OUTPUTS ID00375 chr21.1.76.nocontam.fq
+INPUTS ID00008 chr21.0.6.sfq
+OUTPUTS ID00008 chr21.0.6.nocontam.sfq chr21.0.6.contam.sfq
+INPUTS ID00112 chr21.1.11.sfq
+OUTPUTS ID00112 chr21.1.11.nocontam.sfq chr21.1.11.contam.sfq
+INPUTS ID00244 chr21.0.44.nocontam.sfq
+OUTPUTS ID00244 chr21.0.44.nocontam.fq
+INPUTS ID00376 chr21.1.77.nocontam.sfq
+OUTPUTS ID00376 chr21.1.77.nocontam.fq
+INPUTS ID00009 chr21.0.7.sfq
+OUTPUTS ID00009 chr21.0.7.nocontam.sfq chr21.0.7.contam.sfq
+INPUTS ID00113 chr21.1.12.sfq
+OUTPUTS ID00113 chr21.1.12.nocontam.sfq chr21.1.12.contam.sfq
+INPUTS ID00245 chr21.0.45.nocontam.sfq
+OUTPUTS ID00245 chr21.0.45.nocontam.fq
+INPUTS ID00377 chr21.1.78.nocontam.sfq
+OUTPUTS ID00377 chr21.1.78.nocontam.fq
+INPUTS ID00114 chr21.1.13.sfq
+OUTPUTS ID00114 chr21.1.13.nocontam.sfq chr21.1.13.contam.sfq
+INPUTS ID00246 chr21.0.46.nocontam.sfq
+OUTPUTS ID00246 chr21.0.46.nocontam.fq
+INPUTS ID00378 chr21.1.79.nocontam.sfq
+OUTPUTS ID00378 chr21.1.79.nocontam.fq
+INPUTS ID00010 chr21.0.8.sfq
+OUTPUTS ID00010 chr21.0.8.nocontam.sfq chr21.0.8.contam.sfq
+INPUTS ID00115 chr21.1.14.sfq
+OUTPUTS ID00115 chr21.1.14.nocontam.sfq chr21.1.14.contam.sfq
+INPUTS ID00247 chr21.0.47.nocontam.sfq
+OUTPUTS ID00247 chr21.0.47.nocontam.fq
+INPUTS ID00379 chr21.1.80.nocontam.sfq
+OUTPUTS ID00379 chr21.1.80.nocontam.fq
+INPUTS ID00011 chr21.0.9.sfq
+OUTPUTS ID00011 chr21.0.9.nocontam.sfq chr21.0.9.contam.sfq
+INPUTS ID00116 chr21.1.15.sfq
+OUTPUTS ID00116 chr21.1.15.nocontam.sfq chr21.1.15.contam.sfq
+INPUTS ID00248 chr21.0.48.nocontam.sfq
+OUTPUTS ID00248 chr21.0.48.nocontam.fq
+INPUTS ID00012 chr21.0.10.sfq
+OUTPUTS ID00012 chr21.0.10.nocontam.sfq chr21.0.10.contam.sfq
+INPUTS ID00117 chr21.1.16.sfq
+OUTPUTS ID00117 chr21.1.16.nocontam.sfq chr21.1.16.contam.sfq
+INPUTS ID00249 chr21.0.49.nocontam.sfq
+OUTPUTS ID00249 chr21.0.49.nocontam.fq
+INPUTS ID00380 chr21.1.81.nocontam.sfq
+OUTPUTS ID00380 chr21.1.81.nocontam.fq
+INPUTS ID00013 chr21.0.11.sfq
+OUTPUTS ID00013 chr21.0.11.nocontam.sfq chr21.0.11.contam.sfq
+INPUTS ID00118 chr21.1.17.sfq
+OUTPUTS ID00118 chr21.1.17.nocontam.sfq chr21.1.17.contam.sfq
+INPUTS ID00381 chr21.1.82.nocontam.sfq
+OUTPUTS ID00381 chr21.1.82.nocontam.fq
+INPUTS ID00014 chr21.0.12.sfq
+OUTPUTS ID00014 chr21.0.12.nocontam.sfq chr21.0.12.contam.sfq
+INPUTS ID00119 chr21.1.18.sfq
+OUTPUTS ID00119 chr21.1.18.nocontam.sfq chr21.1.18.contam.sfq
+INPUTS ID00250 chr21.0.50.nocontam.sfq
+OUTPUTS ID00250 chr21.0.50.nocontam.fq
+INPUTS ID00382 chr21.1.83.nocontam.sfq
+OUTPUTS ID00382 chr21.1.83.nocontam.fq
+INPUTS ID00015 chr21.0.13.sfq
+OUTPUTS ID00015 chr21.0.13.nocontam.sfq chr21.0.13.contam.sfq
+INPUTS ID00251 chr21.0.51.nocontam.sfq
+OUTPUTS ID00251 chr21.0.51.nocontam.fq
+INPUTS ID00383 chr21.1.84.nocontam.sfq
+OUTPUTS ID00383 chr21.1.84.nocontam.fq
+INPUTS ID00016 chr21.0.14.sfq
+OUTPUTS ID00016 chr21.0.14.nocontam.sfq chr21.0.14.contam.sfq
+INPUTS ID00120 chr21.1.19.sfq
+OUTPUTS ID00120 chr21.1.19.nocontam.sfq chr21.1.19.contam.sfq
+INPUTS ID00252 chr21.0.52.nocontam.sfq
+OUTPUTS ID00252 chr21.0.52.nocontam.fq
+INPUTS ID00384 chr21.1.85.nocontam.sfq
+OUTPUTS ID00384 chr21.1.85.nocontam.fq
+INPUTS ID00017 chr21.0.15.sfq
+OUTPUTS ID00017 chr21.0.15.nocontam.sfq chr21.0.15.contam.sfq
+INPUTS ID00121 chr21.1.20.sfq
+OUTPUTS ID00121 chr21.1.20.nocontam.sfq chr21.1.20.contam.sfq
+INPUTS ID00253 chr21.0.53.nocontam.sfq
+OUTPUTS ID00253 chr21.0.53.nocontam.fq
+INPUTS ID00385 chr21.1.86.nocontam.sfq
+OUTPUTS ID00385 chr21.1.86.nocontam.fq
+INPUTS ID00018 chr21.0.16.sfq
+OUTPUTS ID00018 chr21.0.16.nocontam.sfq chr21.0.16.contam.sfq
+INPUTS ID00122 chr21.1.21.sfq
+OUTPUTS ID00122 chr21.1.21.nocontam.sfq chr21.1.21.contam.sfq
+INPUTS ID00254 chr21.0.54.nocontam.sfq
+OUTPUTS ID00254 chr21.0.54.nocontam.fq
+INPUTS ID00386 chr21.1.87.nocontam.sfq
+OUTPUTS ID00386 chr21.1.87.nocontam.fq
+INPUTS ID00019 chr21.0.17.sfq
+OUTPUTS ID00019 chr21.0.17.nocontam.sfq chr21.0.17.contam.sfq
+INPUTS ID00123 chr21.1.22.sfq
+OUTPUTS ID00123 chr21.1.22.nocontam.sfq chr21.1.22.contam.sfq
+INPUTS ID00255 chr21.0.55.nocontam.sfq
+OUTPUTS ID00255 chr21.0.55.nocontam.fq
+INPUTS ID00387 chr21.1.88.nocontam.sfq
+OUTPUTS ID00387 chr21.1.88.nocontam.fq
+INPUTS ID00124 chr21.1.23.sfq
+OUTPUTS ID00124 chr21.1.23.nocontam.sfq chr21.1.23.contam.sfq
+INPUTS ID00256 chr21.0.56.nocontam.sfq
+OUTPUTS ID00256 chr21.0.56.nocontam.fq
+INPUTS ID00388 chr21.1.89.nocontam.sfq
+OUTPUTS ID00388 chr21.1.89.nocontam.fq
+INPUTS ID00020 chr21.0.18.sfq
+OUTPUTS ID00020 chr21.0.18.nocontam.sfq chr21.0.18.contam.sfq
+INPUTS ID00125 chr21.1.24.sfq
+OUTPUTS ID00125 chr21.1.24.nocontam.sfq chr21.1.24.contam.sfq
+INPUTS ID00257 chr21.0.57.nocontam.sfq
+OUTPUTS ID00257 chr21.0.57.nocontam.fq
+INPUTS ID00389 chr21.1.90.nocontam.sfq
+OUTPUTS ID00389 chr21.1.90.nocontam.fq
+INPUTS ID00021 chr21.0.19.sfq
+OUTPUTS ID00021 chr21.0.19.nocontam.sfq chr21.0.19.contam.sfq
+INPUTS ID00126 chr21.1.25.sfq
+OUTPUTS ID00126 chr21.1.25.nocontam.sfq chr21.1.25.contam.sfq
+INPUTS ID00258 chr21.0.58.nocontam.sfq
+OUTPUTS ID00258 chr21.0.58.nocontam.fq
+INPUTS ID00022 chr21.0.20.sfq
+OUTPUTS ID00022 chr21.0.20.nocontam.sfq chr21.0.20.contam.sfq
+INPUTS ID00127 chr21.1.26.sfq
+OUTPUTS ID00127 chr21.1.26.nocontam.sfq chr21.1.26.contam.sfq
+INPUTS ID00259 chr21.0.59.nocontam.sfq
+OUTPUTS ID00259 chr21.0.59.nocontam.fq
+INPUTS ID00390 chr21.1.91.nocontam.sfq
+OUTPUTS ID00390 chr21.1.91.nocontam.fq
+INPUTS ID00023 chr21.0.21.sfq
+OUTPUTS ID00023 chr21.0.21.nocontam.sfq chr21.0.21.contam.sfq
+INPUTS ID00128 chr21.1.27.sfq
+OUTPUTS ID00128 chr21.1.27.nocontam.sfq chr21.1.27.contam.sfq
+INPUTS ID00391 chr21.1.92.nocontam.sfq
+OUTPUTS ID00391 chr21.1.92.nocontam.fq
+INPUTS ID00024 chr21.0.22.sfq
+OUTPUTS ID00024 chr21.0.22.nocontam.sfq chr21.0.22.contam.sfq
+INPUTS ID00129 chr21.1.28.sfq
+OUTPUTS ID00129 chr21.1.28.nocontam.sfq chr21.1.28.contam.sfq
+INPUTS ID00260 chr21.0.60.nocontam.sfq
+OUTPUTS ID00260 chr21.0.60.nocontam.fq
+INPUTS ID00392 chr21.1.93.nocontam.sfq
+OUTPUTS ID00392 chr21.1.93.nocontam.fq
+INPUTS ID00025 chr21.0.23.sfq
+OUTPUTS ID00025 chr21.0.23.nocontam.sfq chr21.0.23.contam.sfq
+INPUTS ID00261 chr21.0.61.nocontam.sfq
+OUTPUTS ID00261 chr21.0.61.nocontam.fq
+INPUTS ID00393 chr21.1.94.nocontam.sfq
+OUTPUTS ID00393 chr21.1.94.nocontam.fq
+INPUTS ID00026 chr21.0.24.sfq
+OUTPUTS ID00026 chr21.0.24.nocontam.sfq chr21.0.24.contam.sfq
+INPUTS ID00130 chr21.1.29.sfq
+OUTPUTS ID00130 chr21.1.29.nocontam.sfq chr21.1.29.contam.sfq
+INPUTS ID00262 chr21.0.62.nocontam.sfq
+OUTPUTS ID00262 chr21.0.62.nocontam.fq
+INPUTS ID00394 chr21.1.95.nocontam.sfq
+OUTPUTS ID00394 chr21.1.95.nocontam.fq
+INPUTS ID00027 chr21.0.25.sfq
+OUTPUTS ID00027 chr21.0.25.nocontam.sfq chr21.0.25.contam.sfq
+INPUTS ID00131 chr21.1.30.sfq
+OUTPUTS ID00131 chr21.1.30.nocontam.sfq chr21.1.30.contam.sfq
+INPUTS ID00263 chr21.0.63.nocontam.sfq
+OUTPUTS ID00263 chr21.0.63.nocontam.fq
+INPUTS ID00395 chr21.1.96.nocontam.sfq
+OUTPUTS ID00395 chr21.1.96.nocontam.fq
+INPUTS ID00028 chr21.0.26.sfq
+OUTPUTS ID00028 chr21.0.26.nocontam.sfq chr21.0.26.contam.sfq
+INPUTS ID00132 chr21.1.31.sfq
+OUTPUTS ID00132 chr21.1.31.nocontam.sfq chr21.1.31.contam.sfq
+INPUTS ID00264 chr21.0.64.nocontam.sfq
+OUTPUTS ID00264 chr21.0.64.nocontam.fq
+INPUTS ID00396 chr21.1.97.nocontam.sfq
+OUTPUTS ID00396 chr21.1.97.nocontam.fq
+INPUTS ID00029 chr21.0.27.sfq
+OUTPUTS ID00029 chr21.0.27.nocontam.sfq chr21.0.27.contam.sfq
+INPUTS ID00133 chr21.1.32.sfq
+OUTPUTS ID00133 chr21.1.32.nocontam.sfq chr21.1.32.contam.sfq
+INPUTS ID00265 chr21.0.65.nocontam.sfq
+OUTPUTS ID00265 chr21.0.65.nocontam.fq
+INPUTS ID00397 chr21.1.98.nocontam.sfq
+OUTPUTS ID00397 chr21.1.98.nocontam.fq
+INPUTS ID00134 chr21.1.33.sfq
+OUTPUTS ID00134 chr21.1.33.nocontam.sfq chr21.1.33.contam.sfq
+INPUTS ID00266 chr21.0.66.nocontam.sfq
+OUTPUTS ID00266 chr21.0.66.nocontam.fq
+INPUTS ID00398 chr21.0.0.nocontam.fq
+OUTPUTS ID00398 chr21.0.0.nocontam.bfq
+INPUTS ID00267 chr21.0.67.nocontam.sfq
+OUTPUTS ID00267 chr21.0.67.nocontam.fq
+INPUTS ID00399 chr21.0.1.nocontam.fq
+OUTPUTS ID00399 chr21.0.1.nocontam.bfq
+INPUTS ID00030 chr21.0.28.sfq
+OUTPUTS ID00030 chr21.0.28.nocontam.sfq chr21.0.28.contam.sfq
+INPUTS ID00135 chr21.1.34.sfq
+OUTPUTS ID00135 chr21.1.34.nocontam.sfq chr21.1.34.contam.sfq
+INPUTS ID00268 chr21.0.68.nocontam.sfq
+OUTPUTS ID00268 chr21.0.68.nocontam.fq
+INPUTS ID00031 chr21.0.29.sfq
+OUTPUTS ID00031 chr21.0.29.nocontam.sfq chr21.0.29.contam.sfq
+INPUTS ID00136 chr21.1.35.sfq
+OUTPUTS ID00136 chr21.1.35.nocontam.sfq chr21.1.35.contam.sfq
+INPUTS ID00269 chr21.0.69.nocontam.sfq
+OUTPUTS ID00269 chr21.0.69.nocontam.fq
+INPUTS ID00032 chr21.0.30.sfq
+OUTPUTS ID00032 chr21.0.30.nocontam.sfq chr21.0.30.contam.sfq
+INPUTS ID00137 chr21.1.36.sfq
+OUTPUTS ID00137 chr21.1.36.nocontam.sfq chr21.1.36.contam.sfq
+INPUTS ID00033 chr21.0.31.sfq
+OUTPUTS ID00033 chr21.0.31.nocontam.sfq chr21.0.31.contam.sfq
+INPUTS ID00138 chr21.1.37.sfq
+OUTPUTS ID00138 chr21.1.37.nocontam.sfq chr21.1.37.contam.sfq
+INPUTS ID00034 chr21.0.32.sfq
+OUTPUTS ID00034 chr21.0.32.nocontam.sfq chr21.0.32.contam.sfq
+INPUTS ID00139 chr21.1.38.sfq
+OUTPUTS ID00139 chr21.1.38.nocontam.sfq chr21.1.38.contam.sfq
+INPUTS ID00270 chr21.0.70.nocontam.sfq
+OUTPUTS ID00270 chr21.0.70.nocontam.fq
+INPUTS ID00035 chr21.0.33.sfq
+OUTPUTS ID00035 chr21.0.33.nocontam.sfq chr21.0.33.contam.sfq
+INPUTS ID00271 chr21.0.71.nocontam.sfq
+OUTPUTS ID00271 chr21.0.71.nocontam.fq
+INPUTS ID00036 chr21.0.34.sfq
+OUTPUTS ID00036 chr21.0.34.nocontam.sfq chr21.0.34.contam.sfq
+INPUTS ID00140 chr21.1.39.sfq
+OUTPUTS ID00140 chr21.1.39.nocontam.sfq chr21.1.39.contam.sfq
+INPUTS ID00272 chr21.0.72.nocontam.sfq
+OUTPUTS ID00272 chr21.0.72.nocontam.fq
+INPUTS ID00037 chr21.0.35.sfq
+OUTPUTS ID00037 chr21.0.35.nocontam.sfq chr21.0.35.contam.sfq
+INPUTS ID00141 chr21.1.40.sfq
+OUTPUTS ID00141 chr21.1.40.nocontam.sfq chr21.1.40.contam.sfq
+INPUTS ID00273 chr21.0.73.nocontam.sfq
+OUTPUTS ID00273 chr21.0.73.nocontam.fq
+INPUTS ID00038 chr21.0.36.sfq
+OUTPUTS ID00038 chr21.0.36.nocontam.sfq chr21.0.36.contam.sfq
+INPUTS ID00142 chr21.1.41.sfq
+OUTPUTS ID00142 chr21.1.41.nocontam.sfq chr21.1.41.contam.sfq
+INPUTS ID00274 chr21.0.74.nocontam.sfq
+OUTPUTS ID00274 chr21.0.74.nocontam.fq
+INPUTS ID00039 chr21.0.37.sfq
+OUTPUTS ID00039 chr21.0.37.nocontam.sfq chr21.0.37.contam.sfq
+INPUTS ID00143 chr21.1.42.sfq
+OUTPUTS ID00143 chr21.1.42.nocontam.sfq chr21.1.42.contam.sfq
+INPUTS ID00275 chr21.0.75.nocontam.sfq
+OUTPUTS ID00275 chr21.0.75.nocontam.fq
+INPUTS ID00144 chr21.1.43.sfq
+OUTPUTS ID00144 chr21.1.43.nocontam.sfq chr21.1.43.contam.sfq
+INPUTS ID00276 chr21.0.76.nocontam.sfq
+OUTPUTS ID00276 chr21.0.76.nocontam.fq
+INPUTS ID00040 chr21.0.38.sfq
+OUTPUTS ID00040 chr21.0.38.nocontam.sfq chr21.0.38.contam.sfq
+INPUTS ID00145 chr21.1.44.sfq
+OUTPUTS ID00145 chr21.1.44.nocontam.sfq chr21.1.44.contam.sfq
+INPUTS ID00277 chr21.0.77.nocontam.sfq
+OUTPUTS ID00277 chr21.0.77.nocontam.fq
+INPUTS ID00041 chr21.0.39.sfq
+OUTPUTS ID00041 chr21.0.39.nocontam.sfq chr21.0.39.contam.sfq
+INPUTS ID00146 chr21.1.45.sfq
+OUTPUTS ID00146 chr21.1.45.nocontam.sfq chr21.1.45.contam.sfq
+INPUTS ID00278 chr21.0.78.nocontam.sfq
+OUTPUTS ID00278 chr21.0.78.nocontam.fq
+INPUTS ID00700 chr21.BS.bfa chr21.1.5.nocontam.bfq
+OUTPUTS ID00700 chr21.1.5.nocontam.map
+INPUTS ID00042 chr21.0.40.sfq
+OUTPUTS ID00042 chr21.0.40.nocontam.sfq chr21.0.40.contam.sfq
+INPUTS ID00147 chr21.1.46.sfq
+OUTPUTS ID00147 chr21.1.46.nocontam.sfq chr21.1.46.contam.sfq
+INPUTS ID00279 chr21.0.79.nocontam.sfq
+OUTPUTS ID00279 chr21.0.79.nocontam.fq
+INPUTS ID00701 chr21.BS.bfa chr21.1.6.nocontam.bfq
+OUTPUTS ID00701 chr21.1.6.nocontam.map
+INPUTS ID00043 chr21.0.41.sfq
+OUTPUTS ID00043 chr21.0.41.nocontam.sfq chr21.0.41.contam.sfq
+INPUTS ID00148 chr21.1.47.sfq
+OUTPUTS ID00148 chr21.1.47.nocontam.sfq chr21.1.47.contam.sfq
+INPUTS ID00702 chr21.BS.bfa chr21.1.7.nocontam.bfq
+OUTPUTS ID00702 chr21.1.7.nocontam.map
+INPUTS ID00044 chr21.0.42.sfq
+OUTPUTS ID00044 chr21.0.42.nocontam.sfq chr21.0.42.contam.sfq
+INPUTS ID00149 chr21.1.48.sfq
+OUTPUTS ID00149 chr21.1.48.nocontam.sfq chr21.1.48.contam.sfq
+INPUTS ID00703 chr21.BS.bfa chr21.1.8.nocontam.bfq
+OUTPUTS ID00703 chr21.1.8.nocontam.map
+INPUTS ID00280 chr21.0.80.nocontam.sfq
+OUTPUTS ID00280 chr21.0.80.nocontam.fq
+INPUTS ID00045 chr21.0.43.sfq
+OUTPUTS ID00045 chr21.0.43.nocontam.sfq chr21.0.43.contam.sfq
+INPUTS ID00281 chr21.0.81.nocontam.sfq
+OUTPUTS ID00281 chr21.0.81.nocontam.fq
+INPUTS ID00046 chr21.0.44.sfq
+OUTPUTS ID00046 chr21.0.44.nocontam.sfq chr21.0.44.contam.sfq
+INPUTS ID00150 chr21.1.49.sfq
+OUTPUTS ID00150 chr21.1.49.nocontam.sfq chr21.1.49.contam.sfq
+INPUTS ID00282 chr21.0.82.nocontam.sfq
+OUTPUTS ID00282 chr21.0.82.nocontam.fq
+INPUTS ID00047 chr21.0.45.sfq
+OUTPUTS ID00047 chr21.0.45.nocontam.sfq chr21.0.45.contam.sfq
+INPUTS ID00704 chr21.BS.bfa chr21.1.9.nocontam.bfq
+OUTPUTS ID00704 chr21.1.9.nocontam.map
+INPUTS ID00151 chr21.1.50.sfq
+OUTPUTS ID00151 chr21.1.50.nocontam.sfq chr21.1.50.contam.sfq
+INPUTS ID00283 chr21.0.83.nocontam.sfq
+OUTPUTS ID00283 chr21.0.83.nocontam.fq
+INPUTS ID00048 chr21.0.46.sfq
+OUTPUTS ID00048 chr21.0.46.nocontam.sfq chr21.0.46.contam.sfq
+INPUTS ID00705 chr21.BS.bfa chr21.1.10.nocontam.bfq
+OUTPUTS ID00705 chr21.1.10.nocontam.map
+INPUTS ID00152 chr21.1.51.sfq
+OUTPUTS ID00152 chr21.1.51.nocontam.sfq chr21.1.51.contam.sfq
+INPUTS ID00284 chr21.0.84.nocontam.sfq
+OUTPUTS ID00284 chr21.0.84.nocontam.fq
+INPUTS ID00049 chr21.0.47.sfq
+OUTPUTS ID00049 chr21.0.47.nocontam.sfq chr21.0.47.contam.sfq
+INPUTS ID00706 chr21.BS.bfa chr21.1.11.nocontam.bfq
+OUTPUTS ID00706 chr21.1.11.nocontam.map
+INPUTS ID00153 chr21.1.52.sfq
+OUTPUTS ID00153 chr21.1.52.nocontam.sfq chr21.1.52.contam.sfq
+INPUTS ID00285 chr21.0.85.nocontam.sfq
+OUTPUTS ID00285 chr21.0.85.nocontam.fq
+INPUTS ID00707 chr21.BS.bfa chr21.1.12.nocontam.bfq
+OUTPUTS ID00707 chr21.1.12.nocontam.map
+INPUTS ID00154 chr21.1.53.sfq
+OUTPUTS ID00154 chr21.1.53.nocontam.sfq chr21.1.53.contam.sfq
+INPUTS ID00286 chr21.0.86.nocontam.sfq
+OUTPUTS ID00286 chr21.0.86.nocontam.fq
+INPUTS ID00708 chr21.BS.bfa chr21.1.13.nocontam.bfq
+OUTPUTS ID00708 chr21.1.13.nocontam.map
+INPUTS ID00050 chr21.0.48.sfq
+OUTPUTS ID00050 chr21.0.48.nocontam.sfq chr21.0.48.contam.sfq
+INPUTS ID00155 chr21.1.54.sfq
+OUTPUTS ID00155 chr21.1.54.nocontam.sfq chr21.1.54.contam.sfq
+INPUTS ID00287 chr21.0.87.nocontam.sfq
+OUTPUTS ID00287 chr21.0.87.nocontam.fq
+INPUTS ID00709 chr21.BS.bfa chr21.1.14.nocontam.bfq
+OUTPUTS ID00709 chr21.1.14.nocontam.map
+INPUTS ID00051 chr21.0.49.sfq
+OUTPUTS ID00051 chr21.0.49.nocontam.sfq chr21.0.49.contam.sfq
+INPUTS ID00156 chr21.1.55.sfq
+OUTPUTS ID00156 chr21.1.55.nocontam.sfq chr21.1.55.contam.sfq
+INPUTS ID00288 chr21.0.88.nocontam.sfq
+OUTPUTS ID00288 chr21.0.88.nocontam.fq
+INPUTS ID00052 chr21.0.50.sfq
+OUTPUTS ID00052 chr21.0.50.nocontam.sfq chr21.0.50.contam.sfq
+INPUTS ID00157 chr21.1.56.sfq
+OUTPUTS ID00157 chr21.1.56.nocontam.sfq chr21.1.56.contam.sfq
+INPUTS ID00289 chr21.0.89.nocontam.sfq
+OUTPUTS ID00289 chr21.0.89.nocontam.fq
+INPUTS ID00710 chr21.BS.bfa chr21.1.15.nocontam.bfq
+OUTPUTS ID00710 chr21.1.15.nocontam.map
+INPUTS ID00053 chr21.0.51.sfq
+OUTPUTS ID00053 chr21.0.51.nocontam.sfq chr21.0.51.contam.sfq
+INPUTS ID00158 chr21.1.57.sfq
+OUTPUTS ID00158 chr21.1.57.nocontam.sfq chr21.1.57.contam.sfq
+INPUTS ID00711 chr21.BS.bfa chr21.1.16.nocontam.bfq
+OUTPUTS ID00711 chr21.1.16.nocontam.map
+INPUTS ID00054 chr21.0.52.sfq
+OUTPUTS ID00054 chr21.0.52.nocontam.sfq chr21.0.52.contam.sfq
+INPUTS ID00159 chr21.1.58.sfq
+OUTPUTS ID00159 chr21.1.58.nocontam.sfq chr21.1.58.contam.sfq
+INPUTS ID00712 chr21.BS.bfa chr21.1.17.nocontam.bfq
+OUTPUTS ID00712 chr21.1.17.nocontam.map
+INPUTS ID00713 chr21.BS.bfa chr21.1.18.nocontam.bfq
+OUTPUTS ID00713 chr21.1.18.nocontam.map
+INPUTS ID00290 chr21.0.90.nocontam.sfq
+OUTPUTS ID00290 chr21.0.90.nocontam.fq
+INPUTS ID00055 chr21.0.53.sfq
+OUTPUTS ID00055 chr21.0.53.nocontam.sfq chr21.0.53.contam.sfq
+INPUTS ID00714 chr21.BS.bfa chr21.1.19.nocontam.bfq
+OUTPUTS ID00714 chr21.1.19.nocontam.map
+INPUTS ID00291 chr21.0.91.nocontam.sfq
+OUTPUTS ID00291 chr21.0.91.nocontam.fq
+INPUTS ID00056 chr21.0.54.sfq
+OUTPUTS ID00056 chr21.0.54.nocontam.sfq chr21.0.54.contam.sfq
+INPUTS ID00160 chr21.1.59.sfq
+OUTPUTS ID00160 chr21.1.59.nocontam.sfq chr21.1.59.contam.sfq
+INPUTS ID00292 chr21.0.92.nocontam.sfq
+OUTPUTS ID00292 chr21.0.92.nocontam.fq
+INPUTS ID00057 chr21.0.55.sfq
+OUTPUTS ID00057 chr21.0.55.nocontam.sfq chr21.0.55.contam.sfq
+INPUTS ID00715 chr21.BS.bfa chr21.1.20.nocontam.bfq
+OUTPUTS ID00715 chr21.1.20.nocontam.map
+INPUTS ID00161 chr21.1.60.sfq
+OUTPUTS ID00161 chr21.1.60.nocontam.sfq chr21.1.60.contam.sfq
+INPUTS ID00293 chr21.0.93.nocontam.sfq
+OUTPUTS ID00293 chr21.0.93.nocontam.fq
+INPUTS ID00058 chr21.0.56.sfq
+OUTPUTS ID00058 chr21.0.56.nocontam.sfq chr21.0.56.contam.sfq
+INPUTS ID00716 chr21.BS.bfa chr21.1.21.nocontam.bfq
+OUTPUTS ID00716 chr21.1.21.nocontam.map
+INPUTS ID00162 chr21.1.61.sfq
+OUTPUTS ID00162 chr21.1.61.nocontam.sfq chr21.1.61.contam.sfq
+INPUTS ID00294 chr21.0.94.nocontam.sfq
+OUTPUTS ID00294 chr21.0.94.nocontam.fq
+INPUTS ID00059 chr21.0.57.sfq
+OUTPUTS ID00059 chr21.0.57.nocontam.sfq chr21.0.57.contam.sfq
+INPUTS ID00717 chr21.BS.bfa chr21.1.22.nocontam.bfq
+OUTPUTS ID00717 chr21.1.22.nocontam.map
+INPUTS ID00163 chr21.1.62.sfq
+OUTPUTS ID00163 chr21.1.62.nocontam.sfq chr21.1.62.contam.sfq
+INPUTS ID00295 chr21.0.95.nocontam.sfq
+OUTPUTS ID00295 chr21.0.95.nocontam.fq
+INPUTS ID00718 chr21.BS.bfa chr21.1.23.nocontam.bfq
+OUTPUTS ID00718 chr21.1.23.nocontam.map
+INPUTS ID00164 chr21.1.63.sfq
+OUTPUTS ID00164 chr21.1.63.nocontam.sfq chr21.1.63.contam.sfq
+INPUTS ID00296 chr21.0.96.nocontam.sfq
+OUTPUTS ID00296 chr21.0.96.nocontam.fq
+INPUTS ID00719 chr21.BS.bfa chr21.1.24.nocontam.bfq
+OUTPUTS ID00719 chr21.1.24.nocontam.map
+INPUTS ID00060 chr21.0.58.sfq
+OUTPUTS ID00060 chr21.0.58.nocontam.sfq chr21.0.58.contam.sfq
+INPUTS ID00165 chr21.1.64.sfq
+OUTPUTS ID00165 chr21.1.64.nocontam.sfq chr21.1.64.contam.sfq
+INPUTS ID00297 chr21.0.97.nocontam.sfq
+OUTPUTS ID00297 chr21.0.97.nocontam.fq
+INPUTS ID00061 chr21.0.59.sfq
+OUTPUTS ID00061 chr21.0.59.nocontam.sfq chr21.0.59.contam.sfq
+INPUTS ID00166 chr21.1.65.sfq
+OUTPUTS ID00166 chr21.1.65.nocontam.sfq chr21.1.65.contam.sfq
+INPUTS ID00298 chr21.0.98.nocontam.sfq
+OUTPUTS ID00298 chr21.0.98.nocontam.fq
+INPUTS ID00720 chr21.BS.bfa chr21.1.25.nocontam.bfq
+OUTPUTS ID00720 chr21.1.25.nocontam.map
+INPUTS ID00062 chr21.0.60.sfq
+OUTPUTS ID00062 chr21.0.60.nocontam.sfq chr21.0.60.contam.sfq
+INPUTS ID00167 chr21.1.66.sfq
+OUTPUTS ID00167 chr21.1.66.nocontam.sfq chr21.1.66.contam.sfq
+INPUTS ID00299 chr21.1.0.nocontam.sfq
+OUTPUTS ID00299 chr21.1.0.nocontam.fq
+INPUTS ID00721 chr21.BS.bfa chr21.1.26.nocontam.bfq
+OUTPUTS ID00721 chr21.1.26.nocontam.map
+INPUTS ID00063 chr21.0.61.sfq
+OUTPUTS ID00063 chr21.0.61.nocontam.sfq chr21.0.61.contam.sfq
+INPUTS ID00168 chr21.1.67.sfq
+OUTPUTS ID00168 chr21.1.67.nocontam.sfq chr21.1.67.contam.sfq
+INPUTS ID00722 chr21.BS.bfa chr21.1.27.nocontam.bfq
+OUTPUTS ID00722 chr21.1.27.nocontam.map
+INPUTS ID00064 chr21.0.62.sfq
+OUTPUTS ID00064 chr21.0.62.nocontam.sfq chr21.0.62.contam.sfq
+INPUTS ID00169 chr21.1.68.sfq
+OUTPUTS ID00169 chr21.1.68.nocontam.sfq chr21.1.68.contam.sfq
+INPUTS ID00723 chr21.BS.bfa chr21.1.28.nocontam.bfq
+OUTPUTS ID00723 chr21.1.28.nocontam.map
+INPUTS ID00065 chr21.0.63.sfq
+OUTPUTS ID00065 chr21.0.63.nocontam.sfq chr21.0.63.contam.sfq
+INPUTS ID00724 chr21.BS.bfa chr21.1.29.nocontam.bfq
+OUTPUTS ID00724 chr21.1.29.nocontam.map
+INPUTS ID00066 chr21.0.64.sfq
+OUTPUTS ID00066 chr21.0.64.nocontam.sfq chr21.0.64.contam.sfq
+INPUTS ID00725 chr21.BS.bfa chr21.1.30.nocontam.bfq
+OUTPUTS ID00725 chr21.1.30.nocontam.map
+INPUTS ID00170 chr21.1.69.sfq
+OUTPUTS ID00170 chr21.1.69.nocontam.sfq chr21.1.69.contam.sfq
+INPUTS ID00067 chr21.0.65.sfq
+OUTPUTS ID00067 chr21.0.65.nocontam.sfq chr21.0.65.contam.sfq
+INPUTS ID00171 chr21.1.70.sfq
+OUTPUTS ID00171 chr21.1.70.nocontam.sfq chr21.1.70.contam.sfq
+INPUTS ID00068 chr21.0.66.sfq
+OUTPUTS ID00068 chr21.0.66.nocontam.sfq chr21.0.66.contam.sfq
+INPUTS ID00726 chr21.BS.bfa chr21.1.31.nocontam.bfq
+OUTPUTS ID00726 chr21.1.31.nocontam.map
+INPUTS ID00172 chr21.1.71.sfq
+OUTPUTS ID00172 chr21.1.71.nocontam.sfq chr21.1.71.contam.sfq
+INPUTS ID00069 chr21.0.67.sfq
+OUTPUTS ID00069 chr21.0.67.nocontam.sfq chr21.0.67.contam.sfq
+INPUTS ID00727 chr21.BS.bfa chr21.1.32.nocontam.bfq
+OUTPUTS ID00727 chr21.1.32.nocontam.map
+INPUTS ID00173 chr21.1.72.sfq
+OUTPUTS ID00173 chr21.1.72.nocontam.sfq chr21.1.72.contam.sfq
+INPUTS ID00728 chr21.BS.bfa chr21.1.33.nocontam.bfq
+OUTPUTS ID00728 chr21.1.33.nocontam.map
+INPUTS ID00174 chr21.1.73.sfq
+OUTPUTS ID00174 chr21.1.73.nocontam.sfq chr21.1.73.contam.sfq
+INPUTS ID00729 chr21.BS.bfa chr21.1.34.nocontam.bfq
+OUTPUTS ID00729 chr21.1.34.nocontam.map
+INPUTS ID00070 chr21.0.68.sfq
+OUTPUTS ID00070 chr21.0.68.nocontam.sfq chr21.0.68.contam.sfq
+INPUTS ID00175 chr21.1.74.sfq
+OUTPUTS ID00175 chr21.1.74.nocontam.sfq chr21.1.74.contam.sfq
+INPUTS ID00071 chr21.0.69.sfq
+OUTPUTS ID00071 chr21.0.69.nocontam.sfq chr21.0.69.contam.sfq
+INPUTS ID00176 chr21.1.75.sfq
+OUTPUTS ID00176 chr21.1.75.nocontam.sfq chr21.1.75.contam.sfq
+INPUTS ID00072 chr21.0.70.sfq
+OUTPUTS ID00072 chr21.0.70.nocontam.sfq chr21.0.70.contam.sfq
+INPUTS ID00177 chr21.1.76.sfq
+OUTPUTS ID00177 chr21.1.76.nocontam.sfq chr21.1.76.contam.sfq
+INPUTS ID00730 chr21.BS.bfa chr21.1.35.nocontam.bfq
+OUTPUTS ID00730 chr21.1.35.nocontam.map
+INPUTS ID00073 chr21.0.71.sfq
+OUTPUTS ID00073 chr21.0.71.nocontam.sfq chr21.0.71.contam.sfq
+INPUTS ID00178 chr21.1.77.sfq
+OUTPUTS ID00178 chr21.1.77.nocontam.sfq chr21.1.77.contam.sfq
+INPUTS ID00731 chr21.BS.bfa chr21.1.36.nocontam.bfq
+OUTPUTS ID00731 chr21.1.36.nocontam.map
+INPUTS ID00074 chr21.0.72.sfq
+OUTPUTS ID00074 chr21.0.72.nocontam.sfq chr21.0.72.contam.sfq
+INPUTS ID00179 chr21.1.78.sfq
+OUTPUTS ID00179 chr21.1.78.nocontam.sfq chr21.1.78.contam.sfq
+INPUTS ID00600 chr21.BS.bfa chr21.0.4.nocontam.bfq
+OUTPUTS ID00600 chr21.0.4.nocontam.map
+INPUTS ID00732 chr21.BS.bfa chr21.1.37.nocontam.bfq
+OUTPUTS ID00732 chr21.1.37.nocontam.map
+INPUTS ID00075 chr21.0.73.sfq
+OUTPUTS ID00075 chr21.0.73.nocontam.sfq chr21.0.73.contam.sfq
+INPUTS ID00601 chr21.BS.bfa chr21.0.5.nocontam.bfq
+OUTPUTS ID00601 chr21.0.5.nocontam.map
+INPUTS ID00733 chr21.BS.bfa chr21.1.38.nocontam.bfq
+OUTPUTS ID00733 chr21.1.38.nocontam.map
+INPUTS ID00076 chr21.0.74.sfq
+OUTPUTS ID00076 chr21.0.74.nocontam.sfq chr21.0.74.contam.sfq
+INPUTS ID00602 chr21.BS.bfa chr21.0.6.nocontam.bfq
+OUTPUTS ID00602 chr21.0.6.nocontam.map
+INPUTS ID00734 chr21.BS.bfa chr21.1.39.nocontam.bfq
+OUTPUTS ID00734 chr21.1.39.nocontam.map
+INPUTS ID00180 chr21.1.79.sfq
+OUTPUTS ID00180 chr21.1.79.nocontam.sfq chr21.1.79.contam.sfq
+INPUTS ID00077 chr21.0.75.sfq
+OUTPUTS ID00077 chr21.0.75.nocontam.sfq chr21.0.75.contam.sfq
+INPUTS ID00603 chr21.BS.bfa chr21.0.7.nocontam.bfq
+OUTPUTS ID00603 chr21.0.7.nocontam.map
+INPUTS ID00735 chr21.BS.bfa chr21.1.40.nocontam.bfq
+OUTPUTS ID00735 chr21.1.40.nocontam.map
+INPUTS ID00181 chr21.1.80.sfq
+OUTPUTS ID00181 chr21.1.80.nocontam.sfq chr21.1.80.contam.sfq
+INPUTS ID00078 chr21.0.76.sfq
+OUTPUTS ID00078 chr21.0.76.nocontam.sfq chr21.0.76.contam.sfq
+INPUTS ID00604 chr21.BS.bfa chr21.0.8.nocontam.bfq
+OUTPUTS ID00604 chr21.0.8.nocontam.map
+INPUTS ID00736 chr21.BS.bfa chr21.1.41.nocontam.bfq
+OUTPUTS ID00736 chr21.1.41.nocontam.map
+INPUTS ID00079 chr21.0.77.sfq
+OUTPUTS ID00079 chr21.0.77.nocontam.sfq chr21.0.77.contam.sfq
+INPUTS ID00182 chr21.1.81.sfq
+OUTPUTS ID00182 chr21.1.81.nocontam.sfq chr21.1.81.contam.sfq
+INPUTS ID00605 chr21.BS.bfa chr21.0.9.nocontam.bfq
+OUTPUTS ID00605 chr21.0.9.nocontam.map
+INPUTS ID00737 chr21.BS.bfa chr21.1.42.nocontam.bfq
+OUTPUTS ID00737 chr21.1.42.nocontam.map
+INPUTS ID00183 chr21.1.82.sfq
+OUTPUTS ID00183 chr21.1.82.nocontam.sfq chr21.1.82.contam.sfq
+INPUTS ID00606 chr21.BS.bfa chr21.0.10.nocontam.bfq
+OUTPUTS ID00606 chr21.0.10.nocontam.map
+INPUTS ID00738 chr21.BS.bfa chr21.1.43.nocontam.bfq
+OUTPUTS ID00738 chr21.1.43.nocontam.map
+INPUTS ID00184 chr21.1.83.sfq
+OUTPUTS ID00184 chr21.1.83.nocontam.sfq chr21.1.83.contam.sfq
+INPUTS ID00607 chr21.BS.bfa chr21.0.11.nocontam.bfq
+OUTPUTS ID00607 chr21.0.11.nocontam.map
+INPUTS ID00739 chr21.BS.bfa chr21.1.44.nocontam.bfq
+OUTPUTS ID00739 chr21.1.44.nocontam.map
+INPUTS ID00080 chr21.0.78.sfq
+OUTPUTS ID00080 chr21.0.78.nocontam.sfq chr21.0.78.contam.sfq
+INPUTS ID00185 chr21.1.84.sfq
+OUTPUTS ID00185 chr21.1.84.nocontam.sfq chr21.1.84.contam.sfq
+INPUTS ID00608 chr21.BS.bfa chr21.0.12.nocontam.bfq
+OUTPUTS ID00608 chr21.0.12.nocontam.map
+INPUTS ID00081 chr21.0.79.sfq
+OUTPUTS ID00081 chr21.0.79.nocontam.sfq chr21.0.79.contam.sfq
+INPUTS ID00186 chr21.1.85.sfq
+OUTPUTS ID00186 chr21.1.85.nocontam.sfq chr21.1.85.contam.sfq
+INPUTS ID00740 chr21.BS.bfa chr21.1.45.nocontam.bfq
+OUTPUTS ID00740 chr21.1.45.nocontam.map
+INPUTS ID00609 chr21.BS.bfa chr21.0.13.nocontam.bfq
+OUTPUTS ID00609 chr21.0.13.nocontam.map
+INPUTS ID00082 chr21.0.80.sfq
+OUTPUTS ID00082 chr21.0.80.nocontam.sfq chr21.0.80.contam.sfq
+INPUTS ID00187 chr21.1.86.sfq
+OUTPUTS ID00187 chr21.1.86.nocontam.sfq chr21.1.86.contam.sfq
+INPUTS ID00741 chr21.BS.bfa chr21.1.46.nocontam.bfq
+OUTPUTS ID00741 chr21.1.46.nocontam.map
+INPUTS ID00083 chr21.0.81.sfq
+OUTPUTS ID00083 chr21.0.81.nocontam.sfq chr21.0.81.contam.sfq
+INPUTS ID00188 chr21.1.87.sfq
+OUTPUTS ID00188 chr21.1.87.nocontam.sfq chr21.1.87.contam.sfq
+INPUTS ID00610 chr21.BS.bfa chr21.0.14.nocontam.bfq
+OUTPUTS ID00610 chr21.0.14.nocontam.map
+INPUTS ID00742 chr21.BS.bfa chr21.1.47.nocontam.bfq
+OUTPUTS ID00742 chr21.1.47.nocontam.map
+INPUTS ID00084 chr21.0.82.sfq
+OUTPUTS ID00084 chr21.0.82.nocontam.sfq chr21.0.82.contam.sfq
+INPUTS ID00189 chr21.1.88.sfq
+OUTPUTS ID00189 chr21.1.88.nocontam.sfq chr21.1.88.contam.sfq
+INPUTS ID00611 chr21.BS.bfa chr21.0.15.nocontam.bfq
+OUTPUTS ID00611 chr21.0.15.nocontam.map
+INPUTS ID00743 chr21.BS.bfa chr21.1.48.nocontam.bfq
+OUTPUTS ID00743 chr21.1.48.nocontam.map
+INPUTS ID00085 chr21.0.83.sfq
+OUTPUTS ID00085 chr21.0.83.nocontam.sfq chr21.0.83.contam.sfq
+INPUTS ID00612 chr21.BS.bfa chr21.0.16.nocontam.bfq
+OUTPUTS ID00612 chr21.0.16.nocontam.map
+INPUTS ID00744 chr21.BS.bfa chr21.1.49.nocontam.bfq
+OUTPUTS ID00744 chr21.1.49.nocontam.map
+INPUTS ID00086 chr21.0.84.sfq
+OUTPUTS ID00086 chr21.0.84.nocontam.sfq chr21.0.84.contam.sfq
+INPUTS ID00613 chr21.BS.bfa chr21.0.17.nocontam.bfq
+OUTPUTS ID00613 chr21.0.17.nocontam.map
+INPUTS ID00745 chr21.BS.bfa chr21.1.50.nocontam.bfq
+OUTPUTS ID00745 chr21.1.50.nocontam.map
+INPUTS ID00190 chr21.1.89.sfq
+OUTPUTS ID00190 chr21.1.89.nocontam.sfq chr21.1.89.contam.sfq
+INPUTS ID00087 chr21.0.85.sfq
+OUTPUTS ID00087 chr21.0.85.nocontam.sfq chr21.0.85.contam.sfq
+INPUTS ID00614 chr21.BS.bfa chr21.0.18.nocontam.bfq
+OUTPUTS ID00614 chr21.0.18.nocontam.map
+INPUTS ID00746 chr21.BS.bfa chr21.1.51.nocontam.bfq
+OUTPUTS ID00746 chr21.1.51.nocontam.map
+INPUTS ID00191 chr21.1.90.sfq
+OUTPUTS ID00191 chr21.1.90.nocontam.sfq chr21.1.90.contam.sfq
+INPUTS ID00088 chr21.0.86.sfq
+OUTPUTS ID00088 chr21.0.86.nocontam.sfq chr21.0.86.contam.sfq
+INPUTS ID00615 chr21.BS.bfa chr21.0.19.nocontam.bfq
+OUTPUTS ID00615 chr21.0.19.nocontam.map
+INPUTS ID00747 chr21.BS.bfa chr21.1.52.nocontam.bfq
+OUTPUTS ID00747 chr21.1.52.nocontam.map
+INPUTS ID00192 chr21.1.91.sfq
+OUTPUTS ID00192 chr21.1.91.nocontam.sfq chr21.1.91.contam.sfq
+INPUTS ID00089 chr21.0.87.sfq
+OUTPUTS ID00089 chr21.0.87.nocontam.sfq chr21.0.87.contam.sfq
+INPUTS ID00193 chr21.1.92.sfq
+OUTPUTS ID00193 chr21.1.92.nocontam.sfq chr21.1.92.contam.sfq
+INPUTS ID00616 chr21.BS.bfa chr21.0.20.nocontam.bfq
+OUTPUTS ID00616 chr21.0.20.nocontam.map
+INPUTS ID00748 chr21.BS.bfa chr21.1.53.nocontam.bfq
+OUTPUTS ID00748 chr21.1.53.nocontam.map
+INPUTS ID00194 chr21.1.93.sfq
+OUTPUTS ID00194 chr21.1.93.nocontam.sfq chr21.1.93.contam.sfq
+INPUTS ID00617 chr21.BS.bfa chr21.0.21.nocontam.bfq
+OUTPUTS ID00617 chr21.0.21.nocontam.map
+INPUTS ID00749 chr21.BS.bfa chr21.1.54.nocontam.bfq
+OUTPUTS ID00749 chr21.1.54.nocontam.map
+INPUTS ID00090 chr21.0.88.sfq
+OUTPUTS ID00090 chr21.0.88.nocontam.sfq chr21.0.88.contam.sfq
+INPUTS ID00195 chr21.1.94.sfq
+OUTPUTS ID00195 chr21.1.94.nocontam.sfq chr21.1.94.contam.sfq
+INPUTS ID00618 chr21.BS.bfa chr21.0.22.nocontam.bfq
+OUTPUTS ID00618 chr21.0.22.nocontam.map
+INPUTS ID00091 chr21.0.89.sfq
+OUTPUTS ID00091 chr21.0.89.nocontam.sfq chr21.0.89.contam.sfq
+INPUTS ID00196 chr21.1.95.sfq
+OUTPUTS ID00196 chr21.1.95.nocontam.sfq chr21.1.95.contam.sfq
+INPUTS ID00750 chr21.BS.bfa chr21.1.55.nocontam.bfq
+OUTPUTS ID00750 chr21.1.55.nocontam.map
+INPUTS ID00619 chr21.BS.bfa chr21.0.23.nocontam.bfq
+OUTPUTS ID00619 chr21.0.23.nocontam.map
+INPUTS ID00092 chr21.0.90.sfq
+OUTPUTS ID00092 chr21.0.90.nocontam.sfq chr21.0.90.contam.sfq
+INPUTS ID00197 chr21.1.96.sfq
+OUTPUTS ID00197 chr21.1.96.nocontam.sfq chr21.1.96.contam.sfq
+INPUTS ID00751 chr21.BS.bfa chr21.1.56.nocontam.bfq
+OUTPUTS ID00751 chr21.1.56.nocontam.map
+INPUTS ID00093 chr21.0.91.sfq
+OUTPUTS ID00093 chr21.0.91.nocontam.sfq chr21.0.91.contam.sfq
+INPUTS ID00198 chr21.1.97.sfq
+OUTPUTS ID00198 chr21.1.97.nocontam.sfq chr21.1.97.contam.sfq
+INPUTS ID00094 chr21.0.92.sfq
+OUTPUTS ID00094 chr21.0.92.nocontam.sfq chr21.0.92.contam.sfq
+INPUTS ID00199 chr21.1.98.sfq
+OUTPUTS ID00199 chr21.1.98.nocontam.sfq chr21.1.98.contam.sfq
+INPUTS ID00620 chr21.BS.bfa chr21.0.24.nocontam.bfq
+OUTPUTS ID00620 chr21.0.24.nocontam.map
+INPUTS ID00752 chr21.BS.bfa chr21.1.57.nocontam.bfq
+OUTPUTS ID00752 chr21.1.57.nocontam.map
+INPUTS ID00095 chr21.0.93.sfq
+OUTPUTS ID00095 chr21.0.93.nocontam.sfq chr21.0.93.contam.sfq
+INPUTS ID00621 chr21.BS.bfa chr21.0.25.nocontam.bfq
+OUTPUTS ID00621 chr21.0.25.nocontam.map
+INPUTS ID00753 chr21.BS.bfa chr21.1.58.nocontam.bfq
+OUTPUTS ID00753 chr21.1.58.nocontam.map
+INPUTS ID00096 chr21.0.94.sfq
+OUTPUTS ID00096 chr21.0.94.nocontam.sfq chr21.0.94.contam.sfq
+INPUTS ID00622 chr21.BS.bfa chr21.0.26.nocontam.bfq
+OUTPUTS ID00622 chr21.0.26.nocontam.map
+INPUTS ID00754 chr21.BS.bfa chr21.1.59.nocontam.bfq
+OUTPUTS ID00754 chr21.1.59.nocontam.map
+INPUTS ID00097 chr21.0.95.sfq
+OUTPUTS ID00097 chr21.0.95.nocontam.sfq chr21.0.95.contam.sfq
+INPUTS ID00623 chr21.BS.bfa chr21.0.27.nocontam.bfq
+OUTPUTS ID00623 chr21.0.27.nocontam.map
+INPUTS ID00755 chr21.BS.bfa chr21.1.60.nocontam.bfq
+OUTPUTS ID00755 chr21.1.60.nocontam.map
+INPUTS ID00098 chr21.0.96.sfq
+OUTPUTS ID00098 chr21.0.96.nocontam.sfq chr21.0.96.contam.sfq
+INPUTS ID00624 chr21.BS.bfa chr21.0.28.nocontam.bfq
+OUTPUTS ID00624 chr21.0.28.nocontam.map
+INPUTS ID00756 chr21.BS.bfa chr21.1.61.nocontam.bfq
+OUTPUTS ID00756 chr21.1.61.nocontam.map
+INPUTS ID00099 chr21.0.97.sfq
+OUTPUTS ID00099 chr21.0.97.nocontam.sfq chr21.0.97.contam.sfq
+INPUTS ID00625 chr21.BS.bfa chr21.0.29.nocontam.bfq
+OUTPUTS ID00625 chr21.0.29.nocontam.map
+INPUTS ID00757 chr21.BS.bfa chr21.1.62.nocontam.bfq
+OUTPUTS ID00757 chr21.1.62.nocontam.map
+INPUTS ID00626 chr21.BS.bfa chr21.0.30.nocontam.bfq
+OUTPUTS ID00626 chr21.0.30.nocontam.map
+INPUTS ID00758 chr21.BS.bfa chr21.1.63.nocontam.bfq
+OUTPUTS ID00758 chr21.1.63.nocontam.map
+INPUTS ID00627 chr21.BS.bfa chr21.0.31.nocontam.bfq
+OUTPUTS ID00627 chr21.0.31.nocontam.map
+INPUTS ID00759 chr21.BS.bfa chr21.1.64.nocontam.bfq
+OUTPUTS ID00759 chr21.1.64.nocontam.map
+INPUTS ID00628 chr21.BS.bfa chr21.0.32.nocontam.bfq
+OUTPUTS ID00628 chr21.0.32.nocontam.map
+INPUTS ID00760 chr21.BS.bfa chr21.1.65.nocontam.bfq
+OUTPUTS ID00760 chr21.1.65.nocontam.map
+INPUTS ID00629 chr21.BS.bfa chr21.0.33.nocontam.bfq
+OUTPUTS ID00629 chr21.0.33.nocontam.map
+INPUTS ID00761 chr21.BS.bfa chr21.1.66.nocontam.bfq
+OUTPUTS ID00761 chr21.1.66.nocontam.map
+INPUTS ID00630 chr21.BS.bfa chr21.0.34.nocontam.bfq
+OUTPUTS ID00630 chr21.0.34.nocontam.map
+INPUTS ID00762 chr21.BS.bfa chr21.1.67.nocontam.bfq
+OUTPUTS ID00762 chr21.1.67.nocontam.map
+INPUTS ID00631 chr21.BS.bfa chr21.0.35.nocontam.bfq
+OUTPUTS ID00631 chr21.0.35.nocontam.map
+INPUTS ID00763 chr21.BS.bfa chr21.1.68.nocontam.bfq
+OUTPUTS ID00763 chr21.1.68.nocontam.map
+EDGE ID00302 ID00500
+EDGE ID00434 ID00632
+EDGE ID00566 ID00764
+EDGE ID00303 ID00501
+EDGE ID00435 ID00633
+EDGE ID00567 ID00765
+EDGE ID00304 ID00502
+EDGE ID00436 ID00634
+EDGE ID00568 ID00766
+EDGE ID00305 ID00503
+EDGE ID00437 ID00635
+EDGE ID00569 ID00767
+EDGE ID00306 ID00504
+EDGE ID00438 ID00636
+EDGE ID00570 ID00768
+EDGE ID00307 ID00505
+EDGE ID00439 ID00637
+EDGE ID00571 ID00769
+EDGE ID00308 ID00506
+EDGE ID00440 ID00638
+EDGE ID00572 ID00770
+EDGE ID00309 ID00507
+EDGE ID00441 ID00639
+EDGE ID00573 ID00771
+EDGE ID00310 ID00508
+EDGE ID00442 ID00640
+EDGE ID00574 ID00772
+EDGE ID00311 ID00509
+EDGE ID00443 ID00641
+EDGE ID00575 ID00773
+EDGE ID00312 ID00510
+EDGE ID00444 ID00642
+EDGE ID00576 ID00774
+EDGE ID00313 ID00511
+EDGE ID00445 ID00643
+EDGE ID00577 ID00775
+EDGE ID00314 ID00512
+EDGE ID00446 ID00644
+EDGE ID00578 ID00776
+EDGE ID00315 ID00513
+EDGE ID00447 ID00645
+EDGE ID00579 ID00777
+EDGE ID00316 ID00514
+EDGE ID00448 ID00646
+EDGE ID00580 ID00778
+EDGE ID00449 ID00647
+EDGE ID00581 ID00779
+EDGE ID00317 ID00515
+EDGE ID00450 ID00648
+EDGE ID00318 ID00516
+EDGE ID00451 ID00649
+EDGE ID00582 ID00780
+EDGE ID00319 ID00517
+EDGE ID00583 ID00781
+EDGE ID00320 ID00518
+EDGE ID00452 ID00650
+EDGE ID00584 ID00782
+EDGE ID00321 ID00519
+EDGE ID00453 ID00651
+EDGE ID00585 ID00783
+EDGE ID00322 ID00520
+EDGE ID00454 ID00652
+EDGE ID00586 ID00784
+EDGE ID00323 ID00521
+EDGE ID00455 ID00653
+EDGE ID00587 ID00785
+EDGE ID00324 ID00522
+EDGE ID00456 ID00654
+EDGE ID00588 ID00786
+EDGE ID00325 ID00523
+EDGE ID00457 ID00655
+EDGE ID00589 ID00787
+EDGE ID00590 ID00788
+EDGE ID00326 ID00524
+EDGE ID00458 ID00656
+EDGE ID00591 ID00789
+EDGE ID00327 ID00525
+EDGE ID00459 ID00657
+EDGE ID00328 ID00526
+EDGE ID00460 ID00658
+EDGE ID00329 ID00527
+EDGE ID00461 ID00659
+EDGE ID00592 ID00790
+EDGE ID00593 ID00791
+EDGE ID00330 ID00528
+EDGE ID00594 ID00792
+EDGE ID00462 ID00660
+EDGE ID00331 ID00529
+EDGE ID00595 ID00793
+EDGE ID00463 ID00661
+EDGE ID00675 ID00794
+EDGE ID00674 ID00794
+EDGE ID00677 ID00794
+EDGE ID00676 ID00794
+EDGE ID00679 ID00794
+EDGE ID00678 ID00794
+EDGE ID00671 ID00794
+EDGE ID00670 ID00794
+EDGE ID00673 ID00794
+EDGE ID00672 ID00794
+EDGE ID00600 ID00794
+EDGE ID00602 ID00794
+EDGE ID00601 ID00794
+EDGE ID00604 ID00794
+EDGE ID00603 ID00794
+EDGE ID00688 ID00794
+EDGE ID00687 ID00794
+EDGE ID00686 ID00794
+EDGE ID00685 ID00794
+EDGE ID00689 ID00794
+EDGE ID00680 ID00794
+EDGE ID00684 ID00794
+EDGE ID00683 ID00794
+EDGE ID00682 ID00794
+EDGE ID00681 ID00794
+EDGE ID00597 ID00794
+EDGE ID00598 ID00794
+EDGE ID00599 ID00794
+EDGE ID00649 ID00794
+EDGE ID00596 ID00794
+EDGE ID00657 ID00794
+EDGE ID00656 ID00794
+EDGE ID00659 ID00794
+EDGE ID00658 ID00794
+EDGE ID00653 ID00794
+EDGE ID00652 ID00794
+EDGE ID00655 ID00794
+EDGE ID00654 ID00794
+EDGE ID00651 ID00794
+EDGE ID00650 ID00794
+EDGE ID00669 ID00794
+EDGE ID00668 ID00794
+EDGE ID00667 ID00794
+EDGE ID00666 ID00794
+EDGE ID00665 ID00794
+EDGE ID00664 ID00794
+EDGE ID00663 ID00794
+EDGE ID00662 ID00794
+EDGE ID00661 ID00794
+EDGE ID00660 ID00794
+EDGE ID00632 ID00794
+EDGE ID00633 ID00794
+EDGE ID00630 ID00794
+EDGE ID00631 ID00794
+EDGE ID00636 ID00794
+EDGE ID00637 ID00794
+EDGE ID00634 ID00794
+EDGE ID00635 ID00794
+EDGE ID00629 ID00794
+EDGE ID00628 ID00794
+EDGE ID00627 ID00794
+EDGE ID00640 ID00794
+EDGE ID00641 ID00794
+EDGE ID00642 ID00794
+EDGE ID00643 ID00794
+EDGE ID00644 ID00794
+EDGE ID00645 ID00794
+EDGE ID00646 ID00794
+EDGE ID00647 ID00794
+EDGE ID00648 ID00794
+EDGE ID00639 ID00794
+EDGE ID00638 ID00794
+EDGE ID00614 ID00794
+EDGE ID00615 ID00794
+EDGE ID00612 ID00794
+EDGE ID00613 ID00794
+EDGE ID00610 ID00794
+EDGE ID00611 ID00794
+EDGE ID00692 ID00794
+EDGE ID00693 ID00794
+EDGE ID00694 ID00794
+EDGE ID00609 ID00794
+EDGE ID00608 ID00794
+EDGE ID00607 ID00794
+EDGE ID00606 ID00794
+EDGE ID00690 ID00794
+EDGE ID00605 ID00794
+EDGE ID00691 ID00794
+EDGE ID00623 ID00794
+EDGE ID00624 ID00794
+EDGE ID00625 ID00794
+EDGE ID00626 ID00794
+EDGE ID00620 ID00794
+EDGE ID00621 ID00794
+EDGE ID00622 ID00794
+EDGE ID00617 ID00794
+EDGE ID00616 ID00794
+EDGE ID00619 ID00794
+EDGE ID00618 ID00794
+EDGE ID00332 ID00530
+EDGE ID00464 ID00662
+EDGE ID00770 ID00795
+EDGE ID00772 ID00795
+EDGE ID00771 ID00795
+EDGE ID00778 ID00795
+EDGE ID00777 ID00795
+EDGE ID00779 ID00795
+EDGE ID00774 ID00795
+EDGE ID00773 ID00795
+EDGE ID00776 ID00795
+EDGE ID00775 ID00795
+EDGE ID00701 ID00795
+EDGE ID00700 ID00795
+EDGE ID00703 ID00795
+EDGE ID00702 ID00795
+EDGE ID00783 ID00795
+EDGE ID00782 ID00795
+EDGE ID00781 ID00795
+EDGE ID00780 ID00795
+EDGE ID00789 ID00795
+EDGE ID00788 ID00795
+EDGE ID00787 ID00795
+EDGE ID00786 ID00795
+EDGE ID00785 ID00795
+EDGE ID00784 ID00795
+EDGE ID00710 ID00795
+EDGE ID00714 ID00795
+EDGE ID00713 ID00795
+EDGE ID00712 ID00795
+EDGE ID00711 ID00795
+EDGE ID00706 ID00795
+EDGE ID00707 ID00795
+EDGE ID00704 ID00795
+EDGE ID00790 ID00795
+EDGE ID00705 ID00795
+EDGE ID00792 ID00795
+EDGE ID00791 ID00795
+EDGE ID00708 ID00795
+EDGE ID00793 ID00795
+EDGE ID00709 ID00795
+EDGE ID00721 ID00795
+EDGE ID00720 ID00795
+EDGE ID00723 ID00795
+EDGE ID00722 ID00795
+EDGE ID00725 ID00795
+EDGE ID00724 ID00795
+EDGE ID00715 ID00795
+EDGE ID00716 ID00795
+EDGE ID00717 ID00795
+EDGE ID00718 ID00795
+EDGE ID00719 ID00795
+EDGE ID00735 ID00795
+EDGE ID00736 ID00795
+EDGE ID00733 ID00795
+EDGE ID00734 ID00795
+EDGE ID00731 ID00795
+EDGE ID00732 ID00795
+EDGE ID00730 ID00795
+EDGE ID00729 ID00795
+EDGE ID00728 ID00795
+EDGE ID00727 ID00795
+EDGE ID00726 ID00795
+EDGE ID00744 ID00795
+EDGE ID00745 ID00795
+EDGE ID00746 ID00795
+EDGE ID00747 ID00795
+EDGE ID00740 ID00795
+EDGE ID00741 ID00795
+EDGE ID00742 ID00795
+EDGE ID00743 ID00795
+EDGE ID00738 ID00795
+EDGE ID00737 ID00795
+EDGE ID00739 ID00795
+EDGE ID00753 ID00795
+EDGE ID00754 ID00795
+EDGE ID00751 ID00795
+EDGE ID00752 ID00795
+EDGE ID00757 ID00795
+EDGE ID00758 ID00795
+EDGE ID00755 ID00795
+EDGE ID00756 ID00795
+EDGE ID00750 ID00795
+EDGE ID00695 ID00795
+EDGE ID00749 ID00795
+EDGE ID00748 ID00795
+EDGE ID00696 ID00795
+EDGE ID00697 ID00795
+EDGE ID00698 ID00795
+EDGE ID00699 ID00795
+EDGE ID00762 ID00795
+EDGE ID00763 ID00795
+EDGE ID00764 ID00795
+EDGE ID00765 ID00795
+EDGE ID00766 ID00795
+EDGE ID00767 ID00795
+EDGE ID00768 ID00795
+EDGE ID00769 ID00795
+EDGE ID00760 ID00795
+EDGE ID00761 ID00795
+EDGE ID00759 ID00795
+EDGE ID00333 ID00531
+EDGE ID00465 ID00663
+EDGE ID00794 ID00796
+EDGE ID00795 ID00796
+EDGE ID00202 ID00400
+EDGE ID00334 ID00532
+EDGE ID00466 ID00664
+EDGE ID00796 ID00797
+EDGE ID00203 ID00401
+EDGE ID00335 ID00533
+EDGE ID00467 ID00665
+EDGE ID00797 ID00798
+EDGE ID00204 ID00402
+EDGE ID00336 ID00534
+EDGE ID00468 ID00666
+EDGE ID00205 ID00403
+EDGE ID00337 ID00535
+EDGE ID00469 ID00667
+EDGE ID00206 ID00404
+EDGE ID00338 ID00536
+EDGE ID00470 ID00668
+EDGE ID00207 ID00405
+EDGE ID00339 ID00537
+EDGE ID00471 ID00669
+EDGE ID00208 ID00406
+EDGE ID00340 ID00538
+EDGE ID00209 ID00407
+EDGE ID00341 ID00539
+EDGE ID00472 ID00670
+EDGE ID00210 ID00408
+EDGE ID00473 ID00671
+EDGE ID00211 ID00409
+EDGE ID00342 ID00540
+EDGE ID00474 ID00672
+EDGE ID00343 ID00541
+EDGE ID00475 ID00673
+EDGE ID00212 ID00410
+EDGE ID00344 ID00542
+EDGE ID00476 ID00674
+EDGE ID00213 ID00411
+EDGE ID00345 ID00543
+EDGE ID00477 ID00675
+EDGE ID00214 ID00412
+EDGE ID00346 ID00544
+EDGE ID00478 ID00676
+EDGE ID00215 ID00413
+EDGE ID00347 ID00545
+EDGE ID00479 ID00677
+EDGE ID00216 ID00414
+EDGE ID00348 ID00546
+EDGE ID00480 ID00678
+EDGE ID00217 ID00415
+EDGE ID00349 ID00547
+EDGE ID00481 ID00679
+EDGE ID00218 ID00416
+EDGE ID00350 ID00548
+EDGE ID00219 ID00417
+EDGE ID00351 ID00549
+EDGE ID00482 ID00680
+EDGE ID00483 ID00681
+EDGE ID00220 ID00418
+EDGE ID00352 ID00550
+EDGE ID00484 ID00682
+EDGE ID00221 ID00419
+EDGE ID00353 ID00551
+EDGE ID00485 ID00683
+EDGE ID00222 ID00420
+EDGE ID00354 ID00552
+EDGE ID00486 ID00684
+EDGE ID00223 ID00421
+EDGE ID00355 ID00553
+EDGE ID00487 ID00685
+EDGE ID00224 ID00422
+EDGE ID00356 ID00554
+EDGE ID00488 ID00686
+EDGE ID00225 ID00423
+EDGE ID00357 ID00555
+EDGE ID00489 ID00687
+EDGE ID00226 ID00424
+EDGE ID00358 ID00556
+EDGE ID00490 ID00688
+EDGE ID00227 ID00425
+EDGE ID00359 ID00557
+EDGE ID00491 ID00689
+EDGE ID00228 ID00426
+EDGE ID00360 ID00558
+EDGE ID00229 ID00427
+EDGE ID00361 ID00559
+EDGE ID00492 ID00690
+EDGE ID00230 ID00428
+EDGE ID00493 ID00691
+EDGE ID00362 ID00560
+EDGE ID00494 ID00692
+EDGE ID00231 ID00429
+EDGE ID00363 ID00561
+EDGE ID00495 ID00693
+EDGE ID00496 ID00694
+EDGE ID00232 ID00430
+EDGE ID00364 ID00562
+EDGE ID00497 ID00695
+EDGE ID00233 ID00431
+EDGE ID00365 ID00563
+EDGE ID00498 ID00696
+EDGE ID00102 ID00300
+EDGE ID00234 ID00432
+EDGE ID00366 ID00564
+EDGE ID00499 ID00697
+EDGE ID00103 ID00301
+EDGE ID00235 ID00433
+EDGE ID00367 ID00565
+EDGE ID00500 ID00698
+EDGE ID00104 ID00302
+EDGE ID00236 ID00434
+EDGE ID00368 ID00566
+EDGE ID00501 ID00699
+EDGE ID00105 ID00303
+EDGE ID00237 ID00435
+EDGE ID00369 ID00567
+EDGE ID00106 ID00304
+EDGE ID00238 ID00436
+EDGE ID00370 ID00568
+EDGE ID00107 ID00305
+EDGE ID00239 ID00437
+EDGE ID00371 ID00569
+EDGE ID00108 ID00306
+EDGE ID00240 ID00438
+EDGE ID00109 ID00307
+EDGE ID00241 ID00439
+EDGE ID00372 ID00570
+EDGE ID00373 ID00571
+EDGE ID00110 ID00308
+EDGE ID00242 ID00440
+EDGE ID00374 ID00572
+EDGE ID00111 ID00309
+EDGE ID00243 ID00441
+EDGE ID00375 ID00573
+EDGE ID00112 ID00310
+EDGE ID00244 ID00442
+EDGE ID00376 ID00574
+EDGE ID00113 ID00311
+EDGE ID00245 ID00443
+EDGE ID00377 ID00575
+EDGE ID00114 ID00312
+EDGE ID00246 ID00444
+EDGE ID00378 ID00576
+EDGE ID00115 ID00313
+EDGE ID00247 ID00445
+EDGE ID00379 ID00577
+EDGE ID00116 ID00314
+EDGE ID00248 ID00446
+EDGE ID00380 ID00578
+EDGE ID00117 ID00315
+EDGE ID00249 ID00447
+EDGE ID00381 ID00579
+EDGE ID00118 ID00316
+EDGE ID00250 ID00448
+EDGE ID00119 ID00317
+EDGE ID00251 ID00449
+EDGE ID00382 ID00580
+EDGE ID00120 ID00318
+EDGE ID00383 ID00581
+EDGE ID00252 ID00450
+EDGE ID00384 ID00582
+EDGE ID00121 ID00319
+EDGE ID00253 ID00451
+EDGE ID00385 ID00583
+EDGE ID00122 ID00320
+EDGE ID00254 ID00452
+EDGE ID00386 ID00584
+EDGE ID00123 ID00321
+EDGE ID00255 ID00453
+EDGE ID00387 ID00585
+EDGE ID00124 ID00322
+EDGE ID00256 ID00454
+EDGE ID00388 ID00586
+EDGE ID00125 ID00323
+EDGE ID00257 ID00455
+EDGE ID00389 ID00587
+EDGE ID00126 ID00324
+EDGE ID00258 ID00456
+EDGE ID00390 ID00588
+EDGE ID00259 ID00457
+EDGE ID00391 ID00589
+EDGE ID00127 ID00325
+EDGE ID00260 ID00458
+EDGE ID00128 ID00326
+EDGE ID00261 ID00459
+EDGE ID00129 ID00327
+EDGE ID00392 ID00590
+EDGE ID00130 ID00328
+EDGE ID00393 ID00591
+EDGE ID00131 ID00329
+EDGE ID00262 ID00460
+EDGE ID00394 ID00592
+EDGE ID00263 ID00461
+EDGE ID00395 ID00593
+EDGE ID00132 ID00330
+EDGE ID00264 ID00462
+EDGE ID00396 ID00594
+EDGE ID00133 ID00331
+EDGE ID00265 ID00463
+EDGE ID00397 ID00595
+EDGE ID00002 ID00200
+EDGE ID00134 ID00332
+EDGE ID00266 ID00464
+EDGE ID00398 ID00596
+EDGE ID00003 ID00201
+EDGE ID00135 ID00333
+EDGE ID00267 ID00465
+EDGE ID00399 ID00597
+EDGE ID00004 ID00202
+EDGE ID00136 ID00334
+EDGE ID00268 ID00466
+EDGE ID00400 ID00598
+EDGE ID00005 ID00203
+EDGE ID00137 ID00335
+EDGE ID00269 ID00467
+EDGE ID00401 ID00599
+EDGE ID00006 ID00204
+EDGE ID00138 ID00336
+EDGE ID00270 ID00468
+EDGE ID00007 ID00205
+EDGE ID00139 ID00337
+EDGE ID00271 ID00469
+EDGE ID00008 ID00206
+EDGE ID00140 ID00338
+EDGE ID00009 ID00207
+EDGE ID00141 ID00339
+EDGE ID00272 ID00470
+EDGE ID00010 ID00208
+EDGE ID00273 ID00471
+EDGE ID00142 ID00340
+EDGE ID00274 ID00472
+EDGE ID00011 ID00209
+EDGE ID00143 ID00341
+EDGE ID00275 ID00473
+EDGE ID00012 ID00210
+EDGE ID00144 ID00342
+EDGE ID00276 ID00474
+EDGE ID00013 ID00211
+EDGE ID00145 ID00343
+EDGE ID00277 ID00475
+EDGE ID00014 ID00212
+EDGE ID00146 ID00344
+EDGE ID00278 ID00476
+EDGE ID00015 ID00213
+EDGE ID00147 ID00345
+EDGE ID00279 ID00477
+EDGE ID00016 ID00214
+EDGE ID00148 ID00346
+EDGE ID00280 ID00478
+EDGE ID00017 ID00215
+EDGE ID00149 ID00347
+EDGE ID00281 ID00479
+EDGE ID00018 ID00216
+EDGE ID00150 ID00348
+EDGE ID00019 ID00217
+EDGE ID00151 ID00349
+EDGE ID00020 ID00218
+EDGE ID00282 ID00480
+EDGE ID00021 ID00219
+EDGE ID00283 ID00481
+EDGE ID00152 ID00350
+EDGE ID00284 ID00482
+EDGE ID00153 ID00351
+EDGE ID00285 ID00483
+EDGE ID00022 ID00220
+EDGE ID00154 ID00352
+EDGE ID00286 ID00484
+EDGE ID00023 ID00221
+EDGE ID00155 ID00353
+EDGE ID00287 ID00485
+EDGE ID00024 ID00222
+EDGE ID00156 ID00354
+EDGE ID00288 ID00486
+EDGE ID00025 ID00223
+EDGE ID00157 ID00355
+EDGE ID00289 ID00487
+EDGE ID00026 ID00224
+EDGE ID00158 ID00356
+EDGE ID00290 ID00488
+EDGE ID00027 ID00225
+EDGE ID00159 ID00357
+EDGE ID00291 ID00489
+EDGE ID00028 ID00226
+EDGE ID00160 ID00358
+EDGE ID00029 ID00227
+EDGE ID00161 ID00359
+EDGE ID00292 ID00490
+EDGE ID00030 ID00228
+EDGE ID00293 ID00491
+EDGE ID00031 ID00229
+EDGE ID00162 ID00360
+EDGE ID00294 ID00492
+EDGE ID00163 ID00361
+EDGE ID00295 ID00493
+EDGE ID00032 ID00230
+EDGE ID00164 ID00362
+EDGE ID00296 ID00494
+EDGE ID00033 ID00231
+EDGE ID00165 ID00363
+EDGE ID00297 ID00495
+EDGE ID00000 ID00100
+EDGE ID00034 ID00232
+EDGE ID00166 ID00364
+EDGE ID00298 ID00496
+EDGE ID00001 ID00101
+EDGE ID00035 ID00233
+EDGE ID00167 ID00365
+EDGE ID00299 ID00497
+EDGE ID00001 ID00102
+EDGE ID00036 ID00234
+EDGE ID00168 ID00366
+EDGE ID00300 ID00498
+EDGE ID00001 ID00103
+EDGE ID00037 ID00235
+EDGE ID00169 ID00367
+EDGE ID00301 ID00499
+EDGE ID00001 ID00104
+EDGE ID00038 ID00236
+EDGE ID00170 ID00368
+EDGE ID00001 ID00105
+EDGE ID00039 ID00237
+EDGE ID00171 ID00369
+EDGE ID00001 ID00106
+EDGE ID00040 ID00238
+EDGE ID00000 ID00002
+EDGE ID00001 ID00107
+EDGE ID00041 ID00239
+EDGE ID00172 ID00370
+EDGE ID00000 ID00003
+EDGE ID00001 ID00108
+EDGE ID00173 ID00371
+EDGE ID00000 ID00004
+EDGE ID00001 ID00109
+EDGE ID00000 ID00005
+EDGE ID00042 ID00240
+EDGE ID00174 ID00372
+EDGE ID00000 ID00006
+EDGE ID00043 ID00241
+EDGE ID00175 ID00373
+EDGE ID00000 ID00007
+EDGE ID00001 ID00110
+EDGE ID00044 ID00242
+EDGE ID00176 ID00374
+EDGE ID00001 ID00111
+EDGE ID00045 ID00243
+EDGE ID00177 ID00375
+EDGE ID00000 ID00008
+EDGE ID00001 ID00112
+EDGE ID00046 ID00244
+EDGE ID00178 ID00376
+EDGE ID00000 ID00009
+EDGE ID00001 ID00113
+EDGE ID00047 ID00245
+EDGE ID00179 ID00377
+EDGE ID00001 ID00114
+EDGE ID00048 ID00246
+EDGE ID00180 ID00378
+EDGE ID00000 ID00010
+EDGE ID00001 ID00115
+EDGE ID00049 ID00247
+EDGE ID00181 ID00379
+EDGE ID00000 ID00011
+EDGE ID00001 ID00116
+EDGE ID00050 ID00248
+EDGE ID00000 ID00012
+EDGE ID00001 ID00117
+EDGE ID00051 ID00249
+EDGE ID00182 ID00380
+EDGE ID00000 ID00013
+EDGE ID00001 ID00118
+EDGE ID00183 ID00381
+EDGE ID00000 ID00014
+EDGE ID00001 ID00119
+EDGE ID00052 ID00250
+EDGE ID00184 ID00382
+EDGE ID00000 ID00015
+EDGE ID00053 ID00251
+EDGE ID00185 ID00383
+EDGE ID00000 ID00016
+EDGE ID00001 ID00120
+EDGE ID00054 ID00252
+EDGE ID00186 ID00384
+EDGE ID00000 ID00017
+EDGE ID00001 ID00121
+EDGE ID00055 ID00253
+EDGE ID00187 ID00385
+EDGE ID00000 ID00018
+EDGE ID00001 ID00122
+EDGE ID00056 ID00254
+EDGE ID00188 ID00386
+EDGE ID00000 ID00019
+EDGE ID00001 ID00123
+EDGE ID00057 ID00255
+EDGE ID00189 ID00387
+EDGE ID00001 ID00124
+EDGE ID00058 ID00256
+EDGE ID00190 ID00388
+EDGE ID00000 ID00020
+EDGE ID00001 ID00125
+EDGE ID00059 ID00257
+EDGE ID00191 ID00389
+EDGE ID00000 ID00021
+EDGE ID00001 ID00126
+EDGE ID00060 ID00258
+EDGE ID00000 ID00022
+EDGE ID00001 ID00127
+EDGE ID00061 ID00259
+EDGE ID00192 ID00390
+EDGE ID00000 ID00023
+EDGE ID00001 ID00128
+EDGE ID00193 ID00391
+EDGE ID00000 ID00024
+EDGE ID00001 ID00129
+EDGE ID00062 ID00260
+EDGE ID00194 ID00392
+EDGE ID00000 ID00025
+EDGE ID00063 ID00261
+EDGE ID00195 ID00393
+EDGE ID00000 ID00026
+EDGE ID00001 ID00130
+EDGE ID00064 ID00262
+EDGE ID00196 ID00394
+EDGE ID00000 ID00027
+EDGE ID00001 ID00131
+EDGE ID00065 ID00263
+EDGE ID00197 ID00395
+EDGE ID00000 ID00028
+EDGE ID00001 ID00132
+EDGE ID00066 ID00264
+EDGE ID00198 ID00396
+EDGE ID00000 ID00029
+EDGE ID00001 ID00133
+EDGE ID00067 ID00265
+EDGE ID00199 ID00397
+EDGE ID00001 ID00134
+EDGE ID00068 ID00266
+EDGE ID00200 ID00398
+EDGE ID00069 ID00267
+EDGE ID00201 ID00399
+EDGE ID00000 ID00030
+EDGE ID00001 ID00135
+EDGE ID00070 ID00268
+EDGE ID00000 ID00031
+EDGE ID00001 ID00136
+EDGE ID00071 ID00269
+EDGE ID00000 ID00032
+EDGE ID00001 ID00137
+EDGE ID00000 ID00033
+EDGE ID00001 ID00138
+EDGE ID00000 ID00034
+EDGE ID00001 ID00139
+EDGE ID00072 ID00270
+EDGE ID00000 ID00035
+EDGE ID00073 ID00271
+EDGE ID00000 ID00036
+EDGE ID00001 ID00140
+EDGE ID00074 ID00272
+EDGE ID00000 ID00037
+EDGE ID00001 ID00141
+EDGE ID00075 ID00273
+EDGE ID00000 ID00038
+EDGE ID00001 ID00142
+EDGE ID00076 ID00274
+EDGE ID00000 ID00039
+EDGE ID00001 ID00143
+EDGE ID00077 ID00275
+EDGE ID00001 ID00144
+EDGE ID00078 ID00276
+EDGE ID00000 ID00040
+EDGE ID00001 ID00145
+EDGE ID00079 ID00277
+EDGE ID00000 ID00041
+EDGE ID00001 ID00146
+EDGE ID00080 ID00278
+EDGE ID00502 ID00700
+EDGE ID00000 ID00042
+EDGE ID00001 ID00147
+EDGE ID00081 ID00279
+EDGE ID00503 ID00701
+EDGE ID00000 ID00043
+EDGE ID00001 ID00148
+EDGE ID00504 ID00702
+EDGE ID00000 ID00044
+EDGE ID00001 ID00149
+EDGE ID00505 ID00703
+EDGE ID00082 ID00280
+EDGE ID00000 ID00045
+EDGE ID00083 ID00281
+EDGE ID00000 ID00046
+EDGE ID00001 ID00150
+EDGE ID00084 ID00282
+EDGE ID00000 ID00047
+EDGE ID00506 ID00704
+EDGE ID00001 ID00151
+EDGE ID00085 ID00283
+EDGE ID00000 ID00048
+EDGE ID00507 ID00705
+EDGE ID00001 ID00152
+EDGE ID00086 ID00284
+EDGE ID00000 ID00049
+EDGE ID00508 ID00706
+EDGE ID00001 ID00153
+EDGE ID00087 ID00285
+EDGE ID00509 ID00707
+EDGE ID00001 ID00154
+EDGE ID00088 ID00286
+EDGE ID00510 ID00708
+EDGE ID00000 ID00050
+EDGE ID00001 ID00155
+EDGE ID00089 ID00287
+EDGE ID00511 ID00709
+EDGE ID00000 ID00051
+EDGE ID00001 ID00156
+EDGE ID00090 ID00288
+EDGE ID00000 ID00052
+EDGE ID00001 ID00157
+EDGE ID00091 ID00289
+EDGE ID00512 ID00710
+EDGE ID00000 ID00053
+EDGE ID00001 ID00158
+EDGE ID00513 ID00711
+EDGE ID00000 ID00054
+EDGE ID00001 ID00159
+EDGE ID00514 ID00712
+EDGE ID00515 ID00713
+EDGE ID00092 ID00290
+EDGE ID00000 ID00055
+EDGE ID00516 ID00714
+EDGE ID00093 ID00291
+EDGE ID00000 ID00056
+EDGE ID00001 ID00160
+EDGE ID00094 ID00292
+EDGE ID00000 ID00057
+EDGE ID00517 ID00715
+EDGE ID00001 ID00161
+EDGE ID00095 ID00293
+EDGE ID00000 ID00058
+EDGE ID00518 ID00716
+EDGE ID00001 ID00162
+EDGE ID00096 ID00294
+EDGE ID00000 ID00059
+EDGE ID00519 ID00717
+EDGE ID00001 ID00163
+EDGE ID00097 ID00295
+EDGE ID00520 ID00718
+EDGE ID00001 ID00164
+EDGE ID00098 ID00296
+EDGE ID00521 ID00719
+EDGE ID00000 ID00060
+EDGE ID00001 ID00165
+EDGE ID00099 ID00297
+EDGE ID00000 ID00061
+EDGE ID00001 ID00166
+EDGE ID00100 ID00298
+EDGE ID00522 ID00720
+EDGE ID00000 ID00062
+EDGE ID00001 ID00167
+EDGE ID00101 ID00299
+EDGE ID00523 ID00721
+EDGE ID00000 ID00063
+EDGE ID00001 ID00168
+EDGE ID00524 ID00722
+EDGE ID00000 ID00064
+EDGE ID00001 ID00169
+EDGE ID00525 ID00723
+EDGE ID00000 ID00065
+EDGE ID00526 ID00724
+EDGE ID00000 ID00066
+EDGE ID00527 ID00725
+EDGE ID00001 ID00170
+EDGE ID00000 ID00067
+EDGE ID00001 ID00171
+EDGE ID00000 ID00068
+EDGE ID00528 ID00726
+EDGE ID00001 ID00172
+EDGE ID00000 ID00069
+EDGE ID00529 ID00727
+EDGE ID00001 ID00173
+EDGE ID00530 ID00728
+EDGE ID00001 ID00174
+EDGE ID00531 ID00729
+EDGE ID00000 ID00070
+EDGE ID00001 ID00175
+EDGE ID00000 ID00071
+EDGE ID00001 ID00176
+EDGE ID00000 ID00072
+EDGE ID00001 ID00177
+EDGE ID00532 ID00730
+EDGE ID00000 ID00073
+EDGE ID00001 ID00178
+EDGE ID00533 ID00731
+EDGE ID00000 ID00074
+EDGE ID00001 ID00179
+EDGE ID00402 ID00600
+EDGE ID00534 ID00732
+EDGE ID00000 ID00075
+EDGE ID00403 ID00601
+EDGE ID00535 ID00733
+EDGE ID00000 ID00076
+EDGE ID00404 ID00602
+EDGE ID00536 ID00734
+EDGE ID00001 ID00180
+EDGE ID00000 ID00077
+EDGE ID00405 ID00603
+EDGE ID00537 ID00735
+EDGE ID00001 ID00181
+EDGE ID00000 ID00078
+EDGE ID00406 ID00604
+EDGE ID00538 ID00736
+EDGE ID00000 ID00079
+EDGE ID00001 ID00182
+EDGE ID00407 ID00605
+EDGE ID00539 ID00737
+EDGE ID00001 ID00183
+EDGE ID00408 ID00606
+EDGE ID00540 ID00738
+EDGE ID00001 ID00184
+EDGE ID00409 ID00607
+EDGE ID00541 ID00739
+EDGE ID00000 ID00080
+EDGE ID00001 ID00185
+EDGE ID00410 ID00608
+EDGE ID00000 ID00081
+EDGE ID00001 ID00186
+EDGE ID00542 ID00740
+EDGE ID00411 ID00609
+EDGE ID00000 ID00082
+EDGE ID00001 ID00187
+EDGE ID00543 ID00741
+EDGE ID00000 ID00083
+EDGE ID00001 ID00188
+EDGE ID00412 ID00610
+EDGE ID00544 ID00742
+EDGE ID00000 ID00084
+EDGE ID00001 ID00189
+EDGE ID00413 ID00611
+EDGE ID00545 ID00743
+EDGE ID00000 ID00085
+EDGE ID00414 ID00612
+EDGE ID00546 ID00744
+EDGE ID00000 ID00086
+EDGE ID00415 ID00613
+EDGE ID00547 ID00745
+EDGE ID00001 ID00190
+EDGE ID00000 ID00087
+EDGE ID00416 ID00614
+EDGE ID00548 ID00746
+EDGE ID00001 ID00191
+EDGE ID00000 ID00088
+EDGE ID00417 ID00615
+EDGE ID00549 ID00747
+EDGE ID00001 ID00192
+EDGE ID00000 ID00089
+EDGE ID00001 ID00193
+EDGE ID00418 ID00616
+EDGE ID00550 ID00748
+EDGE ID00001 ID00194
+EDGE ID00419 ID00617
+EDGE ID00551 ID00749
+EDGE ID00000 ID00090
+EDGE ID00001 ID00195
+EDGE ID00420 ID00618
+EDGE ID00000 ID00091
+EDGE ID00001 ID00196
+EDGE ID00552 ID00750
+EDGE ID00421 ID00619
+EDGE ID00000 ID00092
+EDGE ID00001 ID00197
+EDGE ID00553 ID00751
+EDGE ID00000 ID00093
+EDGE ID00001 ID00198
+EDGE ID00000 ID00094
+EDGE ID00001 ID00199
+EDGE ID00422 ID00620
+EDGE ID00554 ID00752
+EDGE ID00000 ID00095
+EDGE ID00423 ID00621
+EDGE ID00555 ID00753
+EDGE ID00000 ID00096
+EDGE ID00424 ID00622
+EDGE ID00556 ID00754
+EDGE ID00000 ID00097
+EDGE ID00425 ID00623
+EDGE ID00557 ID00755
+EDGE ID00000 ID00098
+EDGE ID00426 ID00624
+EDGE ID00558 ID00756
+EDGE ID00000 ID00099
+EDGE ID00427 ID00625
+EDGE ID00559 ID00757
+EDGE ID00428 ID00626
+EDGE ID00560 ID00758
+EDGE ID00429 ID00627
+EDGE ID00561 ID00759
+EDGE ID00430 ID00628
+EDGE ID00562 ID00760
+EDGE ID00431 ID00629
+EDGE ID00563 ID00761
+EDGE ID00432 ID00630
+EDGE ID00564 ID00762
+EDGE ID00433 ID00631
+EDGE ID00565 ID00763

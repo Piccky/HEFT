@@ -1,18 +1,12 @@
-"""
-遗留问题
-    dict 没有根据 keys 排序，sorted函数有问题
-
-"""
-
-try:
-    import xml.etree.cElementTree as ET
-    from heft.util import reverse_dict
-    from heft.core import (wbar, cbar, ranku, schedule, Event, start_time,
+# try:
+# import xml.etree.cElementTree as ET
+from heft.util import reverse_dict
+from heft.core import (wbar, cbar, ranku, schedule, Event, start_time,
                            makespan, endtime, insert_recvs, insert_sends, insert_sendrecvs, recvs,
                            sends)
-    #import itertools as it
-except ImportError:
-    import xml.etree.ElementTree as ET
+#     #import itertools as it
+# except ImportError:
+import xml.etree.ElementTree as ET
 
 # def reverse_dict(d):
 #     """ Reverses direction of dependence dict
@@ -28,10 +22,10 @@ except ImportError:
 #     sorted(result.keys())
 #     return result
 
-tree = ET.parse("Epigenomics_997.xml")  # <class 'xml.etree.ElementTree.ElementTree'>
+tree = ET.parse("H:\Graduation Design\Topic 3\heft-master\Data\LIGO\LIGO.n.50.0.dax")  # <class 'xml.etree.ElementTree.ElementTree'>
 root = tree.getroot()           # 获取根节点 <Element 'data' at 0x02BF6A80>
 # print(root.tag, ":", root.attrib)  # 打印根元素的tag和属性
-# 遍历xml文档的第二层
+# 遍历xml文档的第二层5
 dict = {}
 jobs_tup = ()
 # job_dict = {}
@@ -137,17 +131,27 @@ def commcost(ni, nj, A, B):
                     for p in jdict:
                         if k == p:
                             size += int(jdict[p])
-        time = float(size/10485760)
+                if size != 0:
+                    break
+        time = int(size/1024)
         return time
 # print(commcost('ID00000','ID00005','A','B'))
         # link = "output" size="4167312" file="region.hdr
 
+vm = 'abcdef'
 
-orders, jobson = schedule(dag, 'abc', compcost, commcost)
+orders, jobson = schedule(dag, vm, compcost, commcost)
 """print orders"""
 for eachP in sorted(orders):
     print(eachP, orders[eachP])
 # print(orders['a'][0][0],orders['a'][0][1],orders['a'][0][2])
 # print(jobson)
+# print(makespan(orders))
+
 def getorders():
     return orders
+
+
+def getvm():
+    return vm
+
